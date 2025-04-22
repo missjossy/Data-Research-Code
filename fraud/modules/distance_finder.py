@@ -11,54 +11,66 @@ import pandas as pd
 from datetime import timedelta
 from collections import defaultdict
 
-def lev_win(data, window_days, rep_threshold,  similarity_threshold):
+def lev_win(data, window_days, rep_threshold, similarity_threshold):
     # Sort the data by HASH and DATE
     data_sorted = data.sort_values(['HASH', 'SURVEY_DATE'])
+    
+    # Ensure SURVEY_DATE is datetime
+    if not pd.api.types.is_datetime64_any_dtype(data_sorted['SURVEY_DATE']):
+        data_sorted['SURVEY_DATE'] = pd.to_datetime(data_sorted['SURVEY_DATE'])
     
     # Create a fraud DataFrame to store duplications
     fraud_records = []
     
     # Group by HASH to process each individual's records
     for hash_val, group in data_sorted.groupby('HASH'):
-        # Iterate through each record in the group
-        for i, current_row in group.iterrows():
-            current_date = current_row['SURVEY_DATE']
-            current_address = str(current_row['ADDRESS'])
+        # Convert addresses to strings once
+        addresses = group['ADDRESS'].astype(str).values
+        dates = pd.to_datetime(group['SURVEY_DATE']).values  # Ensure dates are datetime64
+        
+        # Pre-calculate window indices for each record
+        window_indices = []
+        for i, current_date in enumerate(dates):
+            window_start = pd.Timestamp(current_date) - pd.Timedelta(days=window_days)
+            window_mask = (dates >= window_start) & (dates < current_date)
+            window_indices.append(np.where(window_mask)[0])
+        
+        # Process each record
+        for i, (current_address, current_row) in enumerate(zip(addresses, group.itertuples())):
+            # Get indices of records in the window
+            prior_indices = window_indices[i]
             
-            # Define the sliding window (prior records)
-            window_start = current_date - timedelta(days=window_days)
-            prior_window = group[
-                (group['SURVEY_DATE'] >= window_start) & 
-                (group['SURVEY_DATE'] < current_date)
-            ]
-            
-            # Track similar addresses in the window
-            similar_addresses = defaultdict(list)
-            
-            # Check each record in the prior window
-            for _, prior_row in prior_window.iterrows():
-                prior_address = str(prior_row['ADDRESS'])
+            if len(prior_indices) == 0:
+                continue
                 
-                # Calculate Levenshtein distance
-                try:
-                    distance = lev_distance(current_address, prior_address)
-                    
-                    # If addresses are similar enough, record the similarity
-                    if distance <= similarity_threshold:
-                        similar_addresses[current_address].append(prior_address)
-                
-                except Exception as e:
-                    print(f"Error calculating distance between {current_address} and {prior_address}: {e}")
+            # Calculate distances for all prior addresses at once
+            prior_addresses = addresses[prior_indices]
+            distances = np.array([lev_distance(current_address, addr) for addr in prior_addresses])
             
-            # Check if the current address triggers the fraud condition
-            for prior_addr, similar_prior_addrs in similar_addresses.items():
-                if len(similar_prior_addrs) > rep_threshold:  # 3rd or more similar address
-                    fraud_record = current_row.to_dict()
-                    fraud_record['FRAUD_TYPE'] = 'MULTIPLE_ADDRESS_DUPLICATIONS'
-                    fraud_record['SIMILAR_PRIOR_ADDRESS'] = prior_addr
-                    fraud_record['SIMILAR_ADDRESSES_COUNT'] = len(similar_prior_addrs) + 1
-                    
-                    fraud_records.append(fraud_record)
+            # Find similar addresses
+            similar_mask = distances <= similarity_threshold
+            similar_count = np.sum(similar_mask)
+            
+            if similar_count > rep_threshold:
+                # Get the most similar prior address
+                most_similar_idx = prior_indices[np.argmin(distances)]
+                most_similar_addr = addresses[most_similar_idx]
+                
+                fraud_record = {
+                    'HASH': current_row.HASH,
+                    'SURVEY_DATE': current_row.SURVEY_DATE,
+                    'ADDRESS': current_row.ADDRESS,
+                    'FRAUD_TYPE': 'MULTIPLE_ADDRESS_DUPLICATIONS',
+                    'SIMILAR_PRIOR_ADDRESS': most_similar_addr,
+                    'SIMILAR_ADDRESSES_COUNT': similar_count + 1
+                }
+                
+                # Add any additional columns from the original data
+                for col in group.columns:
+                    if col not in fraud_record:
+                        fraud_record[col] = getattr(current_row, col)
+                
+                fraud_records.append(fraud_record)
     
     # Convert fraud records to DataFrame
     fraud_df = pd.DataFrame(fraud_records)
@@ -66,61 +78,170 @@ def lev_win(data, window_days, rep_threshold,  similarity_threshold):
     return fraud_df
 
 
-def lev_win_multi(data, window_days,  addsim_threshold, possim_threshold, rep_threshold):
+def lev_win_multi(data, window_days, addsim_threshold, possim_threshold, rep_threshold):
     # Sort the data by HASH and DATE
     data_sorted = data.sort_values(['HASH', 'SURVEY_DATE'])
+    
+    # Ensure SURVEY_DATE is datetime
+    if not pd.api.types.is_datetime64_any_dtype(data_sorted['SURVEY_DATE']):
+        data_sorted['SURVEY_DATE'] = pd.to_datetime(data_sorted['SURVEY_DATE'])
     
     # Create a fraud DataFrame to store duplications
     fraud_records = []
     
     # Group by HASH to process each individual's records
     for hash_val, group in data_sorted.groupby('HASH'):
-        # Iterate through each record in the group
-        for i, current_row in group.iterrows():
-            current_date = current_row['SURVEY_DATE']
-            current_address = str(current_row['ADDRESS'])
-            current_pos = str(current_row['POSITION'])
-            current_ind = str(current_row['INDUSTRY'])
-
-            # Define the sliding window (prior records)
-            window_start = current_date - timedelta(days=window_days)
-            prior_window = group[
-                (group['SURVEY_DATE'] >= window_start) & 
-                (group['SURVEY_DATE'] < current_date)
-            ]
+        # Convert all relevant fields to strings once
+        addresses = group['ADDRESS'].astype(str).values
+        positions = group['POSITION'].astype(str).values
+        industries = group['INDUSTRY'].astype(str).values
+        dates = pd.to_datetime(group['SURVEY_DATE']).values
+        
+        # Pre-calculate window indices for each record
+        window_indices = []
+        for i, current_date in enumerate(dates):
+            window_start = pd.Timestamp(current_date) - pd.Timedelta(days=window_days)
+            window_mask = (dates >= window_start) & (dates < current_date)
+            window_indices.append(np.where(window_mask)[0])
+        
+        # Process each record
+        for i, (current_address, current_pos, current_ind, current_row) in enumerate(
+            zip(addresses, positions, industries, group.itertuples())
+        ):
+            # Get indices of records in the window
+            prior_indices = window_indices[i]
             
-            # Track similar addresses in the window
-            similar_addresses = defaultdict(list)
-            
-            # Check each record in the prior window
-            for _, prior_row in prior_window.iterrows():
-                prior_address = str(prior_row['ADDRESS'])
-                prior_pos = str(prior_row['POSITION'])
-                prior_ind = str(prior_row['INDUSTRY'])
+            if len(prior_indices) == 0:
+                continue
                 
-                # Calculate Levenshtein distance
-                try:
-                    add_distance = lev_distance(current_address, prior_address)
-                    pos_distance = lev_distance(current_pos, prior_pos)
-                    ind_distance =  lev_distance(current_ind, prior_ind)
-
-                    
-                    # If addresses are similar enough, record the similarity
-                    if add_distance <= addsim_threshold & pos_distance <= possim_threshold & ind_distance <=1:
-                        similar_addresses[current_address].append(prior_address)
-                
-                except Exception as e:
-                    print(f"Error calculating distance between {current_address} and {prior_address}: {e}")
+            # Get prior records' data
+            prior_addresses = addresses[prior_indices]
+            prior_positions = positions[prior_indices]
+            prior_industries = industries[prior_indices]
             
-            # Check if the current address triggers the fraud condition
-            for prior_addr, similar_prior_addrs in similar_addresses.items():
-                if len(similar_prior_addrs) > rep_threshold:  # 3rd or more similar address
-                    fraud_record = current_row.to_dict()
-                    fraud_record['FRAUD_TYPE'] = 'MULTIPLE_ADD_IND_POS_DUPS'
-                    fraud_record['SIMILAR_PRIOR_ADDRESS'] = prior_addr
-                    fraud_record['SIMILAR_SURVEY_COUNT'] = len(similar_prior_addrs) + 1
-                    
-                    fraud_records.append(fraud_record)
+            # Calculate distances for all fields at once
+            add_distances = np.array([lev_distance(current_address, addr) for addr in prior_addresses])
+            pos_distances = np.array([lev_distance(current_pos, pos) for pos in prior_positions])
+            ind_distances = np.array([lev_distance(current_ind, ind) for ind in prior_industries])
+            
+            # Find similar records based on all criteria
+            similar_mask = (
+                (add_distances <= addsim_threshold) & 
+                (pos_distances <= possim_threshold) & 
+                (ind_distances <= 1)
+            )
+            similar_count = np.sum(similar_mask)
+            
+            if similar_count > rep_threshold:
+                # Get the most similar prior record
+                most_similar_idx = prior_indices[np.argmin(add_distances + pos_distances + ind_distances)]
+                most_similar_addr = addresses[most_similar_idx]
+                
+                fraud_record = {
+                    'HASH': current_row.HASH,
+                    'SURVEY_DATE': current_row.SURVEY_DATE,
+                    'ADDRESS': current_row.ADDRESS,
+                    'POSITION': current_row.POSITION,
+                    'INDUSTRY': current_row.INDUSTRY,
+                    'FRAUD_TYPE': 'MULTIPLE_ADD_IND_POS_DUPS',
+                    'SIMILAR_PRIOR_ADDRESS': most_similar_addr,
+                    'SIMILAR_SURVEY_COUNT': similar_count + 1
+                }
+                
+                # Add all original columns from the current row
+                for col in group.columns:
+                    if col not in fraud_record:
+                        fraud_record[col] = getattr(current_row, col)
+                
+                fraud_records.append(fraud_record)
+    
+    # Convert fraud records to DataFrame
+    if fraud_records:
+        fraud_df = pd.DataFrame(fraud_records)
+        # Ensure all original columns are present, even if empty
+        for col in data.columns:
+            if col not in fraud_df.columns:
+                fraud_df[col] = None
+    else:
+        # If no fraud records found, create empty DataFrame with all original columns
+        fraud_df = pd.DataFrame(columns=data.columns)
+        fraud_df['FRAUD_TYPE'] = None
+        fraud_df['SIMILAR_PRIOR_ADDRESS'] = None
+        fraud_df['SIMILAR_SURVEY_COUNT'] = None
+    
+    # Ensure DISBURSED and DR1 columns exist and are numeric
+    if 'DISBURSED' not in fraud_df.columns:
+        fraud_df['DISBURSED'] = 0
+    if 'DR1' not in fraud_df.columns:
+        fraud_df['DR1'] = 0
+    
+    fraud_df['DISBURSED'] = pd.to_numeric(fraud_df['DISBURSED'], errors='coerce').fillna(0)
+    fraud_df['DR1'] = pd.to_numeric(fraud_df['DR1'], errors='coerce').fillna(0)
+    
+    return fraud_df
+
+
+def lev_pos_win(data, window_days, rep_threshold, pos_sim_threshold):
+    # Sort the data by HASH and DATE
+    data_sorted = data.sort_values(['HASH', 'SURVEY_DATE'])
+    
+    # Ensure SURVEY_DATE is datetime
+    if not pd.api.types.is_datetime64_any_dtype(data_sorted['SURVEY_DATE']):
+        data_sorted['SURVEY_DATE'] = pd.to_datetime(data_sorted['SURVEY_DATE'])
+    
+    # Create a fraud DataFrame to store duplications
+    fraud_records = []
+    
+    # Group by HASH to process each individual's records
+    for hash_val, group in data_sorted.groupby('HASH'):
+        # Convert addresses to strings once
+        positions = group['POSITION'].astype(str).values
+        dates = pd.to_datetime(group['SURVEY_DATE']).values  # Ensure dates are datetime64
+        
+        # Pre-calculate window indices for each record
+        window_indices = []
+        for i, current_date in enumerate(dates):
+            window_start = pd.Timestamp(current_date) - pd.Timedelta(days=window_days)
+            window_mask = (dates >= window_start) & (dates < current_date)
+            window_indices.append(np.where(window_mask)[0])
+        
+        # Process each record
+        for i, (current_pos, current_row) in enumerate(zip(positions, group.itertuples())):
+            # Get indices of records in the window
+            prior_indices = window_indices[i]
+            
+            if len(prior_indices) == 0:
+                continue
+                
+            # Calculate distances for all prior addresses at once
+            prior_positions = positions[prior_indices]
+            distances = np.array([lev_distance(current_pos, addr) for addr in prior_positions])
+            
+            # Find similar addresses
+            similar_mask = distances <= pos_sim_threshold
+            similar_count = np.sum(similar_mask)
+            
+            if similar_count > rep_threshold:
+                # Get the most similar prior address
+                most_similar_idx = prior_indices[np.argmin(distances)]
+                most_similar_pos = positions[most_similar_idx]
+                
+                fraud_record = {
+                    'HASH': current_row.HASH,
+                    'SURVEY_DATE': current_row.SURVEY_DATE,
+                    'ADDRESS': current_row.ADDRESS,
+                    'POSITION': current_row.POSITION,
+                    'FRAUD_TYPE': 'MULTIPLE_POSITION_DUPLICATIONS',
+                    'SIMILAR_PRIOR_POSITION': most_similar_pos,
+                    'SIMILAR_POSITIONS_COUNT': similar_count + 1
+                }
+                
+                # Add any additional columns from the original data
+                for col in group.columns:
+                    if col not in fraud_record:
+                        fraud_record[col] = getattr(current_row, col)
+                
+                fraud_records.append(fraud_record)
     
     # Convert fraud records to DataFrame
     fraud_df = pd.DataFrame(fraud_records)
@@ -128,59 +249,170 @@ def lev_win_multi(data, window_days,  addsim_threshold, possim_threshold, rep_th
     return fraud_df
 
 
-def lev_win_opt(data, window_days, rep_threshold,  similarity_threshold):
+def lev_win_multi_pos(data, window_days, possim_threshold, addsim_threshold, rep_threshold):
     # Sort the data by HASH and DATE
     data_sorted = data.sort_values(['HASH', 'SURVEY_DATE'])
-    group = data_sorted.groupby('HASH')
-    current_date = group['SURVEY_DATE']
-    current_address  = group['ADDRESS']
-    current_row = group.iloc(i)
+    
+    # Ensure SURVEY_DATE is datetime
+    if not pd.api.types.is_datetime64_any_dtype(data_sorted['SURVEY_DATE']):
+        data_sorted['SURVEY_DATE'] = pd.to_datetime(data_sorted['SURVEY_DATE'])
     
     # Create a fraud DataFrame to store duplications
     fraud_records = []
-    window_start = current_date - timedelta(days=window_days)
-    prior_window = group[
-        (group['SURVEY_DATE'] >= window_start) & 
-        (group['SURVEY_DATE'] < current_date)
-    ]
-    
-    # Track similar addresses in the window
-    similar_addresses = defaultdict(list)
-    
-    # Check each record in the prior window
-    for _, prior_row in prior_window.iterrows():
-        prior_address = str(prior_row['ADDRESS'])
-        
-        # Calculate Levenshtein distance
-        try:
-            distance = lev_distance(group['SURVEY_DATE'], prior_address)
-            
-            # If addresses are similar enough, record the similarity
-            if distance <= similarity_threshold:
-                similar_addresses[current_address].append(prior_address)
-        
-        except Exception as e:
-            print(f"Error calculating distance between {current_address} and {prior_address}: {e}")
-    
-    # Check if the current address triggers the fraud condition
-    # for prior_addr, similar_prior_addrs in similar_addresses.items():
-        if len(similar_prior_addrs) > rep_threshold:  # 3rd or more similar address
-            fraud_record = current_row.to_dict()
-            fraud_record['FRAUD_TYPE'] = 'MULTIPLE_ADDRESS_DUPLICATIONS'
-            fraud_record['SIMILAR_PRIOR_ADDRESS'] = prior_addr
-            fraud_record['SIMILAR_ADDRESSES_COUNT'] = len(similar_prior_addrs) + 1
-            
-            fraud_records.append(fraud_record)
     
     # Group by HASH to process each individual's records
-    # for hash_val, group in data_sorted.groupby('HASH'):
-    #     # # Iterate through each record in the group
-        # for i, current_row in group.iterrows():
-        #     current_date = current_row['SURVEY_DATE']
-        #     current_address = str(current_row['ADDRESS'])
+    for hash_val, group in data_sorted.groupby('HASH'):
+        # Convert all relevant fields to strings once
+        positions = group['POSITION'].astype(str).values
+        addresses = group['ADDRESS'].astype(str).values
+        industries = group['INDUSTRY'].astype(str).values
+        dates = pd.to_datetime(group['SURVEY_DATE']).values
+        
+        # Pre-calculate window indices for each record
+        window_indices = []
+        for i, current_date in enumerate(dates):
+            window_start = pd.Timestamp(current_date) - pd.Timedelta(days=window_days)
+            window_mask = (dates >= window_start) & (dates < current_date)
+            window_indices.append(np.where(window_mask)[0])
+        
+        # Process each record
+        for i, (current_pos, current_addr, current_ind, current_row) in enumerate(
+            zip(positions, addresses, industries, group.itertuples())
+        ):
+            # Get indices of records in the window
+            prior_indices = window_indices[i]
             
-            # Define the sliding window (prior records)
+            if len(prior_indices) == 0:
+                continue
+                
+            # Get prior records' data
+            prior_positions = positions[prior_indices]
+            prior_addresses = addresses[prior_indices]
+            prior_industries = industries[prior_indices]
             
+            # Calculate distances for all fields at once
+            pos_distances = np.array([lev_distance(current_pos, pos) for pos in prior_positions])
+            add_distances = np.array([lev_distance(current_addr, addr) for addr in prior_addresses])
+            ind_distances = np.array([lev_distance(current_ind, ind) for ind in prior_industries])
+            
+            # Find similar records based on all criteria, with position check first
+            similar_mask = (
+                (pos_distances <= possim_threshold) & 
+                (add_distances <= addsim_threshold) & 
+                (ind_distances <= 1)
+            )
+            similar_count = np.sum(similar_mask)
+            
+            if similar_count > rep_threshold:
+                # Get the most similar prior record (weighting position more heavily)
+                combined_distances = pos_distances * 2 + add_distances + ind_distances
+                most_similar_idx = prior_indices[np.argmin(combined_distances)]
+                most_similar_pos = positions[most_similar_idx]
+                most_similar_addr = addresses[most_similar_idx]
+                
+                fraud_record = {
+                    'HASH': current_row.HASH,
+                    'SURVEY_DATE': current_row.SURVEY_DATE,
+                    'ADDRESS': current_row.ADDRESS,
+                    'POSITION': current_row.POSITION,
+                    'INDUSTRY': current_row.INDUSTRY,
+                    'FRAUD_TYPE': 'MULTIPLE_POS_ADD_IND_DUPS',
+                    'SIMILAR_PRIOR_POSITION': most_similar_pos,
+                    'SIMILAR_PRIOR_ADDRESS': most_similar_addr,
+                    'SIMILAR_SURVEY_COUNT': similar_count + 1
+                }
+                
+                # Add any additional columns from the original data
+                for col in group.columns:
+                    if col not in fraud_record:
+                        fraud_record[col] = getattr(current_row, col)
+                
+                fraud_records.append(fraud_record)
+    
+    # Convert fraud records to DataFrame
+    fraud_df = pd.DataFrame(fraud_records)
+    
+    return fraud_df
+
+def lev_win_pos_ind(data, window_days, possim_threshold,  rep_threshold):
+    # Sort the data by HASH and DATE
+    data_sorted = data.sort_values(['HASH', 'SURVEY_DATE'])
+    
+    # Ensure SURVEY_DATE is datetime
+    if not pd.api.types.is_datetime64_any_dtype(data_sorted['SURVEY_DATE']):
+        data_sorted['SURVEY_DATE'] = pd.to_datetime(data_sorted['SURVEY_DATE'])
+    
+    # Create a fraud DataFrame to store duplications
+    fraud_records = []
+    
+    # Group by HASH to process each individual's records
+    for hash_val, group in data_sorted.groupby('HASH'):
+        # Convert all relevant fields to strings once
+        positions = group['POSITION'].astype(str).values
+        addresses = group['ADDRESS'].astype(str).values
+        industries = group['INDUSTRY'].astype(str).values
+        dates = pd.to_datetime(group['SURVEY_DATE']).values
+        
+        # Pre-calculate window indices for each record
+        window_indices = []
+        for i, current_date in enumerate(dates):
+            window_start = pd.Timestamp(current_date) - pd.Timedelta(days=window_days)
+            window_mask = (dates >= window_start) & (dates < current_date)
+            window_indices.append(np.where(window_mask)[0])
+        
+        # Process each record
+        for i, (current_pos, current_addr, current_ind, current_row) in enumerate(
+            zip(positions, addresses, industries, group.itertuples())
+        ):
+            # Get indices of records in the window
+            prior_indices = window_indices[i]
+            
+            if len(prior_indices) == 0:
+                continue
+                
+            # Get prior records' data
+            prior_positions = positions[prior_indices]
+            prior_addresses = addresses[prior_indices]
+            prior_industries = industries[prior_indices]
+            
+            # Calculate distances for all fields at once
+            pos_distances = np.array([lev_distance(current_pos, pos) for pos in prior_positions])
+            add_distances = np.array([lev_distance(current_addr, addr) for addr in prior_addresses])
+            ind_distances = np.array([lev_distance(current_ind, ind) for ind in prior_industries])
+            
+            # Find similar records based on all criteria, with position check first
+            similar_mask = (
+                (pos_distances <= possim_threshold) & 
+                #(add_distances <= addsim_threshold) & 
+                (ind_distances <= 1)
+            )
+            similar_count = np.sum(similar_mask)
+            
+            if similar_count > rep_threshold:
+                # Get the most similar prior record (weighting position more heavily)
+                combined_distances = pos_distances * 2 + add_distances + ind_distances
+                most_similar_idx = prior_indices[np.argmin(combined_distances)]
+                most_similar_pos = positions[most_similar_idx]
+                most_similar_addr = addresses[most_similar_idx]
+                
+                fraud_record = {
+                    'HASH': current_row.HASH,
+                    'SURVEY_DATE': current_row.SURVEY_DATE,
+                    'ADDRESS': current_row.ADDRESS,
+                    'POSITION': current_row.POSITION,
+                    'INDUSTRY': current_row.INDUSTRY,
+                    'FRAUD_TYPE': 'MULTIPLE_POS_ADD_IND_DUPS',
+                    'SIMILAR_PRIOR_POSITION': most_similar_pos,
+                    'SIMILAR_PRIOR_ADDRESS': most_similar_addr,
+                    'SIMILAR_SURVEY_COUNT': similar_count + 1
+                }
+                
+                # Add any additional columns from the original data
+                for col in group.columns:
+                    if col not in fraud_record:
+                        fraud_record[col] = getattr(current_row, col)
+                
+                fraud_records.append(fraud_record)
     
     # Convert fraud records to DataFrame
     fraud_df = pd.DataFrame(fraud_records)
