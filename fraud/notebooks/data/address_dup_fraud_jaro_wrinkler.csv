@@ -1,0 +1,28 @@
+,HASH,CLIENT_ID,SURVEY_WEEK,SURVEY_DATE,ADDRESS,EMAIL,POSITION,DISB_DATE,INDUSTRY,DISBURSED,DR1,DEFAULTED,PTFRAUD,FRAUD_TYPE,SIMILAR_PRIOR_ADDRESS,SIMILAR_ADDRESSES_COUNT,ADDRESS_SIMILARITY,IS_WHITELISTED,DEFAULT_RATE,dup_limit
+0,ebytc,970883810,2024-01-08,2024-01-08 15:32:22,TB 74 Teberebe,,I sell vegetables ,,Trade - Retail,0,0,0,0,MULTIPLE_ADDRESS_DUPLICATIONS,TB 74 Teberebe,7,1.0,False,0.0,6
+1,ebytc,25063580,2024-01-08,2024-01-11 14:38:15,TB 74 Teberebe,,I sell indomie ,2024-01-11 15:08:35.000,Trade - Retail,1,1,0,1,MULTIPLE_ADDRESS_DUPLICATIONS,TB 74 Teberebe,8,1.0,False,1.0,6
+2,ebytc,100427810,2024-01-08,2024-01-11 16:16:55,TB 74 Teberebe,,am a carpenter,2024-01-11 16:19:46.000,Trade - Retail,1,1,0,1,MULTIPLE_ADDRESS_DUPLICATIONS,TB 74 Teberebe,9,1.0,False,1.0,6
+3,ebzzb,306062419,2024-11-04,2024-11-10 10:18:36,Amist Hotel,prosperbrabi64@gmail.com,Owner,2024-11-10 16:38:23.000,Construction,1,1,0,1,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,7,1.0,False,1.0,6
+4,ebzzb,579969086,2024-11-04,2024-11-10 18:43:35,Amist Hotel,christiestevens16@gmail.com,Owner,,Construction,0,0,0,0,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,8,1.0,False,0.0,6
+5,ebzzb,277002821,2024-11-04,2024-11-10 19:13:51,Amist Hotel,amusemichael@gmail.com,Owner,2024-11-10 21:19:03.000,Beauty,1,1,1,0,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,9,1.0,False,1.0,6
+6,ebzzb,784723745,2024-11-04,2024-11-10 22:03:42,Amist Hotel,godfredopoku439439@gmail.com,CEO,,Real Estate,0,0,0,0,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,10,1.0,False,0.0,6
+7,ebzzb,66112088,2024-11-11,2024-11-11 18:19:52,Amist Hotel,michaelallotey390@gmail.com,Owner,2024-11-11 21:26:50.000,Construction,1,1,0,1,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,11,1.0,False,1.0,6
+8,ebzzb,152992665,2024-11-11,2024-11-11 22:40:55,Amist Hotel,donkohhayford739@gmail.com,Owner,2024-11-12 21:16:01.000,Construction,1,1,0,1,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,12,1.0,False,1.0,6
+9,ebzzb,327103160,2024-11-11,2024-11-12 12:20:34,Amist Hotel,brightwiafe23@gmail.com,Owner,2024-11-12 14:35:50.000,Construction,1,1,0,1,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,13,1.0,False,1.0,6
+10,ebzzb,117846829,2024-11-11,2024-11-13 20:07:02,Amist Hotel,cudjoewendy242@gmail.com,Owner,2024-11-14 14:26:38.000,Beauty,1,1,0,1,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,14,1.0,False,1.0,6
+11,ebzzb,774996691,2024-11-11,2024-11-14 11:29:58,Amist Hotel,horsuemmanuel733@gmail.com,Owner,,Construction,0,0,0,0,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,15,1.0,False,0.0,6
+12,ebzzb,45931120,2024-11-11,2024-11-14 18:48:33,Amist Hotel,,Owner,,Construction,0,0,0,0,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,16,1.0,False,0.0,6
+13,ebzzc,350101374,2024-10-21,2024-10-23 22:15:38,Santa Maria,dadarich26@gmail.com,driver ,2024-10-23 22:17:57.000,Logistics,1,0,0,0,MULTIPLE_ADDRESS_DUPLICATIONS,Santa Maria,7,1.0,False,0.0,6
+14,ecny2,985150360,2024-09-09,2024-09-14 21:52:14,plot 65 block b,,worker ,2024-09-15 09:17:06.000,Food Industry,1,1,0,1,MULTIPLE_ADDRESS_DUPLICATIONS,plot 65 block b,7,1.0,False,1.0,6
+15,ecny2,922166254,2024-09-09,2024-09-15 11:33:46,plot 65 block b,ahmed23019400@gmail.comh,okr,,Food Industry,0,0,0,0,MULTIPLE_ADDRESS_DUPLICATIONS,plot 65 block b,8,1.0,False,0.0,6
+16,ecny2,888854463,2024-09-09,2024-09-15 16:38:35,plot 65 block b,phameskid22@gmail.com,woker,,Food Industry,0,0,0,0,MULTIPLE_ADDRESS_DUPLICATIONS,plot 65 block b,9,1.0,False,0.0,6
+17,ecpb2,577604576,2024-12-09,2024-12-09 18:21:13,kasoa offankor,godwi14asante@gmail.com,nurse,2024-12-09 19:27:48.000,Healthcare,1,1,0,1,MULTIPLE_ADDRESS_DUPLICATIONS,kasoa offankor,7,1.0,False,1.0,6
+18,ecpcw,185026376,2024-09-02,2024-09-03 18:07:28,Hi school Ayikuma Dodowa,EbenezerOgum1999@gmail.com,A developer and salesman,,Construction,0,0,0,0,MULTIPLE_ADDRESS_DUPLICATIONS,Hi school Ayikuma Dodowa,7,1.0,False,0.0,6
+19,ecpcw,674488005,2024-09-02,2024-09-03 18:15:48,Hi school Ayikuma Dodowa,MamleEunice1974@gmail.com,A Hairstylist ,,Beauty,0,0,0,0,MULTIPLE_ADDRESS_DUPLICATIONS,Hi school Ayikuma Dodowa,8,1.0,False,0.0,6
+20,ecpcw,214018011,2024-09-02,2024-09-06 13:06:16,Hi school Ayikuma Dodowa,DanezeAzela1965@gmail.com,Land developer ,,Construction,0,0,0,0,MULTIPLE_ADDRESS_DUPLICATIONS,Hi school Ayikuma Dodowa,9,1.0,False,0.0,6
+21,ecpcw,814245315,2024-09-09,2024-09-14 09:29:46,Hi school Ayikuma Dodowa,DoraAkoto1991@gmail.com,Hairstylist ,,Beauty,0,0,0,0,MULTIPLE_ADDRESS_DUPLICATIONS,Hi school Ayikuma Dodowa,10,1.0,False,0.0,6
+22,ecpcw,958901836,2024-09-09,2024-09-14 10:26:34,Hi school Ayikuma Dodowa,NarteySoyo1986@gmail.com,A Land developer ,,Construction,0,0,0,0,MULTIPLE_ADDRESS_DUPLICATIONS,Hi school Ayikuma Dodowa,11,1.0,False,0.0,6
+23,ecpfb,77937480,2024-11-25,2024-11-29 13:36:33,Brong Densuso,mavisotengntriwaa89@gmail.com,Im the owner ,,Trade - Retail,0,0,0,0,MULTIPLE_ADDRESS_DUPLICATIONS,Brong Densuso,7,1.0,False,0.0,6
+24,ecpfb,436665151,2024-12-09,2024-12-10 11:17:43,Brong Densuso,esteragyeibea@gmail.com,Im the owner ,,Trade - Import/Export,0,0,0,0,MULTIPLE_ADDRESS_DUPLICATIONS,Brong Densuso,7,1.0,False,0.0,6
+25,ecxvx,993311853,2024-12-30,2024-12-30 19:02:21,Nayilifong south,alhassanibrahim05995648@gmail.com,Nurse ,,Education,0,0,0,0,MULTIPLE_ADDRESS_DUPLICATIONS,Nayilifong south,7,1.0,False,0.0,6
+26,ecxvx,759171940,2024-12-30,2024-12-30 19:15:27,Nayilifong south,yakubuyussuf921@gmail.com,Bologu JHS,,Education,0,0,0,0,MULTIPLE_ADDRESS_DUPLICATIONS,Nayilifong south,8,1.0,False,0.0,6

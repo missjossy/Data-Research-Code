@@ -10,35 +10,53 @@ def add_bplots(data ):
     plt.title('DR Distribution by Address Duplication Count')
     plt.plot()
 
-def add_chart(data, title):
-    ## summary = data[data['DISBURSED'] == 1]
-    summary = data[data['COUNT'] > 1]
-    summary = summary.groupby(['COUNT']).agg(
-        nloans = ('DISBURSED', sum),
-        ndefaults = ('DR1', sum)
-    )
-    summary['dr1'] = summary['ndefaults']/summary['nloans']
-    summary = summary.reset_index()
-    fig, ax1 = plt.subplots(figsize=(10, 4))
+def add_multi_chart(output1, title, dup_col, var_col):
+    # Create the plot
 
-
-    bars = ax1.bar(summary['COUNT'], summary['nloans'], color='skyblue', label='Count')
-    ax1.set_xlabel('Monthly Address Duplication')
-    ax1.set_ylabel('nLoans', color='black')
-    ax1.tick_params(axis='y', labelcolor='black')
-
-    ax1.set_xticks(summary['COUNT'])
-    ax1.set_xticklabels(summary['COUNT'], rotation=90)
-    # Create a second y-axis
+    fig, ax1 = plt.subplots(figsize=(14, 8))
     ax2 = ax1.twinx()
-    ax2.plot(summary['COUNT'],summary['dr1'], color='red', marker='o', linestyle='-', linewidth=2, label='Rate')
-    ax2.set_ylabel('Default Rate', color='black')
-    ax2.tick_params(axis='y', labelcolor='black')
 
-    for bar in bars: 
-        height = bar.get_height()
-        ax1.text(bar.get_x() + bar.get_width()/2, height, f'{height}', ha='center', va='bottom', fontsize=10, color='black')
+    # Define a colormap
+    colors = plt.cm.tab10(np.linspace(0, 1, len(output1[var_col].unique())))
+    color_dict = {val: colors[i] for i, val in enumerate(sorted(output1[var_col].unique()))}
+
+    # Plot bars and lines for each value in var_col
+    for i, val in enumerate(sorted(output1[var_col].unique())):
+        subset = output1[output1[var_col] == val]
+        
+        # Add slight offset to x positions for each value to avoid overlap
+        width = 0.15
+        offset = (i - len(output1[var_col].unique())/2) * width
+        
+        # Plot n_disbursed as bars
+        bars = ax1.bar(subset[dup_col] + offset, subset['n_disbursed'], 
+                    width=width, color=color_dict[val], alpha=0.7,
+                    label=f'n_disbursed ({var_col}={val})')
+        
+        # Plot dr as lines with markers
+        line = ax2.plot(subset[dup_col] + offset, subset['dr'], 
+                    linestyle='-', marker='o', color=color_dict[val],
+                    alpha=1.0, linewidth=2,
+                    label=f'dr ({var_col}={val})')
+        for bar in bars: 
+            height = bar.get_height()
+            ax1.text(bar.get_x() + bar.get_width()/2, height, f'{height}', ha='center', va='bottom', fontsize=10, color='black')
 
 
-    plt.title(title)
-    return summary ##plt.show()
+    # Set labels and title
+    ax1.set_xlabel(dup_col, fontsize=12)
+    ax1.set_ylabel('n_disbursed', fontsize=12, color='black')
+    ax2.set_ylabel('dr (Default Rate)', fontsize=12, color='black')
+
+    # Combine legends from both axes
+    lines1, labels1 = ax1.get_legend_handles_labels()
+    lines2, labels2 = ax2.get_legend_handles_labels()
+    ax1.legend(lines1 + lines2, labels1 + labels2, loc='upper left', fontsize=10)
+
+    # Set title
+    plt.title(title, fontsize=14)
+
+    # Adjust layout and display
+    plt.tight_layout()
+    plt.grid(True, alpha=0.3)
+    plt.show()

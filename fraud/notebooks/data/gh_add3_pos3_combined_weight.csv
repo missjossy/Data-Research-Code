@@ -1,0 +1,689 @@
+,HASH,SURVEY_DATE,ADDRESS,POSITION,INDUSTRY,FRAUD_TYPE,SIMILAR_PRIOR_ADDRESS,SIMILAR_PRIOR_POSITION,SIMILAR_SURVEY_COUNT,COMBINED_DISTANCE,ADDRESS_DISTANCE,POSITION_DISTANCE,CLIENT_ID,SURVEY_WEEK,EMAIL,DISB_DATE,DISBURSED,DR1,DEFAULTED,PTFRAUD
+0,ebyez,2024-06-11 21:32:43,HM Hotel,,,MULTIPLE_WEIGHTED_DUPS,new site,nan,4,6,6,0,727938720,2024-06-10,,,0,0,0,0
+1,ebyez,2024-06-11 21:32:43,HM Hotel,,,MULTIPLE_WEIGHTED_DUPS,new site,nan,4,6,6,0,727938720,2024-06-10,,2024-06-11 21:36:32.000,1,0,0,0
+2,ebyez,2024-09-23 15:55:53,Esi Allua,,,MULTIPLE_WEIGHTED_DUPS,Ekuba Avenue,nan,5,8,8,0,770555074,2024-09-23,arhinklinsmann010@gmail.com,,0,0,0,0
+3,ebyez,2024-09-27 10:10:24,plot 161,,,MULTIPLE_WEIGHTED_DUPS,pipe ano,nan,4,6,6,0,603129358,2024-09-23,memphisquaicoe@gmail.com,,0,0,0,0
+4,ebyez,2024-10-02 08:38:23,BP 382,,,MULTIPLE_WEIGHTED_DUPS,RS BLAY,nan,5,6,6,0,545070223,2024-09-30,rodwave797@gmail.com,,0,0,0,0
+5,ebyez,2024-10-02 19:53:20,air force,,,MULTIPLE_WEIGHTED_DUPS,Emf Estate,nan,6,8,8,0,126920804,2024-09-30,,,0,0,0,0
+6,ebyez,2024-10-04 09:40:13,Mber st,,,MULTIPLE_WEIGHTED_DUPS,RS BLAY,nan,7,7,7,0,161810167,2024-09-30,,,0,0,0,0
+7,ebygb,2024-07-22 10:56:17,Takoradi Technical University,,,MULTIPLE_WEIGHTED_DUPS,Takoradi Technical University,nan,4,0,0,0,520178541,2024-07-22,,2024-07-22 10:58:07.000,1,0,0,0
+8,ebygb,2024-07-28 17:33:40,near park,,,MULTIPLE_WEIGHTED_DUPS,Asare Oppong,nan,4,8,8,0,98873061,2024-07-22,anyimeduyaw@gmail.com,,0,0,0,0
+9,ebygb,2024-07-29 10:46:21,Accra Ghana,,,MULTIPLE_WEIGHTED_DUPS,Accra Ghana,nan,4,0,0,0,789430773,2024-07-29,wilfredseidleramoah@gmail.com,2024-07-29 10:49:48.000,1,0,0,0
+10,ebyh8,2024-10-20 10:24:01,AHOBRE 1,TEACHER,Education,MULTIPLE_WEIGHTED_DUPS,AHOBRE 1,TEACHER ,4,3,0,1,776946950,2024-10-14,www.arloomonica222@gmail.com,2024-10-20 10:25:10.000,1,1,0,1
+11,ebyh8,2024-10-20 10:53:18,AHOBRE 1,TEACHER,Education,MULTIPLE_WEIGHTED_DUPS,AHOBRE 1,TEACHER,5,0,0,0,668084800,2024-10-14,www.annanpatrick44@gmail.com,2024-10-20 10:59:37.000,1,0,0,0
+12,ebyh8,2024-10-24 06:02:23,AHOBRE 1,TEACHER ,Education,MULTIPLE_WEIGHTED_DUPS,AHOBRE 1,TEACHER ,4,0,0,0,740441033,2024-10-21,www.kotsia555@gmail.com,,0,0,0,0
+13,ebyh8,2024-10-24 06:57:28,AHOBRE 2,HEADMASTER ,Education,MULTIPLE_WEIGHTED_DUPS,AHOBRE 2,HEADMASTER ,4,0,0,0,153076413,2024-10-21,,,0,0,0,0
+14,ebyh8,2024-10-25 11:26:33,AHOBRE I,TEACHER,Education,MULTIPLE_WEIGHTED_DUPS,AHOBRE 1,TEACHER,7,1,1,0,138760652,2024-10-21,www.kwesiatta1234@gmail.com,,0,0,0,0
+15,ebyk4,2024-07-05 11:47:26,ESIAMA SCHOOL,,,MULTIPLE_WEIGHTED_DUPS,ESIAMA SDA SCHOOL,nan,4,4,4,0,133539979,2024-07-01,,2024-07-05 11:54:52.000,1,1,0,1
+16,ebyk4,2024-07-06 09:49:55,ESIAMA SCHOOL,,,MULTIPLE_WEIGHTED_DUPS,ESIAMA SCHOOL,nan,5,0,0,0,998392155,2024-07-01,,,0,0,0,0
+17,ebysp,2024-05-30 14:56:35,nanakrakojo street,Trader,Trade - Wholesale,MULTIPLE_WEIGHTED_DUPS,nanakrakojo street,Trader,4,0,0,0,21421147,2024-05-27,,,0,0,0,0
+18,ebyu0,2024-04-23 12:27:40,PT 125,,,MULTIPLE_WEIGHTED_DUPS,Ash foam,nan,5,7,7,0,433515003,2024-04-22,morrisonjackieb@gmail.com,,0,0,0,0
+19,ebyu0,2024-05-25 10:30:26,hospital street,,,MULTIPLE_WEIGHTED_DUPS,Jamkay Street,nan,4,8,8,0,932036175,2024-05-20,franciscudjoeru@gmail.com,,0,0,0,0
+20,ebyu0,2024-06-27 10:46:42,Bogie Aly,,,MULTIPLE_WEIGHTED_DUPS,De mod,nan,4,7,7,0,906413317,2024-06-24,owusumanasseh160@gmail.com,2024-06-27 10:48:24.000,1,1,0,1
+21,ebyu0,2024-07-08 16:18:28,Red house,,,MULTIPLE_WEIGHTED_DUPS,De mod,nan,4,6,6,0,372186020,2024-07-08,,2024-07-08 16:31:52.000,1,0,0,0
+22,ebyu0,2024-07-10 09:47:07,Nana Owuo,,,MULTIPLE_WEIGHTED_DUPS,dw avenue,nan,4,7,7,0,362115803,2024-07-08,bonnakoffi455@gmail.com,,0,0,0,0
+23,ebyu0,2024-07-15 12:08:08,grace hope,,,MULTIPLE_WEIGHTED_DUPS,Raas lodge,nan,5,7,7,0,912017722,2024-07-15,afraafrifalinda@gmail.com,,0,0,0,0
+24,ebyu0,2024-07-21 07:27:28,Kikam 1,,,MULTIPLE_WEIGHTED_DUPS,dw avenue,nan,4,8,8,0,70510502,2024-07-15,,,0,0,0,0
+25,ebyu0,2024-07-26 14:09:17,Hansen Road,,,MULTIPLE_WEIGHTED_DUPS,Boundary road,nan,4,8,8,0,254466048,2024-07-22,randomiix07@gmail.com,2024-08-02 11:57:09.000,1,1,0,1
+26,ebyu0,2024-07-28 21:57:42,DC 732,,,MULTIPLE_WEIGHTED_DUPS,H M,nan,4,5,5,0,314270218,2024-07-22,,,0,0,0,0
+27,ebyu0,2024-07-31 18:26:50,nana opoku,,,MULTIPLE_WEIGHTED_DUPS,phone boot,nan,4,8,8,0,562662034,2024-07-29,mosesbrabenyah1992@gmail.com,,0,0,0,0
+28,ebyu0,2024-08-01 15:52:36,GBC bank,,,MULTIPLE_WEIGHTED_DUPS,DC 732,nan,6,6,6,0,61588109,2024-07-29,georgepeters2729@gmail.com,,0,0,0,0
+29,ebyu0,2024-08-10 12:30:05,Ohenaba Road,,,MULTIPLE_WEIGHTED_DUPS,Hansen Road,nan,4,6,6,0,960660970,2024-08-05,addodante@gmail.com,2024-08-10 12:33:41.000,1,0,0,0
+30,ebyu6,2024-07-02 16:16:53,Ghana gas,factory worker ,Industry/Manufacturing,MULTIPLE_WEIGHTED_DUPS,Ghana gas,factory worker,4,3,0,1,70695220,2024-07-01,anthonyglover333@gmail.com,2024-07-02 16:18:32.000,1,0,0,0
+31,ebyu6,2024-07-16 17:27:29,Ghana gas,factory worker ,Industry/Manufacturing,MULTIPLE_WEIGHTED_DUPS,Ghana gas,factory worker ,4,0,0,0,188975250,2024-07-15,martinmensah64@gmai.com,2024-07-16 17:29:59.000,1,0,0,0
+32,ebyu6,2024-07-17 00:13:57,Ghana Gas,Factory worker,Industry/Manufacturing,MULTIPLE_WEIGHTED_DUPS,Ghana gas,Factory worker,5,1,1,0,312475389,2024-07-15,ohenebasea15@gmail.com,2024-08-11 09:22:39.000,1,0,0,0
+33,ebyw4,2024-05-07 22:45:24,Duncan street,,,MULTIPLE_WEIGHTED_DUPS,Fawoade street,nan,4,6,6,0,230244027,2024-05-06,yeboahraymond1234@gmail.com,,0,0,0,0
+34,ebyw4,2024-05-11 09:57:59,Tarkwa street 2,,,MULTIPLE_WEIGHTED_DUPS,Fawoade street,nan,4,8,8,0,949311976,2024-05-06,,,0,0,0,0
+35,ebyw4,2024-05-15 18:59:41,panuel street,,,MULTIPLE_WEIGHTED_DUPS,Duncan street,nan,4,5,5,0,150086994,2024-05-13,marteyruth99@gmail.com,2024-05-15 19:04:25.000,1,0,0,0
+36,ebyw4,2024-05-18 11:58:50,layout street,,,MULTIPLE_WEIGHTED_DUPS,panuel street,nan,5,5,5,0,732033247,2024-05-13,,,0,0,0,0
+37,ebyw4,2024-09-09 16:33:56,bethel road,,,MULTIPLE_WEIGHTED_DUPS,Adimbra road,nan,4,7,7,0,751984627,2024-09-09,,,0,0,0,0
+38,ebyw4,2024-09-13 21:24:49,BD 347,,,MULTIPLE_WEIGHTED_DUPS,B line,nan,4,5,5,0,55026500,2024-09-09,roseohenewaa17@gmail.com,2024-10-02 08:42:56.000,1,0,0,0
+39,ebyw4,2024-09-16 22:50:04,PT 571/1,,,MULTIPLE_WEIGHTED_DUPS,B line,nan,4,7,7,0,428648735,2024-09-16,Quarteypaul06@gmail.com,2024-09-16 22:52:29.000,1,0,0,0
+40,ebzj4,2024-01-19 12:59:48,Dr bello street,,,MULTIPLE_WEIGHTED_DUPS,Anwomaso street,nan,4,7,7,0,908088085,2024-01-15,michaelinanhyira@icloud.com,,0,0,0,0
+41,ebzj4,2024-01-22 15:07:07,sablasu street,,,MULTIPLE_WEIGHTED_DUPS,Anwomaso street,nan,5,6,6,0,387062783,2024-01-22,Matildaeyiahmensah@gmail.com,2024-01-22 15:45:21.000,1,0,0,0
+42,ebzj4,2024-01-22 18:21:10,Uptown street,,,MULTIPLE_WEIGHTED_DUPS,ayifua street,nan,6,6,6,0,596541941,2024-01-22,Pentolasabir@gmail.com,2024-03-21 01:54:50.000,1,0,0,0
+43,ebzj4,2024-01-27 01:53:56,Abura 3,,,MULTIPLE_WEIGHTED_DUPS,AN 29,nan,5,6,6,0,58705717,2024-01-22,yusifmb2@gmail.com,2024-01-29 16:08:06.000,1,0,0,0
+44,ebzj4,2024-01-28 14:44:22,Attakrom street,,,MULTIPLE_WEIGHTED_DUPS,Anwomaso street,nan,6,7,7,0,937606964,2024-01-22,dsimonyirchel@gmail.com,,0,0,0,0
+45,ebzj4,2024-01-31 21:42:52,Do ile street,,,MULTIPLE_WEIGHTED_DUPS,Dr bello street,nan,5,5,5,0,92866649,2024-01-29,www.mandeeyaabdulrazak@gmail.com,,0,0,0,0
+46,ebzj4,2024-02-05 22:05:37,Freedom Street,,,MULTIPLE_WEIGHTED_DUPS,Attakrom street,nan,5,7,7,0,894459991,2024-02-05,akosuaafriyie@gmail.com,,0,0,0,0
+47,ebzj4,2024-02-06 08:45:29,kweikuma street,,,MULTIPLE_WEIGHTED_DUPS,Attakrom street,nan,6,7,7,0,507463536,2024-02-05,,,0,0,0,0
+48,ebzj4,2024-02-11 19:43:47,A25 Banor street,,,MULTIPLE_WEIGHTED_DUPS,Attakrom street,nan,4,7,7,0,443331423,2024-02-05,gamortseye@gmail.com,2024-02-11 19:58:27.000,1,0,0,0
+49,ebzj4,2024-02-19 14:33:28,Castle road,,,MULTIPLE_WEIGHTED_DUPS,kwaprow road,nan,4,6,6,0,822359927,2024-02-19,doniusyoung135@gmail.com,,0,0,0,0
+50,ebzj4,2024-02-28 09:08:34,MTN mast,,,MULTIPLE_WEIGHTED_DUPS,Mallam,nan,4,6,6,0,939569117,2024-02-26,vidadogbeda@gmail.com,2024-02-28 09:13:29.000,1,0,0,0
+51,ebzj4,2024-02-29 07:51:38,Cape coast,,,MULTIPLE_WEIGHTED_DUPS,Castle road,nan,6,6,6,0,991300040,2024-02-26,esmeella7@gmail.com,,0,0,0,0
+52,ebzj4,2024-04-16 22:17:30,Akyim street,,,MULTIPLE_WEIGHTED_DUPS,Prabiw Street,nan,6,6,6,0,356708321,2024-04-15,,2024-04-16 22:25:51.000,1,0,0,0
+53,ebzj4,2024-04-19 06:53:56,Tikobo 1,,,MULTIPLE_WEIGHTED_DUPS,Bisaaso 80,nan,4,7,7,0,906507249,2024-04-15,bmawuliannan@gmail.com,,0,0,0,0
+54,ebzj4,2024-04-22 12:40:57,Mahodwe street,,,MULTIPLE_WEIGHTED_DUPS,maahodwo street,nan,6,3,3,0,385365473,2024-04-22,Edwardabaidoo2004@gmail.com,2024-04-22 15:30:53.000,1,0,0,0
+55,ebzj4,2024-06-01 09:24:02,KTS 74,,,MULTIPLE_WEIGHTED_DUPS,DK 27,nan,4,5,5,0,861356395,2024-05-27,adjeibright032@gmail.com,,0,0,0,0
+56,ebzj4,2024-06-01 11:16:01,Eagles nest,,,MULTIPLE_WEIGHTED_DUPS,Abele street,nan,4,7,7,0,67000136,2024-05-27,benedictaakuadarkwaayewuboh@gmail.com,,0,0,0,0
+57,ebzj4,2024-06-02 23:47:42,Joko street,,,MULTIPLE_WEIGHTED_DUPS,Abele street,nan,5,5,5,0,117896313,2024-05-27,,2024-06-02 23:50:26.000,1,0,0,0
+58,ebzj4,2024-06-06 12:58:00,UMaT 2,,,MULTIPLE_WEIGHTED_DUPS,DK 27,nan,5,5,5,0,156513402,2024-06-03,,,0,0,0,0
+59,ebzj4,2024-06-09 17:22:42,Old site,,,MULTIPLE_WEIGHTED_DUPS,KTS 74,nan,6,7,7,0,848050571,2024-06-03,quainoorichard15@gmail.com,,0,0,0,0
+60,ebzj4,2024-06-10 02:27:23,Nmai Street,,,MULTIPLE_WEIGHTED_DUPS,Zagato Street,nan,5,5,5,0,595823945,2024-06-10,mamoudsadick3@gmail.com,,0,0,0,0
+61,ebzj4,2024-06-11 16:50:28,osei hostel,,,MULTIPLE_WEIGHTED_DUPS,Exousia hostel,nan,5,5,5,0,120871840,2024-06-10,bizay1235@gmail.com,,0,0,0,0
+62,ebzj4,2024-06-12 00:10:39,old site,,,MULTIPLE_WEIGHTED_DUPS,Old site,nan,8,1,1,0,307592500,2024-06-10,ampahangelina97@gmail.com,,0,0,0,0
+63,ebzj4,2024-06-15 11:56:44,Lotty street,,,MULTIPLE_WEIGHTED_DUPS,Joko street,nan,4,4,4,0,530369987,2024-06-10,comfortcobbah20@gmail.com,2024-06-15 12:00:33.000,1,0,0,0
+64,ebzj4,2024-06-19 09:08:51,214 Pedu,,,MULTIPLE_WEIGHTED_DUPS,Old site,nan,5,7,7,0,626639371,2024-06-17,mnimo350@gmail.com,2024-06-20 13:03:56.000,1,0,0,0
+65,ebzj4,2024-06-19 15:48:29,Ogua hall,,,MULTIPLE_WEIGHTED_DUPS,Triple hill,nan,8,7,7,0,485764825,2024-06-17,edemnutsugah77@gmail.com,,0,0,0,0
+66,ebzj4,2024-06-21 22:51:54,Odo rice,,,MULTIPLE_WEIGHTED_DUPS,Old site,nan,5,4,4,0,886146820,2024-06-17,kissik04@gmail.com,,0,0,0,0
+67,ebzj4,2024-06-24 00:24:29,COCOA ST,,,MULTIPLE_WEIGHTED_DUPS,Old site,nan,6,8,8,0,277622816,2024-06-24,davidsono857@gmail.com,,0,0,0,0
+68,ebzj4,2024-06-24 18:29:26,AD 52,,,MULTIPLE_WEIGHTED_DUPS,old site,nan,6,7,7,0,220688701,2024-06-24,nanakwakuprince45@gmail.com,,0,0,0,0
+69,ebzj4,2024-06-27 17:28:25,Bouku 73,,,MULTIPLE_WEIGHTED_DUPS,COCOA ST,nan,6,7,7,0,850160578,2024-06-24,,,0,0,0,0
+70,ebzj4,2024-06-29 10:06:19,Roman Road,,,MULTIPLE_WEIGHTED_DUPS,Sunyani road,nan,5,6,6,0,132350753,2024-06-24,wsylvester003@gmail.com,2024-07-13 12:01:55.000,1,0,0,0
+71,ebzj4,2024-06-30 12:48:54,Guinea st,,,MULTIPLE_WEIGHTED_DUPS,Ogua hall,nan,6,8,8,0,44674343,2024-06-24,tawiahtracy71@gmail.com,2024-06-30 17:02:38.000,1,0,0,0
+72,ebzj4,2024-07-01 13:11:17,Adusu street,,,MULTIPLE_WEIGHTED_DUPS,Akwadum street,nan,4,5,5,0,526746473,2024-07-01,shamsudeennurudeen313@gmail.com,,0,0,0,0
+73,ebzj4,2024-07-02 14:01:53,Market street,,,MULTIPLE_WEIGHTED_DUPS,Aggrey Street,nan,6,6,6,0,218868699,2024-07-01,bransonartiki0@gmail.com,,0,0,0,0
+74,ebzj4,2024-07-04 14:56:40,Ave St.,,,MULTIPLE_WEIGHTED_DUPS,AD 52,nan,8,5,5,0,660738938,2024-07-01,leonatamakloe714@gmail.com,,0,0,0,0
+75,ebzj4,2024-07-04 17:28:20,Amamoma Street,,,MULTIPLE_WEIGHTED_DUPS,Aggrey Street,nan,5,6,6,0,686915377,2024-07-01,wisdomsidzalim@gmail.com,,0,0,0,0
+76,ebzj4,2024-07-04 20:54:11,carbin street,,,MULTIPLE_WEIGHTED_DUPS,Market street,nan,7,4,4,0,207644214,2024-07-01,Charlesferdinandannan@gmail.com,,0,0,0,0
+77,ebzj4,2024-07-08 21:14:45,Anibri Street,,,MULTIPLE_WEIGHTED_DUPS,Aggrey Street,nan,7,5,5,0,350070847,2024-07-08,,,0,0,0,0
+78,ebzj4,2024-07-10 17:40:54,Flower Street,,,MULTIPLE_WEIGHTED_DUPS,Aggrey Street,nan,8,5,5,0,747419674,2024-07-08,marthazaasumah@gmail.com,2024-08-16 19:17:50.000,1,0,0,0
+79,ebzj4,2024-07-13 00:35:33,Maakro street,,,MULTIPLE_WEIGHTED_DUPS,Market street,nan,8,3,3,0,972107579,2024-07-08,dannyvone266@gmail.com,,0,0,0,0
+80,ebzj4,2024-07-13 12:12:47,ANS 39,,,MULTIPLE_WEIGHTED_DUPS,Ave St.,nan,5,5,5,0,146474552,2024-07-08,Jamesofosu86@gmail.com,,0,0,0,0
+81,ebzj4,2024-07-13 22:51:59,GA1184349 g,,,MULTIPLE_WEIGHTED_DUPS,GA1184349 g,nan,6,0,0,0,863627829,2024-07-08,,2024-07-13 22:53:44.000,1,0,0,0
+82,ebzj4,2024-07-15 15:11:43,12th street,,,MULTIPLE_WEIGHTED_DUPS,Adusu street,nan,8,5,5,0,284061039,2024-07-15,misshetty16@gmail.com,2024-10-23 08:57:08.000,1,0,0,0
+83,ebzj4,2024-07-15 17:26:21,Abilba street,,,MULTIPLE_WEIGHTED_DUPS,Adusu street,nan,10,5,5,0,322259474,2024-07-15,asackiyasimon@gmail.com,,0,0,0,0
+84,ebzj4,2024-07-16 15:41:14,Block 33B,,,MULTIPLE_WEIGHTED_DUPS,Bs 003,nan,5,7,7,0,257794330,2024-07-15,jamesnaamwinso@gmail.com,,0,0,0,0
+85,ebzj4,2024-07-17 08:55:06,Osebele street,,,MULTIPLE_WEIGHTED_DUPS,Market street,nan,9,6,6,0,719036085,2024-07-15,ayivimary9@gmail.com,,0,0,0,0
+86,ebzj4,2024-07-17 14:47:19,olooti street,,,MULTIPLE_WEIGHTED_DUPS,Flower Street,nan,9,5,5,0,396780087,2024-07-15,maabobkuu@gmail.com,,0,0,0,0
+87,ebzj4,2024-07-22 16:17:28,Aflao Road,,,MULTIPLE_WEIGHTED_DUPS,beach road,nan,5,6,6,0,674429845,2024-07-22,jonathanakuaku2020@gmail.com,,0,0,0,0
+88,ebzj4,2024-07-24 13:21:56,Bus top,,,MULTIPLE_WEIGHTED_DUPS,Bs 003,nan,8,4,4,0,238272439,2024-07-22,keledomson050329@gmail.com,,0,0,0,0
+89,ebzj4,2024-07-25 17:18:39,Annan Street,,,MULTIPLE_WEIGHTED_DUPS,Flower Street,nan,8,6,6,0,757162409,2024-07-22,,,0,0,0,0
+90,ebzj4,2024-07-27 15:58:44,hospital road,,,MULTIPLE_WEIGHTED_DUPS,jukwa road,nan,4,7,7,0,362669286,2024-07-22,kwakyewaagenesis2005@gmail.com,,0,0,0,0
+91,ebzj4,2024-08-04 22:28:15,Hospital street,,,MULTIPLE_WEIGHTED_DUPS,hospital road,nan,5,6,6,0,132895542,2024-07-29,oseic4882@gmail.com,2025-01-05 20:44:37.000,1,0,0,0
+92,ebzj4,2024-08-07 06:25:17,Methodist Church,,,MULTIPLE_WEIGHTED_DUPS,Pentecost Church,nan,4,6,6,0,34478334,2024-08-05,amakyededestephen89@gmail.com,,0,0,0,0
+93,ebzj4,2024-08-13 23:08:02,Jomo Street,,,MULTIPLE_WEIGHTED_DUPS,Flamingo Street,nan,4,6,6,0,902624559,2024-08-12,pweedyson5@gmail.com,2024-08-14 10:06:43.000,1,0,0,0
+94,ebzj4,2024-08-27 14:30:41,yawbeng street,,,MULTIPLE_WEIGHTED_DUPS,Dickson street,nan,4,7,7,0,796838651,2024-08-26,kojohastings@gmail.come,,0,0,0,0
+95,ebzj4,2024-10-13 21:20:27,kp 54/2,,,MULTIPLE_WEIGHTED_DUPS,KP 50/4,nan,4,4,4,0,629561981,2024-10-07,larrysonrichmond@gmail.com,,0,0,0,0
+96,ebzj4,2024-11-09 08:58:07,Sayerano,,,MULTIPLE_WEIGHTED_DUPS,KP 37,nan,4,8,8,0,208656531,2024-11-04,amohfrank015@gmail.com,,0,0,0,0
+97,ebzj4,2024-11-09 12:24:45,near UCC,,,MULTIPLE_WEIGHTED_DUPS,KP 37,nan,4,7,7,0,672931510,2024-11-04,comfortagyeiwaa007@gmail.com,,0,0,0,0
+98,ebzj4,2024-12-04 17:31:14,kite street,,,MULTIPLE_WEIGHTED_DUPS,Pra Street,nan,6,5,5,0,471341247,2024-12-02,fabianzakli812@gmail.com,,0,0,0,0
+99,ebzj4,2024-12-08 11:30:05,Gaza street,,,MULTIPLE_WEIGHTED_DUPS,kite street,nan,5,4,4,0,338559747,2024-12-02,owusuhanson15@gmail.com,2024-12-08 11:59:36.000,1,0,0,0
+100,ebzj4,2024-12-11 05:35:39,GA West,,,MULTIPLE_WEIGHTED_DUPS,A church,nan,5,7,7,0,804441546,2024-12-09,bonsupascalinecherryafua@gmail.com,,0,0,0,0
+101,ebzj4,2024-12-12 01:47:18,Ak17 -2,,,MULTIPLE_WEIGHTED_DUPS,A church,nan,5,7,7,0,718892248,2024-12-09,bettyessoun27@email.com,,0,0,0,0
+102,ebzj4,2024-12-13 15:37:48,Ekuaba Av,,,MULTIPLE_WEIGHTED_DUPS,Tikobo 1,nan,4,7,7,0,407753930,2024-12-09,appiaherica124@gmail.com,,0,0,0,0
+103,ebzj4,2024-12-14 08:37:15,N/no .069,,,MULTIPLE_WEIGHTED_DUPS,ADZ/L/048,nan,5,8,8,0,732869881,2024-12-09,edwardb110@yahoo.com,,0,0,0,0
+104,ebzj4,2024-12-15 12:50:01,TMA 110R2,,,MULTIPLE_WEIGHTED_DUPS,Ak17 -2,nan,7,6,6,0,953605854,2024-12-09,Liticiatakyiewaa@gmail.com,2024-12-15 12:54:47.000,1,0,0,0
+105,ebzj4,2024-12-16 18:34:08,Race course,,,MULTIPLE_WEIGHTED_DUPS,A church,nan,4,7,7,0,18157302,2024-12-16,elvistutumarfo@gmail.com,,0,0,0,0
+106,ebzj4,2024-12-19 13:57:58,Donut street,,,MULTIPLE_WEIGHTED_DUPS,kite street,nan,4,5,5,0,490064844,2024-12-16,,,0,0,0,0
+107,ebzj4,2024-12-21 10:28:02,Nw 21,,,MULTIPLE_WEIGHTED_DUPS,GA West,nan,8,6,6,0,326222346,2024-12-16,Felixantwi017@gmail.com,,0,0,0,0
+108,ebzj5,2024-08-20 13:55:54,Twifo Praso Road,Teacher,Education,MULTIPLE_WEIGHTED_DUPS,Twifo Praso Road,Teacher,4,0,0,0,71517168,2024-08-19,michaellinaa@gmail.com,2024-08-20 13:59:22.000,1,1,0,1
+109,ebzj5,2024-08-20 14:07:45,Twifo Praso Road,Teacher,Education,MULTIPLE_WEIGHTED_DUPS,Twifo Praso Road,Teacher,5,0,0,0,491138064,2024-08-19,dianat@gmail.com,,0,0,0,0
+110,ebzj5,2024-08-20 14:37:08,Twifo Praso Road,Teacher,Education,MULTIPLE_WEIGHTED_DUPS,Twifo Praso Road,Teacher,6,0,0,0,422366312,2024-08-19,mercyberniceb@gmail.com,,0,0,0,0
+111,ebzj5,2024-08-21 13:47:50,Brofoyedur Street,I am a Nurse,Healthcare,MULTIPLE_WEIGHTED_DUPS,Brofoyedur Street,I am a Nurse,4,0,0,0,734422171,2024-08-19,,,0,0,0,0
+112,ebzj5,2024-08-23 12:51:50,Twifo Praso Road,Teacher,Education,MULTIPLE_WEIGHTED_DUPS,Twifo Praso Road,Teacher,7,0,0,0,772758775,2024-08-19,kwameoforidjan@gmail.com,2024-08-28 07:37:48.000,1,0,0,0
+113,ebzj5,2024-08-23 13:08:19,Abura Road,,,MULTIPLE_WEIGHTED_DUPS,Atterbury Road,nan,4,5,5,0,861634348,2024-08-19,dedegloriaquayson13@gmail.com,2024-10-18 23:32:36.000,1,0,0,0
+114,ebzj5,2024-08-23 18:37:46,Twifo Praso Road,Teacher ,Education,MULTIPLE_WEIGHTED_DUPS,Twifo Praso Road,Teacher,8,3,0,1,107494648,2024-08-19,,,0,0,0,0
+115,ebzj6,2024-08-27 15:57:31,ROYAL ST,,,MULTIPLE_WEIGHTED_DUPS,1 1,nan,4,7,7,0,807994836,2024-08-26,dba504423@gmail.com,,0,0,0,0
+116,ebzj6,2024-09-10 08:22:13,am 42,,,MULTIPLE_WEIGHTED_DUPS,ROYAL ST,nan,4,7,7,0,115259330,2024-09-09,dainasheburah@gmail.com,,0,0,0,0
+117,ebzjx,2024-02-19 13:38:40,Saltpond annkafo Victoria Park near saltpond police station,I am registered nurse ,Healthcare,MULTIPLE_WEIGHTED_DUPS,Saltpond annkafo Victoria Park near saltpond police station,I am registered nurse ,4,0,0,0,65647464,2024-02-19,graceacquah501@gmail.com,2024-02-19 14:17:10.000,1,1,0,1
+118,ebzjx,2024-02-20 13:54:02,Saltpond annkafo Victoria Park near saltpond police station,I am registered nurse ,Healthcare,MULTIPLE_WEIGHTED_DUPS,Saltpond annkafo Victoria Park near saltpond police station,I am registered nurse ,5,0,0,0,340939566,2024-02-19,florencemensah801@gmail.com,2024-02-20 15:38:59.000,1,1,0,1
+119,ebzjx,2024-02-20 15:17:16,Saltpond annkafo Victoria Park near saltpond police station,I am registered nurse ,Healthcare,MULTIPLE_WEIGHTED_DUPS,Saltpond annkafo Victoria Park near saltpond police station,I am registered nurse ,6,0,0,0,872384144,2024-02-19,ruthannan311@gmail.com,2024-02-20 16:16:00.000,1,1,0,1
+120,ebzjx,2024-02-22 11:23:56,Saltpond annkafo Victoria Park near saltpond police station,I am registered nurse ,Healthcare,MULTIPLE_WEIGHTED_DUPS,Saltpond annkafo Victoria Park near saltpond police station,I am registered nurse ,7,0,0,0,742458283,2024-02-19,aliceacquah522@gmail.com,,0,0,0,0
+121,ebzjx,2024-02-28 14:43:39,Saltpond annkafo Victoria Park near saltpond police station,I am registered nurse ,Healthcare,MULTIPLE_WEIGHTED_DUPS,Saltpond annkafo Victoria Park near saltpond police station,I am registered nurse ,7,0,0,0,855585530,2024-02-26,emmanuelacquah693@gmail.com,,0,0,0,0
+122,ebzjx,2024-02-29 16:04:59,Saltpond ankafo Victoria Park near saltpond police station,I am registered nurse,Healthcare,MULTIPLE_WEIGHTED_DUPS,Saltpond annkafo Victoria Park near saltpond police station,I am registered nurse ,8,4,1,1,583263080,2024-02-26,patienttsibu@gmail.com,,0,0,0,0
+123,ebzr4,2024-10-22 12:07:51,Roman church,receptionist ,Hotel and restaurants,MULTIPLE_WEIGHTED_DUPS,Roman church,receptionist ,4,0,0,0,832418841,2024-10-21,,2024-12-22 16:40:04.000,1,1,0,1
+124,ebzw3,2024-02-12 15:18:05,main market,,,MULTIPLE_WEIGHTED_DUPS,425 lake,nan,4,7,7,0,384714953,2024-02-12,,,0,0,0,0
+125,ebzw3,2024-02-15 22:45:34,Lange street,,,MULTIPLE_WEIGHTED_DUPS,market street,nan,4,4,4,0,268179632,2024-02-12,harunagafaru77@gmail.com,,0,0,0,0
+126,ebzw3,2024-03-24 16:20:47,papa gado,,,MULTIPLE_WEIGHTED_DUPS,Market road,nan,4,8,8,0,47178319,2024-03-18,mattaplaku@icloud.com,,0,0,0,0
+127,ebzw3,2024-06-18 13:50:28,A7 Amli street,,,MULTIPLE_WEIGHTED_DUPS,Saboba street,nan,4,7,7,0,409874456,2024-06-17,,,0,0,0,0
+128,ebzw3,2024-07-02 13:11:58,bonsu street,,,MULTIPLE_WEIGHTED_DUPS,A7 Amli street,nan,5,7,7,0,42711666,2024-07-01,musahampongkallamullah@gmail.com,,0,0,0,0
+129,ebzw3,2024-07-09 11:03:51,Bz street,,,MULTIPLE_WEIGHTED_DUPS,bonsu street,nan,4,5,5,0,504033082,2024-07-08,barnabasgmanye7@gmail.com,,0,0,0,0
+130,ebzw3,2024-07-09 14:49:38,Savior Street,,,MULTIPLE_WEIGHTED_DUPS,bonsu street,nan,6,7,7,0,206010379,2024-07-08,emmanuelocran073@gmail.com,,0,0,0,0
+131,ebzw3,2024-07-11 10:42:59,Yes us,,,MULTIPLE_WEIGHTED_DUPS,New Town,nan,4,6,6,0,188154446,2024-07-08,,,0,0,0,0
+132,ebzw3,2024-07-15 17:45:27,BRONZE ST,,,MULTIPLE_WEIGHTED_DUPS,Bz street,nan,4,8,8,0,750706532,2024-07-15,dordaamoses70@gmail.com,,0,0,0,0
+133,ebzw3,2024-07-17 10:29:33,Dandelion Street,,,MULTIPLE_WEIGHTED_DUPS,Savior Street,nan,4,6,6,0,508340920,2024-07-15,delightmawufemorakpo@gmail.com,,0,0,0,0
+134,ebzw3,2024-07-17 19:12:42,Dandelion Street,,,MULTIPLE_WEIGHTED_DUPS,Dandelion Street,nan,5,0,0,0,353149607,2024-07-15,,,0,0,0,0
+135,ebzw3,2024-07-18 23:11:37,Old town,,,MULTIPLE_WEIGHTED_DUPS,New Town,nan,4,4,4,0,1316862,2024-07-15,antwikelvin53@gmail.com,,0,0,0,0
+136,ebzw3,2024-07-25 16:07:05,CK 986,,,MULTIPLE_WEIGHTED_DUPS,Yes us,nan,5,6,6,0,112953277,2024-07-22,jennylotsu@gmail.com,,0,0,0,0
+137,ebzw3,2024-08-29 13:40:43,Bazua market,,,MULTIPLE_WEIGHTED_DUPS,night market,nan,4,5,5,0,709568763,2024-08-26,ayobikenn@gmail.com,,0,0,0,0
+138,ebzw3,2024-08-31 17:05:46,Denu market,,,MULTIPLE_WEIGHTED_DUPS,Bazua market,nan,4,4,4,0,468974064,2024-08-26,aureliamawunyo2@gmail.com,2024-09-01 08:30:32.000,1,0,0,0
+139,ebzw9,2024-08-21 19:53:12,awudome street,,,MULTIPLE_WEIGHTED_DUPS,Low-cost street,nan,4,6,6,0,719541804,2024-08-19,Owusumicheal4752@gmail.com,,0,0,0,0
+140,ebzx2,2024-09-27 14:27:57,Makompa street,Manager ,Banking and Financial Services,MULTIPLE_WEIGHTED_DUPS,Maybe street,Manager ,4,5,5,0,133328590,2024-09-23,,,0,0,0,0
+141,ebzxq,2024-11-02 11:42:21,Iron City,,,MULTIPLE_WEIGHTED_DUPS,obol estate,nan,4,8,8,0,32417201,2024-10-28,,2024-11-02 13:20:11.000,1,0,0,0
+142,ebzxw,2024-08-01 10:21:49,porcupine st,owner ,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,porcupine st,owner ,4,0,0,0,269185551,2024-07-29,,2024-08-07 07:07:53.000,1,0,0,0
+143,ebzxw,2024-08-05 16:51:38,porcupine st,owner ,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,porcupine st,owner ,5,0,0,0,839230835,2024-08-05,,,0,0,0,0
+144,ebzxw,2024-08-06 11:43:44,porcupine st,owner ,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,porcupine st,owner ,6,0,0,0,275278777,2024-08-05,,,0,0,0,0
+145,ebzz3,2024-12-05 12:52:57,Nii Adu Lane 12,Accountant ,Electricity and Utilities,MULTIPLE_WEIGHTED_DUPS,Nii Adu Lane 45,Accountant ,4,2,2,0,327574400,2024-12-02,pokuayaa342@gmail.com,2024-12-05 12:59:33.000,1,1,0,1
+146,ebzz3,2024-12-06 11:11:34,Nii Adu Lane 12,Accountant ,Electricity and Utilities,MULTIPLE_WEIGHTED_DUPS,Nii Adu Lane 12,Accountant ,5,0,0,0,567135789,2024-12-02,abigaildodoo476@gmail.com,2024-12-08 12:12:34.000,1,1,0,1
+147,ebzz3,2024-12-09 08:29:12,Nii Adu Lane 34,Accountant ,Electricity and Utilities,MULTIPLE_WEIGHTED_DUPS,Nii Adu Lane 34,Accountant ,6,0,0,0,60141187,2024-12-09,dianalamptery367@gmail.com,2024-12-09 15:32:11.000,1,1,0,1
+148,ebzz3,2024-12-28 11:16:33,Nii Adu Lane 34,Accountant ,Electricity and Utilities,MULTIPLE_WEIGHTED_DUPS,Nii Adu Lane 12,Accountant ,4,2,2,0,633459401,2024-12-23,ernestinanartey675@gmail.com,,0,0,0,0
+149,ebzz3,2024-12-30 11:29:12,Nii Adu Lane 12,Accountant ,Electricity and Utilities,MULTIPLE_WEIGHTED_DUPS,Nii Adu Lane 12,Accountant ,5,0,0,0,263350378,2024-12-30,anthoniakukua453@gmail.com,2024-12-30 12:10:58.000,1,1,0,1
+150,ebzz3,2024-12-30 17:07:57,Nii Adu Lane 45,Accountant ,Electricity and Utilities,MULTIPLE_WEIGHTED_DUPS,Nii Adu Lane 12,Accountant ,6,2,2,0,283429730,2024-12-30,Christianalamptey432@gmail.com,2024-12-30 19:17:45.000,1,1,0,1
+151,ebzz8,2024-02-14 09:33:10,Top Base,,,MULTIPLE_WEIGHTED_DUPS,SG Homes,nan,4,7,7,0,254858847,2024-02-12,abdallahajara12@gmail.com,2024-02-16 17:58:35.000,1,0,0,0
+152,ebzz8,2024-08-09 14:11:49,casa p,,,MULTIPLE_WEIGHTED_DUPS,VAN ST,nan,4,6,6,0,314048900,2024-08-05,,,0,0,0,0
+153,ebzzb,2024-11-09 10:11:06,Amist Hotel,Owner,Construction,MULTIPLE_WEIGHTED_DUPS,Amist Hotel,Owner,4,0,0,0,262968883,2024-11-04,stephenbrempong5@gmail.com,2024-11-09 15:38:17.000,1,1,0,1
+154,ebzzb,2024-11-09 10:29:26,Amist Hotel,Owner,Trade - Import/Export,MULTIPLE_WEIGHTED_DUPS,Amist Hotel,Owner,5,0,0,0,397760480,2024-11-04,,2024-11-09 14:51:43.000,1,1,0,1
+155,ebzzb,2024-11-09 19:33:11,Amist Hotel,Owner,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,Amist Hotel,Owner,6,0,0,0,926883060,2024-11-04,,2024-11-09 19:51:38.000,1,1,0,1
+156,ebzzb,2024-11-10 09:54:16,Amist Hotel,Owner,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,Amist Hotel,Owner,7,0,0,0,29904186,2024-11-04,kingsfordsackey9@gmail.com,2024-11-10 16:46:58.000,1,1,0,1
+157,ebzzb,2024-11-10 10:18:36,Amist Hotel,Owner,Construction,MULTIPLE_WEIGHTED_DUPS,Amist Hotel,Owner,8,0,0,0,306062419,2024-11-04,prosperbrabi64@gmail.com,2024-11-10 16:38:23.000,1,1,0,1
+158,ebzzb,2024-11-10 18:43:35,Amist Hotel,Owner,Construction,MULTIPLE_WEIGHTED_DUPS,Amist Hotel,Owner,9,0,0,0,579969086,2024-11-04,christiestevens16@gmail.com,,0,0,0,0
+159,ebzzb,2024-11-10 19:13:51,Amist Hotel,Owner,Beauty,MULTIPLE_WEIGHTED_DUPS,Amist Hotel,Owner,10,0,0,0,277002821,2024-11-04,amusemichael@gmail.com,2024-11-10 21:19:03.000,1,1,1,0
+160,ebzzb,2024-11-11 18:19:52,Amist Hotel,Owner,Construction,MULTIPLE_WEIGHTED_DUPS,Amist Hotel,Owner,11,0,0,0,66112088,2024-11-11,michaelallotey390@gmail.com,2024-11-11 21:26:50.000,1,1,0,1
+161,ebzzb,2024-11-11 22:40:55,Amist Hotel,Owner,Construction,MULTIPLE_WEIGHTED_DUPS,Amist Hotel,Owner,12,0,0,0,152992665,2024-11-11,donkohhayford739@gmail.com,2024-11-12 21:16:01.000,1,1,0,1
+162,ebzzb,2024-11-12 12:20:34,Amist Hotel,Owner,Construction,MULTIPLE_WEIGHTED_DUPS,Amist Hotel,Owner,13,0,0,0,327103160,2024-11-11,brightwiafe23@gmail.com,2024-11-12 14:35:50.000,1,1,0,1
+163,ebzzb,2024-11-13 20:07:02,Amist Hotel,Owner,Beauty,MULTIPLE_WEIGHTED_DUPS,Amist Hotel,Owner,14,0,0,0,117846829,2024-11-11,cudjoewendy242@gmail.com,2024-11-14 14:26:38.000,1,1,0,1
+164,ebzzb,2024-11-14 11:29:58,Amist Hotel,Owner,Construction,MULTIPLE_WEIGHTED_DUPS,Amist Hotel,Owner,15,0,0,0,774996691,2024-11-11,horsuemmanuel733@gmail.com,,0,0,0,0
+165,ebzzb,2024-11-14 18:48:33,Amist Hotel,Owner,Construction,MULTIPLE_WEIGHTED_DUPS,Amist Hotel,Owner,16,0,0,0,45931120,2024-11-11,,,0,0,0,0
+166,ebzzc,2024-05-13 14:27:11,Anyaa Market,,,MULTIPLE_WEIGHTED_DUPS,Anyaa market,nan,4,1,1,0,196543955,2024-05-13,Kevinwalter1717@gmail.com,2024-05-13 14:30:11.000,1,0,0,0
+167,ebzzc,2024-06-21 04:51:10,Oxford Street,,,MULTIPLE_WEIGHTED_DUPS,Toyota Street,nan,4,5,5,0,896211455,2024-06-17,,,0,0,0,0
+168,ebzzc,2024-10-21 12:23:40,Anyaa market,,,MULTIPLE_WEIGHTED_DUPS,Mamobi market,nan,6,6,6,0,725372514,2024-10-21,,,0,0,0,0
+169,ebzzc,2024-11-03 06:05:45,Anyaa,,,MULTIPLE_WEIGHTED_DUPS,Anyaa market,nan,5,7,7,0,296498205,2024-10-28,sarkwahgeorge6@gmail.com,,0,0,0,0
+170,ebzzc,2024-11-12 20:17:19,chapel street,,,MULTIPLE_WEIGHTED_DUPS,Africa street,nan,4,6,6,0,520842330,2024-11-11,,2024-11-12 20:32:10.000,1,0,0,0
+171,ebzzd,2024-01-22 15:22:37,Yoo Mart,,,MULTIPLE_WEIGHTED_DUPS,School pa,nan,4,7,7,0,631061425,2024-01-22,arkojanita24@gmail.com,2024-01-22 15:29:40.000,1,0,0,0
+172,ebzzd,2024-02-29 08:01:07,Odonti street,,,MULTIPLE_WEIGHTED_DUPS,mangbin street,nan,4,6,6,0,106354580,2024-02-26,,,0,0,0,0
+173,ebzzd,2024-04-21 17:40:55,Mataheko street,,,MULTIPLE_WEIGHTED_DUPS,Gbogbo street,nan,4,7,7,0,458746940,2024-04-15,solomonnarttey@gmail.com,,0,0,0,0
+174,ebzzd,2024-04-21 17:58:02,mass street,,,MULTIPLE_WEIGHTED_DUPS,Abuma street,nan,5,5,5,0,903603204,2024-04-15,hawas4113@gmail.com,,0,0,0,0
+175,ebzzd,2024-04-25 07:32:32,Peregrino street,,,MULTIPLE_WEIGHTED_DUPS,Gbogbo street,nan,4,7,7,0,91376753,2024-04-22,cloverdara@gmail.com,,0,0,0,0
+176,ebzzd,2024-05-02 10:46:39,Banana inn,,,MULTIPLE_WEIGHTED_DUPS,Kaneshie,nan,4,7,7,0,592585387,2024-04-29,ruthmacpods49@gmail.com,2024-05-02 10:55:36.000,1,0,0,0
+177,ebzzd,2024-05-03 14:13:16,n r,,,MULTIPLE_WEIGHTED_DUPS,Kaneshie,nan,4,7,7,0,722304025,2024-04-29,,,0,0,0,0
+178,ebzzd,2024-05-06 13:47:23,Bub 2,,,MULTIPLE_WEIGHTED_DUPS,n r,nan,5,4,4,0,953141841,2024-05-06,Elormdavid71@icloud.com,,0,0,0,0
+179,ebzzd,2024-05-09 13:55:18,gbogbo Street,,,MULTIPLE_WEIGHTED_DUPS,Abuma Street,nan,4,5,5,0,94340116,2024-05-06,ansahsamuel992@gmail.com,,0,0,0,0
+180,ebzzd,2024-05-09 17:58:39,DA 12,,,MULTIPLE_WEIGHTED_DUPS,n r,nan,5,4,4,0,772682293,2024-05-06,churchdefender2002@gmail.com,,0,0,0,0
+181,ebzzd,2024-05-14 13:54:02,Abuma street,,,MULTIPLE_WEIGHTED_DUPS,Abuma Street,nan,4,1,1,0,751762694,2024-05-13,,,0,0,0,0
+182,ebzzd,2024-05-16 16:46:30,Buddy 49,,,MULTIPLE_WEIGHTED_DUPS,Bub 2,nan,5,5,5,0,963578346,2024-05-13,,,0,0,0,0
+183,ebzzd,2024-05-17 09:06:46,Sablasu street,,,MULTIPLE_WEIGHTED_DUPS,Abuma street,nan,4,6,6,0,607925178,2024-05-13,blackdynamite4244@gmail.com,2024-06-15 14:52:44.000,1,1,0,1
+184,ebzzd,2024-05-28 00:07:58,Adama bawa,,,MULTIPLE_WEIGHTED_DUPS,Old Fadama,nan,4,7,7,0,555621630,2024-05-27,darkoisaac2001@gmail.com,,0,0,0,0
+185,ebzzd,2024-05-29 08:36:22,ansha street 2,,,MULTIPLE_WEIGHTED_DUPS,Abuma street,nan,4,6,6,0,645121104,2024-05-27,addothomas944@gmail.com,,0,0,0,0
+186,ebzzd,2024-06-19 10:53:06,New Road,,,MULTIPLE_WEIGHTED_DUPS,Chemu Road,nan,4,4,4,0,579125212,2024-06-17,prospertet@gmail.com,2024-06-19 10:54:44.000,1,0,0,0
+187,ebzzd,2024-06-24 12:07:04,new site,,,MULTIPLE_WEIGHTED_DUPS,New Road,nan,6,5,5,0,482371055,2024-06-24,,2024-06-24 12:16:24.000,1,0,0,0
+188,ebzzd,2024-06-28 11:44:27,kite Stret,,,MULTIPLE_WEIGHTED_DUPS,Nima street,nan,5,5,5,0,976725430,2024-06-24,,2024-06-28 12:03:15.000,1,1,0,1
+189,ebzzd,2024-07-11 13:39:17,Butare street,,,MULTIPLE_WEIGHTED_DUPS,White street,nan,4,5,5,0,557223840,2024-07-08,oforipaninkofi@gmail.com,,0,0,0,0
+190,ebzzd,2024-08-05 13:49:55,Wowooti street,,,MULTIPLE_WEIGHTED_DUPS,odoosto Street,nan,4,5,5,0,347863071,2024-08-05,kontolportia2@gmail.com,,0,0,0,0
+191,ebzzd,2024-08-12 10:40:27,Mars road,,,MULTIPLE_WEIGHTED_DUPS,Chemu road,nan,6,5,5,0,60403502,2024-08-12,animwaajuliet48@gmail.com,2024-08-12 10:44:14.000,1,1,0,1
+192,ebzzd,2024-08-13 11:04:17,Danso street,,,MULTIPLE_WEIGHTED_DUPS,Owene street,nan,6,5,5,0,148810676,2024-08-12,adjirakorportia14@gmail.com,2024-08-13 13:33:00.000,1,0,0,0
+193,ebzzd,2024-08-14 08:51:01,Lotus ST,,,MULTIPLE_WEIGHTED_DUPS,shukura y,nan,4,8,8,0,351942877,2024-08-12,benjaminsam96.bs.97@gmail.com,,0,0,0,0
+194,ebzzd,2024-08-14 12:40:41,2Gortui street,,,MULTIPLE_WEIGHTED_DUPS,Wowooti street,nan,6,5,5,0,523397853,2024-08-12,amamaggie59@gmail.com,2024-08-14 16:20:05.000,1,0,0,0
+195,ebzzd,2024-08-24 20:21:37,Naa Afie street,,,MULTIPLE_WEIGHTED_DUPS,Danso street,nan,4,7,7,0,953904831,2024-08-19,sakahdorothy@gmail.com,2024-12-23 12:35:22.000,1,0,0,0
+196,ebzzd,2024-11-07 11:19:27,Tsatsu st,supervisor ,Industry/Manufacturing,MULTIPLE_WEIGHTED_DUPS,star oil,supervisor ,4,7,7,0,741541236,2024-11-04,ausfredame@gmail.com,2024-11-07 11:23:07.000,1,0,0,0
+197,ebzzd,2024-11-19 17:40:22,Orlando street,,,MULTIPLE_WEIGHTED_DUPS,Obohu street,nan,4,6,6,0,42764328,2024-11-18,hamdiyamustapha0@gmail.com,,0,0,0,0
+198,ebzzd,2024-11-25 12:10:31,nii ashie street,,,MULTIPLE_WEIGHTED_DUPS,Nii Laryea Street,nan,4,7,7,0,197057015,2024-11-25,deborahlamptey@gmail.com,2024-11-25 12:15:46.000,1,0,0,0
+199,ebzzd,2024-11-26 08:13:32,Danmale Street,,,MULTIPLE_WEIGHTED_DUPS,Nii Laryea Street,nan,5,8,8,0,457515565,2024-11-25,Habibavdulrahman068@gmail.com,,0,0,0,0
+200,ebzzd,2024-12-03 16:56:48,adokailey street,,,MULTIPLE_WEIGHTED_DUPS,klottey street,nan,5,6,6,0,756041822,2024-12-02,agambirefelicia@gmail.com,2024-12-08 21:16:38.000,1,0,0,0
+201,ebzze,2024-01-31 14:21:56,Citi fm,,,MULTIPLE_WEIGHTED_DUPS,PT 62,nan,4,6,6,0,936625661,2024-01-29,agboemmanuella18@gmail.com,,0,0,0,0
+202,ebzze,2024-05-10 11:59:05,Salem OSU,,,MULTIPLE_WEIGHTED_DUPS,James town,nan,4,7,7,0,450826429,2024-05-06,eadotey58@gmail.com,,0,0,0,0
+203,ebzze,2024-05-22 00:27:12,Anorhor street,,,MULTIPLE_WEIGHTED_DUPS,Oxford Street,nan,4,7,7,0,938095839,2024-05-20,NetteyChristopher99@gmail.com,,0,0,0,0
+204,ebzze,2024-05-27 23:13:59,Mlantwi street,,,MULTIPLE_WEIGHTED_DUPS,Anorhor street,nan,5,7,7,0,134845968,2024-05-27,victorakladzi5@gmail.com,2024-05-27 23:36:04.000,1,1,1,0
+205,ebzze,2024-06-12 09:17:56,Wala road,,,MULTIPLE_WEIGHTED_DUPS,Paga Zenga,nan,4,7,7,0,658995435,2024-06-10,michaelbatsa89@gmail.com,2024-06-12 09:22:39.000,1,1,0,0
+206,ebzze,2024-06-19 21:25:42,basel street,,,MULTIPLE_WEIGHTED_DUPS,Fanofa street,nan,5,5,5,0,465139646,2024-06-17,cosei9383@gmail.com,,0,0,0,0
+207,ebzze,2024-06-26 15:39:55,Basel street,,,MULTIPLE_WEIGHTED_DUPS,basel street,nan,5,1,1,0,860706508,2024-06-24,,,0,0,0,0
+208,ebzze,2024-06-26 19:56:27,Basel street,,,MULTIPLE_WEIGHTED_DUPS,Basel street,nan,6,0,0,0,238467722,2024-06-24,dianaadzisu@gmail.com,2024-06-26 20:10:04.000,1,0,0,0
+209,ebzze,2024-06-28 10:20:08,Nana Ama street,,,MULTIPLE_WEIGHTED_DUPS,Fanofa street,nan,7,5,5,0,173774559,2024-06-24,is7693311@gmail.com,2024-06-28 10:25:31.000,1,0,0,0
+210,ebzze,2024-07-01 14:52:27,Oxford street,,,MULTIPLE_WEIGHTED_DUPS,Official street,nan,6,6,6,0,238041954,2024-07-01,mahamaisaac@icloud.com,,0,0,0,0
+211,ebzze,2024-07-11 14:14:35,Pearl street,,,MULTIPLE_WEIGHTED_DUPS,Basel street,nan,6,4,4,0,513405001,2024-07-08,thywillganyo@gmail.com,,0,0,0,0
+212,ebzze,2024-07-19 09:35:35,Amoaye street,,,MULTIPLE_WEIGHTED_DUPS,Pearl street,nan,4,5,5,0,826413791,2024-07-15,gideonasumeng53@gmail.com,,0,0,0,0
+213,ebzze,2024-07-19 10:14:17,Awuletey Street,,,MULTIPLE_WEIGHTED_DUPS,Amoaye street,nan,4,7,7,0,741393605,2024-07-15,Acheampongesther019@gmail.com,2024-07-19 10:17:45.000,1,0,0,0
+214,ebzze,2024-07-24 18:14:34,Goil street,,,MULTIPLE_WEIGHTED_DUPS,Pearl street,nan,6,4,4,0,957171319,2024-07-22,benjaminnyefele121@gmail.com,,0,0,0,0
+215,ebzze,2024-08-02 16:23:31,Pearl Street,,,MULTIPLE_WEIGHTED_DUPS,Goil street,nan,5,5,5,0,302447260,2024-07-29,amponsahprincess9@gmail.com,,0,0,0,0
+216,ebzze,2024-09-09 15:38:08,Odonkor street,,,MULTIPLE_WEIGHTED_DUPS,Kpodo street,nan,4,5,5,0,434166910,2024-09-09,yasajoke22@gmail.com,2024-09-09 16:01:40.000,1,0,0,0
+217,ebzze,2024-09-12 12:22:12,Zion Street,,,MULTIPLE_WEIGHTED_DUPS,Kpodo street,nan,4,5,5,0,343185871,2024-09-09,ishmaelgyamfi22@gmail.com,,0,0,0,0
+218,ebzze,2024-09-17 13:24:49,Chamber street,,,MULTIPLE_WEIGHTED_DUPS,Odonkor street,nan,5,6,6,0,430751920,2024-09-16,agyanagyirisam@gmail.com,2024-09-17 13:29:37.000,1,0,0,0
+219,ebzze,2024-10-21 15:59:47,Adowa St 23,,,MULTIPLE_WEIGHTED_DUPS,Adjoate st,nan,4,7,7,0,68478241,2024-10-21,boatengc39@gmail.com,2024-10-22 08:00:21.000,1,0,0,0
+220,ebzze,2024-11-09 15:38:59,oku street,,,MULTIPLE_WEIGHTED_DUPS,okukuseku street,nan,5,6,6,0,795101145,2024-11-04,,2024-11-19 11:51:57.000,1,0,0,0
+221,ebzze,2024-11-09 20:05:22,oku street,,,MULTIPLE_WEIGHTED_DUPS,oku street,nan,6,0,0,0,232237319,2024-11-04,,,0,0,0,0
+222,ebzze,2024-11-13 16:48:44,Abado street,,,MULTIPLE_WEIGHTED_DUPS,Atiwa Street,nan,5,5,5,0,841162118,2024-11-11,janeansah888@gmail.com,2024-11-13 16:57:51.000,1,0,0,0
+223,ebzze,2024-11-13 17:12:49,Bukom street,,,MULTIPLE_WEIGHTED_DUPS,oku street,nan,6,4,4,0,886108340,2024-11-11,naaborley2004@gmail.com,,0,0,0,0
+224,ebzze,2024-11-14 01:04:28,Hill street,,,MULTIPLE_WEIGHTED_DUPS,oku street,nan,7,4,4,0,162369359,2024-11-11,,2024-11-19 23:19:18.000,1,0,0,0
+225,ebzze,2024-11-19 18:34:55,Oxford street,,,MULTIPLE_WEIGHTED_DUPS,oku street,nan,7,5,5,0,238826252,2024-11-18,vincenttetteyfio2004@gmail.com,,0,0,0,0
+226,ebzze,2024-11-22 15:41:36,cold store,,,MULTIPLE_WEIGHTED_DUPS,oku street,nan,7,6,6,0,129117655,2024-11-18,gabrielboye12@gmail.com,2024-11-23 17:29:56.000,1,0,0,0
+227,ebzze,2024-11-26 13:05:15,La Dade,,,MULTIPLE_WEIGHTED_DUPS,pakro Road,nan,4,7,7,0,132811793,2024-11-25,nfotikojo348@gm.com,,0,0,0,0
+228,ebzzf,2024-02-02 13:45:22,afriyie street,,,MULTIPLE_WEIGHTED_DUPS,Hill street,nan,4,6,6,0,241647292,2024-01-29,davidgbemu8@gmail.com,2024-02-02 13:49:33.000,1,0,0,0
+229,ebzzf,2024-02-07 18:40:08,Cedar Street,,,MULTIPLE_WEIGHTED_DUPS,Terema street,nan,4,6,6,0,611194945,2024-02-05,,,0,0,0,0
+230,ebzzf,2024-04-19 10:20:25,Nii Darko street,,,MULTIPLE_WEIGHTED_DUPS,Nima street,nan,4,6,6,0,261283050,2024-04-15,Kennethsarpong2021@gmail.com,2024-04-19 22:36:32.000,1,0,0,0
+231,ebzzf,2024-05-13 10:37:48,Naa Ata,,,MULTIPLE_WEIGHTED_DUPS,baba yara,nan,5,5,5,0,327691953,2024-05-13,annorcomfort999@gmail.com,2024-05-13 10:40:28.000,1,0,0,0
+232,ebzzf,2024-05-14 09:38:23,Abeka market,,,MULTIPLE_WEIGHTED_DUPS,Abeka total,nan,4,6,6,0,985610267,2024-05-13,,2024-05-14 09:51:29.000,1,1,0,1
+233,ebzzf,2024-05-18 12:07:39,Asene street,,,MULTIPLE_WEIGHTED_DUPS,22nd Street,nan,7,5,5,0,458201899,2024-05-13,,,0,0,0,0
+234,ebzzf,2024-05-22 09:35:29,Pake way,,,MULTIPLE_WEIGHTED_DUPS,baba yara,nan,4,6,6,0,529350697,2024-05-20,husinulesther@gmail.com,2024-05-22 09:46:43.000,1,0,0,0
+235,ebzzf,2024-05-23 06:44:00,OAK Street,,,MULTIPLE_WEIGHTED_DUPS,22nd Street,nan,7,4,4,0,156022290,2024-05-20,andyapati8@gmail.com,2024-05-23 06:57:57.000,1,0,0,0
+236,ebzzf,2024-05-26 11:49:43,Asaman Street,,,MULTIPLE_WEIGHTED_DUPS,Osakuman Street,nan,8,3,3,0,601965727,2024-05-20,rihanegyin4@gmail.com,,0,0,0,0
+237,ebzzf,2024-05-26 12:00:26,Akoo Lane,,,MULTIPLE_WEIGHTED_DUPS,Pake way,nan,5,7,7,0,476168647,2024-05-20,domejessica0@gmail.com,2024-09-09 15:56:13.000,1,0,0,0
+238,ebzzf,2024-05-28 11:50:30,Adinkra street,,,MULTIPLE_WEIGHTED_DUPS,Asene street,nan,8,5,5,0,605812038,2024-05-27,c95460866@gmail.com,2024-05-28 11:58:46.000,1,0,0,0
+239,ebzzf,2024-06-01 17:16:57,Mosi st,,,MULTIPLE_WEIGHTED_DUPS,Beposo ST,nan,5,6,6,0,456088163,2024-05-27,Razaksakzon02@gmail.com,,0,0,0,0
+240,ebzzf,2024-06-02 09:32:46,Achimota 2,,,MULTIPLE_WEIGHTED_DUPS,Akoo Lane,nan,4,8,8,0,320110573,2024-05-27,Yussifsekina93@gmail.com,2024-06-03 08:44:53.000,1,0,0,0
+241,ebzzf,2024-06-04 13:02:50,cliff street,,,MULTIPLE_WEIGHTED_DUPS,OAK Street,nan,5,6,6,0,998053499,2024-06-03,pntewusu@gmail.com,2024-06-04 14:29:17.000,1,0,0,0
+242,ebzzf,2024-06-05 15:17:58,Zion street,,,MULTIPLE_WEIGHTED_DUPS,cliff street,nan,7,4,4,0,650329397,2024-06-03,neffroliljr@gmail.com,,0,0,0,0
+243,ebzzf,2024-06-07 17:16:34,Magenta Street,,,MULTIPLE_WEIGHTED_DUPS,Asaman Street,nan,5,6,6,0,629791662,2024-06-03,kingsleykwadzoglover@gmail.com,,0,0,0,0
+244,ebzzf,2024-06-09 16:07:20,black gate,,,MULTIPLE_WEIGHTED_DUPS,Akoo Lane,nan,5,7,7,0,360052606,2024-06-03,kyeifrancis39@gmail.com,2024-06-11 17:46:30.000,1,0,0,0
+245,ebzzf,2024-06-12 16:38:35,Tienyo street6,,,MULTIPLE_WEIGHTED_DUPS,Zion street,nan,4,5,5,0,960497630,2024-06-10,lastcall24lyd@gmail.com,2024-06-12 16:43:21.000,1,0,0,0
+246,ebzzf,2024-06-16 20:49:40,nii dark,,,MULTIPLE_WEIGHTED_DUPS,Achimota 2,nan,5,8,8,0,308782037,2024-06-10,Christabeldoe19@gmail.com,2024-06-30 12:32:11.000,1,0,0,0
+247,ebzzf,2024-06-18 18:14:18,trako 7,,,MULTIPLE_WEIGHTED_DUPS,black gate,nan,4,8,8,0,553859038,2024-06-17,kumichristabel53@gmail.com,2024-06-18 18:16:29.000,1,0,0,0
+248,ebzzf,2024-07-17 14:01:24,Onyankle street,,,MULTIPLE_WEIGHTED_DUPS,Blacknile Street,nan,4,7,7,0,26220825,2024-07-15,,,0,0,0,0
+249,ebzzf,2024-08-27 10:23:55,24 street,,,MULTIPLE_WEIGHTED_DUPS,oShipi Street,nan,4,7,7,0,253581065,2024-08-26,,2024-08-28 15:37:29.000,1,0,0,0
+250,ebzzf,2024-09-04 08:41:29,Alafia street,,,MULTIPLE_WEIGHTED_DUPS,24 street,nan,6,6,6,0,533249880,2024-09-02,nevilledonna123@gmail.com,,0,0,0,0
+251,ebzzf,2024-09-12 16:11:22,lake road,,,MULTIPLE_WEIGHTED_DUPS,Tabo Close,nan,4,7,7,0,711746600,2024-09-09,ellenbwhite70@gmail.com,,0,0,0,0
+252,ebzzf,2024-09-27 14:35:44,osakuma street,Manager,Artisan,MULTIPLE_WEIGHTED_DUPS,osakuman street,Manager,4,1,1,0,214201893,2024-09-23,ansomaapriscilla5@gmail.com,2024-09-27 14:40:19.000,1,1,0,1
+253,ebzzf,2024-09-27 15:17:49,Osakuma Street,Manager,Artisan,MULTIPLE_WEIGHTED_DUPS,osakuma street,Manager,6,2,2,0,333806039,2024-09-23,Ebenezeraggrey12@gmail.com,2024-09-27 15:28:13.000,1,1,0,1
+254,ebzzf,2024-10-09 22:16:20,Calvary street,,,MULTIPLE_WEIGHTED_DUPS,22nd street,nan,4,7,7,0,807442962,2024-10-07,raphaelnoi1551@gmail.com,2024-10-09 22:20:05.000,1,0,0,0
+255,ebzzf,2024-10-11 22:15:03,St 5433,,,MULTIPLE_WEIGHTED_DUPS,NII BOI,nan,4,7,7,0,87864213,2024-10-07,deborahasare588@gmail.com,,0,0,0,0
+256,ebzzf,2024-10-13 09:27:16,Tatale street,,,MULTIPLE_WEIGHTED_DUPS,Calvary street,nan,8,5,5,0,685389230,2024-10-07,sheniceoppong60@gmail.com,2024-10-13 09:29:56.000,1,1,0,1
+257,ebzzf,2024-10-13 19:32:27,Nii Darko,,,MULTIPLE_WEIGHTED_DUPS,School Park,nan,4,8,8,0,105096761,2024-10-07,anpliphil@gmail.com,2024-10-15 18:29:43.000,1,0,0,0
+258,ebzzf,2024-10-19 16:56:00,abeka market,,,MULTIPLE_WEIGHTED_DUPS,Abeka Total,nan,4,7,7,0,597335593,2024-10-14,sandyblems@gmail.com,,0,0,0,0
+259,ebzzf,2024-10-20 17:58:36,Nii okal,,,MULTIPLE_WEIGHTED_DUPS,Nii Darko,nan,5,5,5,0,704717178,2024-10-14,,,0,0,0,0
+260,ebzzf,2024-10-22 20:44:09,53Alafia Street,,,MULTIPLE_WEIGHTED_DUPS,1 Anaamua Street,nan,4,6,6,0,833751867,2024-10-21,lilianpappoe@gmail.com,2024-10-22 20:55:03.000,1,0,0,0
+261,ebzzf,2024-10-24 19:39:27,k 24,,,MULTIPLE_WEIGHTED_DUPS,St 5433,nan,5,5,5,0,229787048,2024-10-21,ruhainatuseidu@icloud.com,2024-11-04 12:22:36.000,1,0,0,0
+262,ebzzf,2024-11-02 10:47:13,voltic,,,MULTIPLE_WEIGHTED_DUPS,k 24,nan,4,6,6,0,56723351,2024-10-28,roseaziale2012@gmail.com,2024-11-02 10:51:06.000,1,1,0,1
+263,ebzzf,2024-11-04 03:27:12,Flat top,,,MULTIPLE_WEIGHTED_DUPS,k 24,nan,5,7,7,0,177847150,2024-11-04,kwartenggodfred707@gmail.com,2024-11-04 03:30:03.000,1,0,0,0
+264,ebzzf,2024-11-29 17:14:48,Nii Adam,,,MULTIPLE_WEIGHTED_DUPS,Nissi Pharmacy,nan,4,8,8,0,843370287,2024-11-25,gracesmith27m@gmail.com,2024-11-29 17:17:39.000,1,0,0,0
+265,ebzzf,2024-12-15 15:45:04,Adinkra Street,,,MULTIPLE_WEIGHTED_DUPS,Dick street,nan,4,6,6,0,362238145,2024-12-09,cecillaryea20@gmail.com,,0,0,0,0
+266,ebzzg,2024-11-04 20:09:31,kotobabi police station,,,MULTIPLE_WEIGHTED_DUPS,Kotobabi police station,nan,4,1,1,0,873729480,2024-11-04,ritpong989@gmail.com,,0,0,0,0
+267,ebzzg,2024-12-28 22:27:58,209 nima,,,MULTIPLE_WEIGHTED_DUPS,Pox 360,nan,4,7,7,0,632593325,2024-12-23,rafiuagoro1@gmail.com,,0,0,0,0
+268,ebzzs,2024-05-08 15:00:21,Mango tso,,,MULTIPLE_WEIGHTED_DUPS,haatso KFC,nan,4,7,7,0,601987895,2024-05-06,afiahbherry@gmail.com,,0,0,0,0
+269,ebzzs,2024-05-24 08:45:20,Manle dada,,,MULTIPLE_WEIGHTED_DUPS,maale dada,nan,4,2,2,0,639616441,2024-05-20,Penelopepekoh@gmail.com,2024-05-24 17:36:55.000,1,0,0,0
+270,ebzzs,2024-05-28 18:38:56,La Melcom,,,MULTIPLE_WEIGHTED_DUPS,maale dada,nan,4,8,8,0,791344750,2024-05-27,Rahinagogoe@gmail.com,2024-09-19 08:43:49.000,1,0,0,0
+271,ebzzs,2024-07-24 12:17:45,La Abafum,trader,Domestic Services,MULTIPLE_WEIGHTED_DUPS,La Abafum,trader,4,0,0,0,20966569,2024-07-22,ramatuyayah417@email.com,2024-07-24 12:20:02.000,1,0,0,0
+272,ebzzs,2024-08-01 13:31:08,La Abafum,trader,Domestic Services,MULTIPLE_WEIGHTED_DUPS,La Abafum,trader,5,0,0,0,892679856,2024-07-29,soulsister20@yahoo.com,2024-08-01 13:33:09.000,1,0,0,0
+273,ebzzs,2024-09-28 17:21:24,La mame,,,MULTIPLE_WEIGHTED_DUPS,nan,nan,4,6,6,0,438915114,2024-09-23,Paaga298@gmail.com,2024-09-28 17:24:08.000,1,0,0,0
+274,ebzzs,2024-12-30 13:51:30,La tebu,,,MULTIPLE_WEIGHTED_DUPS,Third Ln,nan,4,8,8,0,577450039,2024-12-30,soniatetteh4@gmail.com,,0,0,0,0
+275,ebzzu,2024-02-15 07:37:41,Burma camp,soldier ,Law Enforcement,MULTIPLE_WEIGHTED_DUPS,Burma camp,soldier ,5,0,0,0,879167537,2024-02-12,mintahrobert9@gmail.com,2024-02-15 08:01:49.000,1,0,0,0
+276,ebzzu,2024-06-05 20:11:21,Burma camp,Soldier,Security,MULTIPLE_WEIGHTED_DUPS,Burma Camp,Soldier,4,1,1,0,23161885,2024-06-03,Rqurashie8@gmail.com,2024-06-07 07:42:14.000,1,0,0,0
+277,ebzzu,2024-06-08 05:28:31,Burma Camp,Soldier,Security,MULTIPLE_WEIGHTED_DUPS,Burma Camp,Soldier,5,0,0,0,898005032,2024-06-03,,,0,0,0,0
+278,ebzzu,2024-06-08 09:11:42,Burma camp,Soldier,Security,MULTIPLE_WEIGHTED_DUPS,Burma camp,Soldier,6,0,0,0,92835176,2024-06-03,nketianicholas54@gmail.com,2024-06-08 09:13:29.000,1,0,0,0
+279,ebzzu,2024-06-08 13:03:36,Burma camp,Soldier,Security,MULTIPLE_WEIGHTED_DUPS,Burma camp,Soldier,6,0,0,0,207826061,2024-06-03,Kornohjoseph@gmail.com,2024-06-08 13:05:16.000,1,0,0,0
+280,ebzzu,2024-06-12 07:30:53,Burma Camp,Soldier,Security,MULTIPLE_WEIGHTED_DUPS,Burma Camp,Soldier,7,0,0,0,169025938,2024-06-10,enamjane006@gmail.com,2024-06-12 07:35:21.000,1,0,0,0
+281,ebzzu,2024-07-12 16:12:07,Burma camp,soldier ,Security,MULTIPLE_WEIGHTED_DUPS,Burma camp,soldier ,4,0,0,0,585783137,2024-07-08,aliflix5@gmail.com,,0,0,0,0
+282,ebzzu,2024-07-20 13:51:18,Burma camp,soldier,Security,MULTIPLE_WEIGHTED_DUPS,Burma camp,soldier,5,0,0,0,49121035,2024-07-15,goodbwoybarclays@gmail.com,2024-07-20 17:59:14.000,1,0,0,0
+283,ebzzv,2024-01-18 08:52:45,lascala street,,,MULTIPLE_WEIGHTED_DUPS,Alloway street,nan,4,6,6,0,315132493,2024-01-15,philipsowah919@gmail.com,,0,0,0,0
+284,ebzzv,2024-10-16 11:07:58,c lady,,,MULTIPLE_WEIGHTED_DUPS,Camp 2,nan,4,6,6,0,855966268,2024-10-14,lucyworzey5@gmail.com,2024-10-18 10:23:13.000,1,0,0,0
+285,ebzzv,2024-11-18 10:16:09,peach street,,,MULTIPLE_WEIGHTED_DUPS,market street,nan,4,6,6,0,291143370,2024-11-18,akosuaaddo308@gmail.com,2024-11-18 10:18:28.000,1,0,0,0
+286,ebzzv,2024-11-22 15:31:53,Klala street,,,MULTIPLE_WEIGHTED_DUPS,peach street,nan,5,4,4,0,592185985,2024-11-18,Unicorn.gill21@gmail.com,,0,0,0,0
+287,ebzzv,2024-11-22 18:05:31,Oxygen street,,,MULTIPLE_WEIGHTED_DUPS,market street,nan,6,5,5,0,64416116,2024-11-18,agnesmensah@gmail.com,2024-11-22 18:09:52.000,1,0,0,0
+288,ecjyg,2024-12-24 13:41:57,Nkrabea Street,Food seller ,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,Nkrabea Street,food seller ,4,3,0,1,654090394,2024-12-23,odiasempakofij4@gmail.com,,0,0,0,0
+289,ecjyg,2024-12-24 14:13:43,Nkrabea street,food seller ,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,Nkrabea Street,food seller ,5,1,1,0,754493234,2024-12-23,odiasempakofij4@gmail.com,,0,0,0,0
+290,ecjyg,2024-12-27 17:40:19,Nkrabea street,food seller ,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,Nkrabea street,food seller ,6,0,0,0,570587573,2024-12-23,rashidatuhudu90@gmail.com,,0,0,0,0
+291,ecjyg,2024-12-29 00:16:03,Nkrabea street,food seller ,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,Nkrabea street,food seller ,7,0,0,0,615714334,2024-12-23,odiasempakofij4@gmail.com,,0,0,0,0
+292,ecn3g,2024-09-17 17:06:45,Tabasco street,,,MULTIPLE_WEIGHTED_DUPS,Baku street,nan,4,6,6,0,496575403,2024-09-16,gyamfie.483@gmail.com,,0,0,0,0
+293,ecnuk,2024-08-24 22:27:43,plot 65 block b,worker,Food Industry,MULTIPLE_WEIGHTED_DUPS,plot 65 block b,worker,4,0,0,0,533551772,2024-08-19,hamidualiya123@gmail.com,2024-08-24 22:45:49.000,1,1,0,1
+294,ecnuk,2024-08-28 17:07:44,plot 65 block b,worker,Food Industry,MULTIPLE_WEIGHTED_DUPS,plot 65 block b,worker,5,0,0,0,826549019,2024-08-26,Josephineanaafi857@gmail.com,2024-08-28 18:02:47.000,1,0,0,0
+295,ecnvu,2024-01-30 16:26:54,Aadoon street,,,MULTIPLE_WEIGHTED_DUPS,Tikobo street,nan,6,5,5,0,258613263,2024-01-29,,,0,0,0,0
+296,ecnvu,2024-01-30 20:25:00,Akee street,,,MULTIPLE_WEIGHTED_DUPS,Tikobo street,nan,5,5,5,0,540311706,2024-01-29,akwasisamuel082@gmail.com,,0,0,0,0
+297,ecnvu,2024-01-31 19:16:12,Mukose street,,,MULTIPLE_WEIGHTED_DUPS,Tikobo street,nan,6,4,4,0,598464750,2024-01-29,petrinaharb@gmail.com,2024-02-01 17:29:12.000,1,0,0,0
+298,ecnvu,2024-01-31 21:38:00,Nii Taki street,,,MULTIPLE_WEIGHTED_DUPS,Adiembra street,nan,8,7,7,0,967916610,2024-01-29,,,0,0,0,0
+299,ecnvu,2024-02-05 13:15:13,Pepper Street,,,MULTIPLE_WEIGHTED_DUPS,Akee street,nan,6,6,6,0,537644289,2024-02-05,awukuasare0245539291@gmail.com,,0,0,0,0
+300,ecnvu,2024-02-07 03:32:08,Kobi strt,,,MULTIPLE_WEIGHTED_DUPS,Tikobo street,nan,5,6,6,0,668004287,2024-02-05,,2024-02-07 03:38:23.000,1,0,0,0
+301,ecnvu,2024-02-11 12:17:04,Mango street,,,MULTIPLE_WEIGHTED_DUPS,Aadoon street,nan,8,4,4,0,488809268,2024-02-05,Tianakonadu@gmail.come,2024-02-11 12:19:34.000,1,0,0,0
+302,ecnvu,2024-02-14 11:24:05,Jackson streets,,,MULTIPLE_WEIGHTED_DUPS,Aadoon street,nan,5,5,5,0,666068376,2024-02-12,dareendaniel14@gmail.com,,0,0,0,0
+303,ecnvu,2024-02-20 01:38:25,ECG Flat,,,MULTIPLE_WEIGHTED_DUPS,Kobi strt,nan,5,7,7,0,171801628,2024-02-19,romeonanayawessiful@gmail.com,,0,0,0,0
+304,ecnvu,2024-02-20 17:15:58,Edwenase street,,,MULTIPLE_WEIGHTED_DUPS,Queens Street,nan,4,6,6,0,870852203,2024-02-19,lordinabrobbey2@gmail.com,2024-02-21 14:01:23.000,1,0,0,0
+305,ecnvu,2024-02-22 11:17:56,Shaban street,,,MULTIPLE_WEIGHTED_DUPS,Mango street,nan,5,5,5,0,898861891,2024-02-19,,,0,0,0,0
+306,ecnvu,2024-02-23 19:54:55,plover Street,,,MULTIPLE_WEIGHTED_DUPS,Queens Street,nan,4,6,6,0,713555484,2024-02-19,axellebonny087@gmail.com,,0,0,0,0
+307,ecnvu,2024-02-24 11:08:25,Nkotompo street,,,MULTIPLE_WEIGHTED_DUPS,Mango street,nan,5,7,7,0,578580637,2024-02-19,Collinsfrinpong@gmail.com,,0,0,0,0
+308,ecnvu,2024-02-25 09:22:02,Ekegyina street,,,MULTIPLE_WEIGHTED_DUPS,Mango street,nan,7,7,7,0,12777530,2024-02-19,kabiennor@gmail.com,2024-02-29 08:37:25.000,1,0,0,0
+309,ecnvu,2024-02-25 20:41:33,DX39 ST,,,MULTIPLE_WEIGHTED_DUPS,LA TEBU,nan,4,7,7,0,946928060,2024-02-19,,,0,0,0,0
+310,ecnvu,2024-02-27 10:11:13,Tsui bleoo,,,MULTIPLE_WEIGHTED_DUPS,Teshie Tsuibleoo,nan,4,7,7,0,423193098,2024-02-26,raga13467@gmail.com,,0,0,0,0
+311,ecnvu,2024-02-28 18:24:42,Blasu street,,,MULTIPLE_WEIGHTED_DUPS,Shaban street,nan,8,5,5,0,31367890,2024-02-26,,,0,0,0,0
+312,ecnvu,2024-03-04 14:49:58,W D,,,MULTIPLE_WEIGHTED_DUPS,KH15,nan,5,4,4,0,317946091,2024-03-04,issakamohammad12@gmail.com,,0,0,0,0
+313,ecnvu,2024-03-09 11:34:11,Ring Road,,,MULTIPLE_WEIGHTED_DUPS,Nii Jorn Road,nan,9,7,7,0,827714251,2024-03-04,,,0,0,0,0
+314,ecnvu,2024-03-11 08:22:14,GCB Bank,,,MULTIPLE_WEIGHTED_DUPS,W D,nan,5,7,7,0,554794239,2024-03-11,Anamlieelizabeth700@gmail.com,2024-03-11 11:48:54.000,1,1,0,0
+315,ecnvu,2024-03-12 08:49:25,weija dam,,,MULTIPLE_WEIGHTED_DUPS,Ring Road,nan,7,7,7,0,559459316,2024-03-11,,,0,0,0,0
+316,ecnvu,2024-03-12 18:50:18,Bohyen Road,,,MULTIPLE_WEIGHTED_DUPS,Ring Road,nan,4,6,6,0,437961447,2024-03-11,acheampongvanessa8@yahoo.com,2024-03-12 18:51:48.000,1,0,0,0
+317,ecnvu,2024-03-13 08:16:05,wawa road,,,MULTIPLE_WEIGHTED_DUPS,Ring Road,nan,9,5,5,0,271515027,2024-03-11,rinahyirenkyiwa@gmail.com,,0,0,0,0
+318,ecnvu,2024-03-18 12:09:13,SI 16,,,MULTIPLE_WEIGHTED_DUPS,W D,nan,6,4,4,0,18881575,2024-03-18,emmanueladupoku13@gmail.com,,0,0,0,0
+319,ecnvu,2024-03-19 00:56:05,GCB bank,,,MULTIPLE_WEIGHTED_DUPS,GCB Bank,nan,7,1,1,0,201247932,2024-03-18,,2024-04-16 10:13:33.000,1,1,0,0
+320,ecnvu,2024-03-21 08:00:55,cp r,,,MULTIPLE_WEIGHTED_DUPS,SI 16,nan,7,4,4,0,662736602,2024-03-18,adajawahtheophilus@gmail.com,,0,0,0,0
+321,ecnvu,2024-03-27 15:37:55,New site,,,MULTIPLE_WEIGHTED_DUPS,wawa road,nan,6,7,7,0,403417429,2024-03-25,,,0,0,0,0
+322,ecnvu,2024-03-31 12:41:23,ring road,,,MULTIPLE_WEIGHTED_DUPS,cp r,nan,5,7,7,0,678147270,2024-03-25,,2024-04-06 21:58:20.000,1,0,0,0
+323,ecnvu,2024-04-03 12:58:25,Sahara street,,,MULTIPLE_WEIGHTED_DUPS,lady c street,nan,6,5,5,0,897421342,2024-04-01,geraldohemeng30@gmail.com,,0,0,0,0
+324,ecnvu,2024-04-11 23:23:56,Tinagyei street,,,MULTIPLE_WEIGHTED_DUPS,lady c street,nan,5,6,6,0,848190969,2024-04-08,Donkorjessica30@gmail.con,2024-04-12 01:39:46.000,1,0,0,0
+325,ecnvu,2024-04-16 12:41:50,Eudora street,,,MULTIPLE_WEIGHTED_DUPS,Sahara street,nan,4,4,4,0,736623888,2024-04-15,golokumahgloria17@gmail.com,2024-04-16 12:58:16.000,1,0,0,0
+326,ecnvu,2024-04-16 13:55:29,Euless street,,,MULTIPLE_WEIGHTED_DUPS,Eudora street,nan,7,4,4,0,483371035,2024-04-15,Karimkabdul@icloud.com,,0,0,0,0
+327,ecnvu,2024-04-16 14:35:20,Sansa Street,,,MULTIPLE_WEIGHTED_DUPS,Sahara street,nan,6,4,4,0,145493365,2024-04-15,amoobenedicta282@gmail.com,,0,0,0,0
+328,ecnvu,2024-04-16 19:19:05,Tumu street,,,MULTIPLE_WEIGHTED_DUPS,Eudora street,nan,7,5,5,0,777896427,2024-04-15,dakurahmishel41@gmail.com,2024-04-16 19:25:28.000,1,0,0,0
+329,ecnvu,2024-04-17 16:48:18,04 Slate Street,,,MULTIPLE_WEIGHTED_DUPS,Sansa Street,nan,5,7,7,0,374302254,2024-04-15,adikelvinisrael@gmail.com,2024-04-27 12:08:33.000,1,0,0,0
+330,ecnvu,2024-04-19 20:28:46,kokompe Street,,,MULTIPLE_WEIGHTED_DUPS,Eudora street,nan,8,7,7,0,244630671,2024-04-15,aidoomorris778@gmail.com,2024-04-26 08:30:29.000,1,0,0,0
+331,ecnvu,2024-04-20 06:34:38,E 178,,,MULTIPLE_WEIGHTED_DUPS,OSEI GYAN,nan,4,7,7,0,130917110,2024-04-15,brightoseipoku68@gmail.com,2024-04-21 11:17:14.000,1,0,0,0
+332,ecnvu,2024-04-22 00:38:34,Assin Fosu,,,MULTIPLE_WEIGHTED_DUPS,Atwima Boko,nan,4,7,7,0,949688910,2024-04-22,queendelabiney3@gmail.com,,0,0,0,0
+333,ecnvu,2024-04-22 16:52:25,Akalombo street,,,MULTIPLE_WEIGHTED_DUPS,kokompe Street,nan,7,6,6,0,710145624,2024-04-22,kenaggrey79@gmail.com,,0,0,0,0
+334,ecnvu,2024-04-24 10:52:59,GT BANK,,,MULTIPLE_WEIGHTED_DUPS,E 178,nan,4,6,6,0,356448066,2024-04-22,lydachia@gmail.com,,0,0,0,0
+335,ecnvu,2024-05-24 21:28:49,lily road,,,MULTIPLE_WEIGHTED_DUPS,AGo 377,nan,4,8,8,0,394631136,2024-05-20,akuribilaayamdoolawrence@gmail.com,,0,0,0,0
+336,ecnvu,2024-05-25 13:03:20,Oak street,,,MULTIPLE_WEIGHTED_DUPS,Lime street,nan,4,4,4,0,51269332,2024-05-20,jt430247@gmail.com,2024-05-25 13:06:26.000,1,1,1,0
+337,ecnvu,2024-05-25 14:54:46,Ayebeng street,,,MULTIPLE_WEIGHTED_DUPS,Lime street,nan,4,6,6,0,308751599,2024-05-20,woedemahlijah17th@gmail.com,,0,0,0,0
+338,ecnvu,2024-05-28 08:37:41,Flint hostel,,,MULTIPLE_WEIGHTED_DUPS,Prestige hostel,nan,4,7,7,0,34579297,2024-05-27,,,0,0,0,0
+339,ecnvu,2024-05-31 07:50:57,Tornado Street,,,MULTIPLE_WEIGHTED_DUPS,Buffalo Street,nan,5,5,5,0,950572774,2024-05-27,boamahedmund568@gmail.com,,0,0,0,0
+340,ecnvu,2024-05-31 11:30:39,Adamu street,,,MULTIPLE_WEIGHTED_DUPS,Lime street,nan,8,4,4,0,975726231,2024-05-27,apurifedelis@gmail.com,,0,0,0,0
+341,ecnvu,2024-06-02 09:20:27,Agyapayie street,,,MULTIPLE_WEIGHTED_DUPS,Ayebeng street,nan,7,7,7,0,124085909,2024-05-27,Babyedithbobie@gmail.com,2024-06-02 10:01:09.000,1,0,0,0
+342,ecnvu,2024-06-04 14:40:51,Richmond Street,,,MULTIPLE_WEIGHTED_DUPS,Lime street,nan,5,7,7,0,443778459,2024-06-03,forrson@outlook.com,2024-06-04 14:46:01.000,1,0,0,0
+343,ecnvu,2024-06-13 18:47:32,Kama street,,,MULTIPLE_WEIGHTED_DUPS,Adamu street,nan,6,3,3,0,465858840,2024-06-10,emmanuelmarfo1414@gmail.com,,0,0,0,0
+344,ecnvu,2024-06-14 16:44:32,Bleak Street,,,MULTIPLE_WEIGHTED_DUPS,Kama street,nan,5,5,5,0,397577141,2024-06-10,,2024-06-15 18:09:45.000,1,0,0,0
+345,ecnvu,2024-06-15 08:28:41,Blue street,,,MULTIPLE_WEIGHTED_DUPS,Kama street,nan,5,4,4,0,589157782,2024-06-10,aduashongsolomon06@gmail.com,,0,0,0,0
+346,ecnvu,2024-06-18 22:45:16,Kasoa market,,,MULTIPLE_WEIGHTED_DUPS,Kama street,nan,4,5,5,0,384237745,2024-06-17,maameyaakessewaa@gmail.com,2024-06-18 22:55:37.000,1,0,0,0
+347,ecnvu,2024-06-19 08:26:07,kotei market,,,MULTIPLE_WEIGHTED_DUPS,Kasoa market,nan,6,5,5,0,479203133,2024-06-17,ernesttieku7@gmail.com,,0,0,0,0
+348,ecnvu,2024-06-20 13:03:56,Rawlings street,,,MULTIPLE_WEIGHTED_DUPS,Kama street,nan,4,7,7,0,628005796,2024-06-17,princeparker114@gmail.com,,0,0,0,0
+349,ecnvu,2024-06-20 14:19:02,Asafo Market,,,MULTIPLE_WEIGHTED_DUPS,Kasoa market,nan,6,5,5,0,135453640,2024-06-17,aaronaboagye43@gmail.com,,0,0,0,0
+350,ecnvu,2024-06-20 17:33:30,GPHA estate,,,MULTIPLE_WEIGHTED_DUPS,GPHA Hospital,nan,4,6,6,0,376897316,2024-06-17,justicekweku14@gmail.com,,0,0,0,0
+351,ecnvu,2024-06-20 19:37:21,Arthur street,,,MULTIPLE_WEIGHTED_DUPS,Blue street,nan,8,5,5,0,107600397,2024-06-17,franklinmanful5@gmail.com,2024-06-20 19:39:42.000,1,0,0,0
+352,ecnvu,2024-06-21 14:11:23,BOT centre,,,MULTIPLE_WEIGHTED_DUPS,BA 32,nan,6,8,8,0,843468300,2024-06-17,bernardopoku505@gmail.com,,0,0,0,0
+353,ecnvu,2024-06-22 12:35:37,Church hospital,,,MULTIPLE_WEIGHTED_DUPS,Akaway hospital,nan,4,6,6,0,925896995,2024-06-17,gyanwahadams@gmail.com,2024-06-22 12:37:55.000,1,0,0,0
+354,ecnvu,2024-06-22 23:18:20,PDA Ghana,,,MULTIPLE_WEIGHTED_DUPS,GPHA estate,nan,4,7,7,0,507662499,2024-06-17,nikonartey@gmail.com,,0,0,0,0
+355,ecnvu,2024-06-23 13:09:24,Power Chapel,,,MULTIPLE_WEIGHTED_DUPS,Indece hall,nan,4,8,8,0,783727765,2024-06-17,peternana161@gmail.com,2024-06-23 13:11:24.000,1,0,0,0
+356,ecnvu,2024-06-24 08:18:11,St lucy streets,,,MULTIPLE_WEIGHTED_DUPS,Blue street,nan,6,6,6,0,890288438,2024-06-24,escobarbaako@gmail.com,,0,0,0,0
+357,ecnvu,2024-06-27 18:32:06,Nayas street,,,MULTIPLE_WEIGHTED_DUPS,Kama street,nan,11,3,3,0,442438402,2024-06-24,leonardbonsu321@gmail.com,,0,0,0,0
+358,ecnvu,2024-06-28 13:03:22,PIMA hospital,,,MULTIPLE_WEIGHTED_DUPS,Pima hospital,nan,5,3,3,0,261770114,2024-06-24,jaygood196@gmail.com,2024-06-28 14:46:11.000,1,0,0,0
+359,ecnvu,2024-06-29 10:27:01,Accra road,,,MULTIPLE_WEIGHTED_DUPS,Ayeduase road,nan,4,6,6,0,303394638,2024-06-24,aliscatetteh@gmail.com,,0,0,0,0
+360,ecnvu,2024-06-29 14:21:25,Jackson street,,,MULTIPLE_WEIGHTED_DUPS,Nayas street,nan,10,5,5,0,505307035,2024-06-24,,2024-06-29 14:27:50.000,1,0,0,0
+361,ecnvu,2024-06-30 18:29:28,Martinson Street,,,MULTIPLE_WEIGHTED_DUPS,Jackson street,nan,6,6,6,0,547340967,2024-06-24,oliverabakah89@gmail.com,,0,0,0,0
+362,ecnvu,2024-07-01 11:42:44,B 16,,,MULTIPLE_WEIGHTED_DUPS,BOT centre,nan,5,8,8,0,904577473,2024-07-01,nsohgifty11@gmail.com,2024-07-11 15:17:43.000,1,0,0,0
+363,ecnvu,2024-07-02 23:42:37,Oxford street,,,MULTIPLE_WEIGHTED_DUPS,Arthur street,nan,10,6,6,0,295439401,2024-07-01,kezia9343@gmail.com,2024-07-02 23:44:58.000,1,0,0,0
+364,ecnvu,2024-07-03 07:42:15,Bediako Street,,,MULTIPLE_WEIGHTED_DUPS,Akyereko Street,nan,9,6,6,0,953752931,2024-07-01,,2024-11-25 16:56:59.000,1,0,0,0
+365,ecnvu,2024-07-03 19:01:46,Oxford street,,,MULTIPLE_WEIGHTED_DUPS,Oxford street,nan,12,0,0,0,25830929,2024-07-01,Shaunalerewanu95@gmail.com,,0,0,0,0
+366,ecnvu,2024-07-04 18:04:05,First street,,,MULTIPLE_WEIGHTED_DUPS,Nayas street,nan,13,5,5,0,347600840,2024-07-01,konadufrancis160@gmail.com,2024-07-04 18:07:13.000,1,0,0,0
+367,ecnvu,2024-07-04 19:08:27,Adass street,,,MULTIPLE_WEIGHTED_DUPS,Nayas street,nan,13,4,4,0,631983192,2024-07-01,ackahenock321@gmail.com,,0,0,0,0
+368,ecnvu,2024-07-05 15:38:19,afrifa Street,,,MULTIPLE_WEIGHTED_DUPS,Bediako Street,nan,11,6,6,0,380895546,2024-07-01,asirifikwaku999@gmail.com,,0,0,0,0
+369,ecnvu,2024-07-09 02:10:30,Mahogany street,,,MULTIPLE_WEIGHTED_DUPS,Nayas street,nan,11,6,6,0,658075427,2024-07-08,es2858766@gmail.com,2024-07-09 02:14:48.000,1,1,0,1
+370,ecnvu,2024-07-09 10:13:18,Franco st,,,MULTIPLE_WEIGHTED_DUPS,Akpalu D7,nan,5,8,8,0,536676240,2024-07-08,nanaafia503@gmail.com,2024-07-11 10:09:04.000,1,0,0,0
+371,ecnvu,2024-07-10 12:29:00,Kotei Road,,,MULTIPLE_WEIGHTED_DUPS,Accra road,nan,4,6,6,0,43463062,2024-07-08,,,0,0,0,0
+372,ecnvu,2024-07-11 13:42:47,Love joy street,,,MULTIPLE_WEIGHTED_DUPS,Jackson street,nan,9,7,7,0,702676579,2024-07-08,adjakloherbert@gmail.com,2024-07-11 13:46:43.000,1,0,0,0
+373,ecnvu,2024-07-11 15:35:31,Methodist church,,,MULTIPLE_WEIGHTED_DUPS,Methodist Church,nan,4,1,1,0,649793784,2024-07-08,dapaahemmanuel882@gmail.com,2024-07-12 12:08:07.000,1,1,0,1
+374,ecnvu,2024-07-11 21:33:13,Ofuman Road,,,MULTIPLE_WEIGHTED_DUPS,Accra road,nan,7,6,6,0,416115279,2024-07-08,alhajimusah7@icloud.com,,0,0,0,0
+375,ecnvu,2024-07-13 13:03:04,Tema com25,,,MULTIPLE_WEIGHTED_DUPS,Franco st,nan,6,7,7,0,440098900,2024-07-08,davidanakwa230@gmail.com,2024-07-13 14:22:52.000,1,0,0,0
+376,ecnvu,2024-07-15 10:34:21,Ahenema street,,,MULTIPLE_WEIGHTED_DUPS,Adass street,nan,9,6,6,0,605847950,2024-07-15,darkohrichmond835@gmail.com,2024-07-15 10:50:55.000,1,0,0,0
+377,ecnvu,2024-07-19 09:59:44,pankrono Street,,,MULTIPLE_WEIGHTED_DUPS,afrifa Street,nan,4,6,6,0,459961528,2024-07-15,elizabethboatemaa2001@gmail.com,2024-07-19 10:11:01.000,1,0,0,0
+378,ecnvu,2024-07-20 17:12:57,"AK-104-6826 Oforikrom,Kumasi",,,MULTIPLE_WEIGHTED_DUPS,"AK-104-6826 Oforikrom,Kumasi",nan,4,0,0,0,735968215,2024-07-15,scholaroduro405@gmail.com,,0,0,0,0
+379,ecnvu,2024-07-22 04:05:33,CCTU road,,,MULTIPLE_WEIGHTED_DUPS,Kotei Road,nan,4,6,6,0,94857007,2024-07-22,,2024-07-22 04:14:06.000,1,0,0,0
+380,ecnvu,2024-07-22 16:42:01,GMC hospital,,,MULTIPLE_WEIGHTED_DUPS,A1 Hospital,nan,4,4,4,0,649253076,2024-07-22,Manuvenissa2@gmail.com,,0,0,0,0
+381,ecnvu,2024-07-23 17:46:00,Palm Street,,,MULTIPLE_WEIGHTED_DUPS,Ahenema street,nan,4,7,7,0,145347774,2024-07-22,gsitobu@gmail.com,,0,0,0,0
+382,ecnvu,2024-07-24 12:34:23,Abuja street,,,MULTIPLE_WEIGHTED_DUPS,Ahenema street,nan,4,5,5,0,576821068,2024-07-22,tmoatanalhassa@gmail.com,,0,0,0,0
+383,ecnvu,2024-07-26 08:53:10,Eguabado street,,,MULTIPLE_WEIGHTED_DUPS,Abuja street,nan,6,6,6,0,907094172,2024-07-22,fredrickandoh17@gmail.com,,0,0,0,0
+384,ecnvu,2024-07-26 13:38:19,SSQ 2,,,MULTIPLE_WEIGHTED_DUPS,DA 14,nan,4,5,5,0,29607856,2024-07-22,rtigbee@gmail.com,,0,0,0,0
+385,ecnvu,2024-07-27 02:52:22,Esereso 10,,,MULTIPLE_WEIGHTED_DUPS,Okyerekrom ST,nan,4,8,8,0,171578250,2024-07-22,jasperdzramedo@gmail.com,,0,0,0,0
+386,ecnvu,2024-07-29 11:21:31,adum market,,,MULTIPLE_WEIGHTED_DUPS,Palm Street,nan,5,6,6,0,250530842,2024-07-29,smoothfred431@gmail.com,2024-07-29 11:24:44.000,1,0,0,0
+387,ecnvu,2024-07-30 15:57:42,Bagle St,,,MULTIPLE_WEIGHTED_DUPS,DA 14,nan,5,7,7,0,203640386,2024-07-29,nanaowusuaberko@gmail.com,2024-07-30 15:58:45.000,1,0,0,0
+388,ecnvu,2024-07-31 10:23:55,Kotei Market,,,MULTIPLE_WEIGHTED_DUPS,adum market,nan,8,6,6,0,727706249,2024-07-29,ellaris3508@gmail.com,,0,0,0,0
+389,ecnvu,2024-07-31 17:30:29,Borbbey street,,,MULTIPLE_WEIGHTED_DUPS,Abuja street,nan,5,6,6,0,379734083,2024-07-29,kofitakyi055@gmail.com,2024-07-31 17:41:47.000,1,0,0,0
+390,ecnvu,2024-08-01 14:46:20,Pound Street,,,MULTIPLE_WEIGHTED_DUPS,Palm Street,nan,8,4,4,0,868924299,2024-07-29,s.agyeiwahsarpong@gmail.com,,0,0,0,0
+391,ecnvu,2024-08-02 15:46:29,dr Ive,,,MULTIPLE_WEIGHTED_DUPS,DA 14,nan,8,5,5,0,748020663,2024-07-29,,2024-08-02 15:50:42.000,1,0,0,0
+392,ecnvu,2024-08-02 17:13:48,God is Able,,,MULTIPLE_WEIGHTED_DUPS,Ejisu onwe,nan,4,8,8,0,217273175,2024-07-29,jacklinebrown716@gmail.com,,0,0,0,0
+393,ecnvu,2024-08-02 21:45:23,doverme st,,,MULTIPLE_WEIGHTED_DUPS,Bagle St,nan,5,7,7,0,138874258,2024-07-29,ohenep161@gmail.com,,0,0,0,0
+394,ecnvu,2024-08-04 08:11:15,ICGC chapel,,,MULTIPLE_WEIGHTED_DUPS,R/C church,nan,4,7,7,0,362678267,2024-07-29,theresabamfo8@gmail.com,2024-08-04 21:35:04.000,1,0,0,0
+395,ecnvu,2024-08-04 08:15:03,suncity st,,,MULTIPLE_WEIGHTED_DUPS,doverme st,nan,4,7,7,0,687088687,2024-07-29,indiumtoyou@gmail.com,2024-08-05 17:09:32.000,1,0,0,0
+396,ecnvu,2024-08-05 16:37:13,pampaso street,,,MULTIPLE_WEIGHTED_DUPS,Abuja street,nan,6,6,6,0,440288424,2024-08-05,gilbertanaba111@gmail.com,2024-08-05 16:52:40.000,1,0,0,0
+397,ecnvu,2024-08-06 13:43:48,123 main Street,,,MULTIPLE_WEIGHTED_DUPS,Palm Street,nan,6,7,7,0,62800581,2024-08-05,oseisarfosophia53@gmail.com,,0,0,0,0
+398,ecnvu,2024-08-06 22:58:08,trinity street,,,MULTIPLE_WEIGHTED_DUPS,Borbbey street,nan,8,6,6,0,750366284,2024-08-05,reekadob376@gmail.com,2024-08-06 23:19:43.000,1,1,0,0
+399,ecnvu,2024-08-07 01:47:57,Socca bet,,,MULTIPLE_WEIGHTED_DUPS,SSQ 2,nan,14,7,7,0,982342659,2024-08-05,millskenneth325@gmail.com,2024-08-07 02:10:39.000,1,1,0,1
+400,ecnvu,2024-08-07 11:22:51,Liberty fm,,,MULTIPLE_WEIGHTED_DUPS,doverme st,nan,4,7,7,0,892161210,2024-08-05,kingsleytetteh419@gmail.com,,0,0,0,0
+401,ecnvu,2024-08-07 13:44:57,odae yaw street,,,MULTIPLE_WEIGHTED_DUPS,Abuja street,nan,8,7,7,0,553923480,2024-08-05,tuffourendurance@gmail.com,2024-08-07 14:39:15.000,1,0,0,0
+402,ecnvu,2024-08-07 14:23:37,mulberry street,,,MULTIPLE_WEIGHTED_DUPS,Borbbey street,nan,8,6,6,0,131761590,2024-08-05,gunshotmajeed@gmail.com,2024-08-07 14:47:18.000,1,1,0,0
+403,ecnvu,2024-08-07 17:33:37,Burma camp,,,MULTIPLE_WEIGHTED_DUPS,Busia Road,nan,6,6,6,0,631856827,2024-08-05,fredkojodzuwuyam@gmail.com,,0,0,0,0
+404,ecnvu,2024-08-07 20:36:17,main street,,,MULTIPLE_WEIGHTED_DUPS,Abuja street,nan,13,5,5,0,176379861,2024-08-05,bobie9967@gmail.com,,0,0,0,0
+405,ecnvu,2024-08-08 09:22:55,okubi hotel,,,MULTIPLE_WEIGHTED_DUPS,de Lisa hostel,nan,5,7,7,0,815201278,2024-08-05,justiceamankwaah68@gmail.com,2024-08-08 23:54:54.000,1,1,0,1
+406,ecnvu,2024-08-08 09:44:15,PT 15,,,MULTIPLE_WEIGHTED_DUPS,SSQ 2,nan,6,5,5,0,710567749,2024-08-05,neizeriq2@gmail.com,,0,0,0,0
+407,ecnvu,2024-08-09 00:24:10,AZ 80,,,MULTIPLE_WEIGHTED_DUPS,PT 15,nan,7,4,4,0,623187416,2024-08-05,princealorvor@gmail.com,2024-08-31 12:13:10.000,1,0,0,0
+408,ecnvu,2024-08-10 17:48:55,Blue store,,,MULTIPLE_WEIGHTED_DUPS,Bagle St,nan,9,7,7,0,858205177,2024-08-05,francisarhin7615@gmail.com,,0,0,0,0
+409,ecnvu,2024-08-12 11:13:44,k k,,,MULTIPLE_WEIGHTED_DUPS,PT 15,nan,6,4,4,0,967497381,2024-08-12,,,0,0,0,0
+410,ecnvu,2024-08-12 11:59:54,ayeduase gate,,,MULTIPLE_WEIGHTED_DUPS,ayeduase knust,nan,4,5,5,0,398707730,2024-08-12,,,0,0,0,0
+411,ecnvu,2024-08-12 19:05:44,Knust school,,,MULTIPLE_WEIGHTED_DUPS,Kingstel Hotel,nan,4,8,8,0,943312149,2024-08-12,artrich38@gmail.com,,0,0,0,0
+412,ecnvu,2024-08-13 17:21:55,malt close,,,MULTIPLE_WEIGHTED_DUPS,main street,nan,7,7,7,0,226300449,2024-08-12,kabu1zeed@gmail.com,2024-08-13 17:27:06.000,1,0,0,0
+413,ecnvu,2024-08-13 20:24:19,123 main street,,,MULTIPLE_WEIGHTED_DUPS,123 main Street,nan,8,1,1,0,48096760,2024-08-12,aboagyejanet.vom@gmail.com,,0,0,0,0
+414,ecnvu,2024-08-14 17:58:31,medi moses,,,MULTIPLE_WEIGHTED_DUPS,malt close,nan,10,6,6,0,700211585,2024-08-12,stephen112467@gmail.com,2024-08-14 17:59:46.000,1,0,0,0
+415,ecnvu,2024-08-16 10:41:15,P o,,,MULTIPLE_WEIGHTED_DUPS,k k,nan,10,2,2,0,510303659,2024-08-12,soniaduku1@gmail.com,,0,0,0,0
+416,ecnvu,2024-08-16 13:41:40,Assin Foso,,,MULTIPLE_WEIGHTED_DUPS,Busia Road,nan,6,6,6,0,640291094,2024-08-12,lilsark13@gmail.com,,0,0,0,0
+417,ecnvu,2024-08-17 13:49:35,Chlorine street,,,MULTIPLE_WEIGHTED_DUPS,main street,nan,8,6,6,0,534351783,2024-08-12,alhassanwuntrasaida@gmail.com,2024-08-17 14:06:10.000,1,0,0,0
+418,ecnvu,2024-08-18 12:55:08,BALER LN,,,MULTIPLE_WEIGHTED_DUPS,AZ 80,nan,7,6,6,0,59870786,2024-08-12,thood1726@gmail.com,,0,0,0,0
+419,ecnvu,2024-08-20 16:00:19,Kasoa street,,,MULTIPLE_WEIGHTED_DUPS,main street,nan,12,4,4,0,230035450,2024-08-19,meeches577@gmail.com,2024-08-20 16:05:40.000,1,1,1,0
+420,ecnvu,2024-08-22 20:26:18,Sogakope street,,,MULTIPLE_WEIGHTED_DUPS,Kasoa street,nan,5,6,6,0,614475700,2024-08-19,lawrencebobblik@gmail.com,,0,0,0,0
+421,ecnvu,2024-08-22 21:57:21,PV 569,,,MULTIPLE_WEIGHTED_DUPS,PT 15,nan,6,4,4,0,622670915,2024-08-19,papakofiaikins@gmail.com,2024-08-22 22:07:38.000,1,0,0,0
+422,ecnvu,2024-08-23 15:52:49,new legon,,,MULTIPLE_WEIGHTED_DUPS,P o,nan,6,7,7,0,833397776,2024-08-19,,2024-08-23 15:54:19.000,1,0,0,0
+423,ecnvu,2024-08-26 17:02:28,kokode street,,,MULTIPLE_WEIGHTED_DUPS,Sogakope street,nan,5,4,4,0,714370540,2024-08-26,princessnsiah12@gmail.com,,0,0,0,0
+424,ecnvu,2024-08-28 13:17:31,Akom scale,,,MULTIPLE_WEIGHTED_DUPS,Aboom wells,nan,5,6,6,0,215414390,2024-08-26,emmasuugar26@gmail.com,2024-08-28 14:09:38.000,1,0,0,0
+425,ecnvu,2024-08-31 15:07:35,Ap 20,,,MULTIPLE_WEIGHTED_DUPS,PV 569,nan,5,5,5,0,251345476,2024-08-26,pnkuahjr@gmail.com,2024-08-31 15:14:41.000,1,1,0,1
+426,ecnvu,2024-09-02 17:55:40,Palace Street,,,MULTIPLE_WEIGHTED_DUPS,Kasoa street,nan,4,6,6,0,632741909,2024-09-02,ednatekuor69@gmail.com,,0,0,0,0
+427,ecnvu,2024-09-04 22:11:13,A mosque,,,MULTIPLE_WEIGHTED_DUPS,Akom scale,nan,4,6,6,0,887089877,2024-09-02,,2024-09-04 22:42:27.000,1,0,0,0
+428,ecnvu,2024-09-07 16:25:51,Twifo pra,,,MULTIPLE_WEIGHTED_DUPS,Redco flats,nan,4,8,8,0,211334898,2024-09-02,nicholasyeboah2004@gmail.com,,0,0,0,0
+429,ecnvu,2024-09-08 19:07:08,old market,,,MULTIPLE_WEIGHTED_DUPS,kokode street,nan,4,7,7,0,989371913,2024-09-02,stephanieboateng384@gmail.com,,0,0,0,0
+430,ecnvu,2024-09-17 08:31:29,Akohen Street,,,MULTIPLE_WEIGHTED_DUPS,Palace Street,nan,4,6,6,0,808715887,2024-09-16,vhivhi2006@gmail.com,,0,0,0,0
+431,ecny0,2024-12-14 10:33:43,Ks 6108,,,MULTIPLE_WEIGHTED_DUPS,H 74,nan,4,6,6,0,416881314,2024-12-09,agyekumstephen2@gmail.com,,0,0,0,0
+432,ecny0,2024-12-15 16:51:23,feel good,hard working ,Agriculture,MULTIPLE_WEIGHTED_DUPS,feel good,hard working ,4,0,0,0,27720937,2024-12-09,Augustinaopoku433@icloud.com,,0,0,0,0
+433,ecny0,2024-12-15 17:25:33,Bo -1232,,,MULTIPLE_WEIGHTED_DUPS,Ks 6108,nan,5,6,6,0,177972950,2024-12-09,,,0,0,0,0
+434,ecny1,2024-02-03 17:45:06,lime st,,,MULTIPLE_WEIGHTED_DUPS,plot 12,nan,5,6,6,0,914642777,2024-01-29,godfredandiedu434@gmail.com,,0,0,0,0
+435,ecny1,2024-02-13 08:44:12,chef street,,,MULTIPLE_WEIGHTED_DUPS,Dan Ibu street,nan,4,7,7,0,414123473,2024-02-12,,,0,0,0,0
+436,ecny1,2024-02-23 14:28:46,Dublin Street,,,MULTIPLE_WEIGHTED_DUPS,123 Main Street,nan,4,6,6,0,33389624,2024-02-19,iddrisubmahama@gmail.com,,0,0,0,0
+437,ecny1,2024-08-20 15:34:21,AB 44,,,MULTIPLE_WEIGHTED_DUPS,A K,nan,4,3,3,0,603867878,2024-08-19,,,0,0,0,0
+438,ecny1,2024-08-21 05:35:49,new italy,,,MULTIPLE_WEIGHTED_DUPS,S. D. A,nan,4,8,8,0,140827695,2024-08-19,www.justicearpong@gmail.com,,0,0,0,0
+439,ecny1,2024-09-03 00:31:53,pakyi no2,,,MULTIPLE_WEIGHTED_DUPS,Duadaso no1,nan,4,7,7,0,257502580,2024-09-02,appiahkennedy565@gmail.com,,0,0,0,0
+440,ecny2,2024-02-10 09:58:44,atwima koforidua near Church Of Pentecost,manager,Hotel and restaurants,MULTIPLE_WEIGHTED_DUPS,Atwima koforidua near Church Of Pentecost,manager,4,1,1,0,964137280,2024-02-05,,2024-02-10 10:54:50.000,1,1,1,0
+441,ecny2,2024-02-22 18:12:34,atwima koforidua near church of Pentecost,Manager ,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,atwima koforidua near church of pentecost,manager ,4,4,1,1,555448011,2024-02-19,perpetualamankwah3@gmail.com,2024-02-22 18:14:52.000,1,0,0,0
+442,ecny2,2024-07-17 21:25:41,Plot 65 block B,worker,Food Industry,MULTIPLE_WEIGHTED_DUPS,plot 65 Block B,worker,4,2,2,0,633804810,2024-07-15,Yawmore0@gmail.com,2024-08-12 09:31:01.000,1,1,0,1
+443,ecny2,2024-09-05 15:09:14,plot 65 block b,worker,Food Industry,MULTIPLE_WEIGHTED_DUPS,plot 65 block b,worker,4,0,0,0,303952196,2024-09-02,hajjyussif390@gmail.com,,0,0,0,0
+444,ecny2,2024-09-07 11:02:30,plot 65 block b,worker,Food Industry,MULTIPLE_WEIGHTED_DUPS,plot 65 block b,worker,5,0,0,0,40850162,2024-09-02,ahmed23019400@gmail.com,,0,0,0,0
+445,ecny2,2024-09-14 00:16:42,plot 65 block b,woker,Food Industry,MULTIPLE_WEIGHTED_DUPS,plot 65 block b,worker,6,3,0,1,563405339,2024-09-09,hermesboakye0@gmail.com,2024-09-15 16:29:24.000,1,1,0,1
+446,ecny2,2024-09-14 00:31:54,plot 65 block b,worker ,Food Industry,MULTIPLE_WEIGHTED_DUPS,plot 65 block b,worker,7,3,0,1,765735375,2024-09-09,,2024-09-15 14:45:19.000,1,1,0,1
+447,ecny2,2024-09-14 21:52:14,plot 65 block b,worker ,Food Industry,MULTIPLE_WEIGHTED_DUPS,plot 65 block b,worker ,8,0,0,0,985150360,2024-09-09,,2024-09-15 09:17:06.000,1,1,0,1
+448,ecny2,2024-09-15 16:38:35,plot 65 block b,woker,Food Industry,MULTIPLE_WEIGHTED_DUPS,plot 65 block b,woker,10,0,0,0,888854463,2024-09-09,phameskid22@gmail.com,,0,0,0,0
+449,ecny2,2024-09-25 21:29:04,plot 65 block b,worker,Food Industry,MULTIPLE_WEIGHTED_DUPS,plot 65 block b,woker,5,3,0,1,763768352,2024-09-23,richkhidjoseph@gmail.com,,0,0,0,0
+450,ecny3,2024-09-09 08:50:27,Asuofua -Asamang market,Im a teacher ,Education,MULTIPLE_WEIGHTED_DUPS,Asuofua-Asamang market,Im a teacher ,4,1,1,0,346480508,2024-09-09,,,0,0,0,0
+451,ecny4,2024-09-10 08:13:00,123 main,,,MULTIPLE_WEIGHTED_DUPS,KN2 K.,nan,4,7,7,0,114758049,2024-09-09,,,0,0,0,0
+452,ecny4,2024-09-14 21:40:12,bar stop,,,MULTIPLE_WEIGHTED_DUPS,AK 34,nan,4,7,7,0,351457740,2024-09-09,gdonkor666@gmail.com,,0,0,0,0
+453,ecny4,2024-09-16 08:45:55,block 56,,,MULTIPLE_WEIGHTED_DUPS,AK 34,nan,4,7,7,0,760484288,2024-09-16,opokup700@gmail.com,,0,0,0,0
+454,ecny4,2024-09-17 08:37:08,bus stop,,,MULTIPLE_WEIGHTED_DUPS,bar stop,nan,5,2,2,0,386775892,2024-09-16,millicentyeboah.250@gmail.com,2024-09-17 08:41:55.000,1,0,0,0
+455,ecny4,2024-09-20 13:58:17,NNB dis,,,MULTIPLE_WEIGHTED_DUPS,123 main,nan,5,6,6,0,909440998,2024-09-16,sanckeymensah@gmail.com,,0,0,0,0
+456,ecny4,2024-09-28 07:52:36,,,,MULTIPLE_WEIGHTED_DUPS,bar stop,nan,5,7,7,0,945801155,2024-09-23,yawopokuagyemag@gmail.com,,0,0,0,0
+457,ecny5,2024-04-04 13:25:41,Bm 151,,,MULTIPLE_WEIGHTED_DUPS,EA 09,nan,4,5,5,0,992065335,2024-04-01,,2024-04-08 19:33:38.000,1,0,0,0
+458,ecny5,2024-04-08 00:19:05,BLK A906,,,MULTIPLE_WEIGHTED_DUPS,EA 09,nan,4,6,6,0,668772073,2024-04-08,Adamsabdulqudus0@gmail.com,,0,0,0,0
+459,ecny5,2024-04-08 03:43:18,PO Box 14,,,MULTIPLE_WEIGHTED_DUPS,Bm 151,nan,5,7,7,0,641692106,2024-04-08,fredasamoah074@gmail.com,2024-05-10 13:02:15.000,1,1,0,0
+460,ecny5,2024-04-26 10:16:54,AB 11,,,MULTIPLE_WEIGHTED_DUPS,aquarium,nan,4,8,8,0,923999130,2024-04-22,richardprempeh86@gmail.com,,0,0,0,0
+461,ecny5,2024-04-28 16:23:42,Taifa SDA,,,MULTIPLE_WEIGHTED_DUPS,aquarium,nan,5,7,7,0,197942698,2024-04-22,kelvinntim4@gmail.com,,0,0,0,0
+462,ecny5,2024-04-29 10:07:06,Mall place,,,MULTIPLE_WEIGHTED_DUPS,Manhyia palace,nan,5,6,6,0,583152428,2024-04-29,owusuhenry449@gmail.com,2024-05-04 17:11:08.000,1,1,0,1
+463,ecny5,2024-04-30 10:22:26,sepe 44,,,MULTIPLE_WEIGHTED_DUPS,AB 11,nan,5,6,6,0,759665966,2024-04-29,,,0,0,0,0
+464,ecny5,2024-05-03 10:24:51,C line,,,MULTIPLE_WEIGHTED_DUPS,AB 11,nan,7,6,6,0,844561660,2024-04-29,,,0,0,0,0
+465,ecny5,2024-05-10 19:38:16,uni jay,,,MULTIPLE_WEIGHTED_DUPS,AB 11,nan,6,6,6,0,780436173,2024-05-06,,,0,0,0,0
+466,ecny5,2024-06-01 07:34:55,10 as,,,MULTIPLE_WEIGHTED_DUPS,St Paul,nan,4,5,5,0,162613782,2024-05-27,,,0,0,0,0
+467,ecny5,2024-06-01 20:44:18,coco bod,,,MULTIPLE_WEIGHTED_DUPS,Lake road,nan,5,6,6,0,666104799,2024-05-27,,,0,0,0,0
+468,ecny5,2024-06-02 00:24:39,Asikasu street,,,MULTIPLE_WEIGHTED_DUPS,Asawasi street,nan,4,3,3,0,772044655,2024-05-27,,2024-06-02 00:27:51.000,1,0,0,0
+469,ecny5,2024-06-04 11:03:16,Payhall street,,,MULTIPLE_WEIGHTED_DUPS,Asawasi street,nan,5,6,6,0,914706617,2024-06-03,,,0,0,0,0
+470,ecny5,2024-06-14 19:43:30,TAFO NEW,,,MULTIPLE_WEIGHTED_DUPS,10 as,nan,4,7,7,0,302594430,2024-06-10,rosalieabenaidan@gmail.com,,0,0,0,0
+471,ecny5,2024-06-22 00:22:55,Ho 50,,,MULTIPLE_WEIGHTED_DUPS,LA 537,nan,5,4,4,0,298419436,2024-06-17,nanayawnature@gmail.com,,0,0,0,0
+472,ecny5,2024-06-28 08:27:48,X5 pub,,,MULTIPLE_WEIGHTED_DUPS,LA 537,nan,4,5,5,0,664140928,2024-06-24,og2773507@gmail.com,,0,0,0,0
+473,ecny5,2024-06-29 18:54:54,7258 bn,,,MULTIPLE_WEIGHTED_DUPS,Ho 50,nan,5,6,6,0,869915356,2024-06-24,,,0,0,0,0
+474,ecny5,2024-07-18 15:55:21,Asafo SSNIT,,,MULTIPLE_WEIGHTED_DUPS,asafo labour,nan,4,7,7,0,655285224,2024-07-15,asamoahjoyceline94@gmail.com,,0,0,0,0
+475,ecny5,2024-08-03 13:20:07,zongo street,,,MULTIPLE_WEIGHTED_DUPS,Edusei street,nan,4,6,6,0,780392456,2024-07-29,adams221adams@gmail.com,,0,0,0,0
+476,ecny5,2024-08-07 15:22:59,BT st,,,MULTIPLE_WEIGHTED_DUPS,v1 55,nan,4,4,4,0,921172640,2024-08-05,michaelasare011@gmail.com,,0,0,0,0
+477,ecny5,2024-08-10 19:48:59,O.A. Street,,,MULTIPLE_WEIGHTED_DUPS,zongo street,nan,6,6,6,0,606424491,2024-08-05,manassehgbekle@gmail.com,,0,0,0,0
+478,ecny5,2024-08-10 23:09:22,Kotoko street,,,MULTIPLE_WEIGHTED_DUPS,zongo street,nan,6,4,4,0,693682596,2024-08-05,diteyelizabeth@gmail.com,2024-08-10 23:23:43.000,1,1,0,1
+479,ecny5,2024-08-11 18:05:58,Lane 18,,,MULTIPLE_WEIGHTED_DUPS,v1 55,nan,4,6,6,0,266455556,2024-08-05,elormeverywhere@gmail.com,2024-08-11 18:23:04.000,1,0,0,0
+480,ecny5,2024-08-13 14:48:04,Mama Pokua,,,MULTIPLE_WEIGHTED_DUPS,fatima farida,nan,4,8,8,0,935062940,2024-08-12,marwanosman113@gmail.com,2024-08-13 14:51:48.000,1,0,0,0
+481,ecny5,2024-08-14 15:11:34,old tafo,,,MULTIPLE_WEIGHTED_DUPS,Opoku Ware,nan,6,7,7,0,394102936,2024-08-12,addaimichael893@gmail.com,2024-08-14 15:17:25.000,1,1,0,1
+482,ecny5,2024-08-20 11:10:58,yaa Ago,,,MULTIPLE_WEIGHTED_DUPS,BT st,nan,7,6,6,0,426589760,2024-08-19,zeldaiza007@email.com,,0,0,0,0
+483,ecny5,2024-08-26 19:09:54,asafo yf,,,MULTIPLE_WEIGHTED_DUPS,Mama Pokua,nan,5,7,7,0,759319004,2024-08-26,,2024-08-26 19:12:47.000,1,0,0,0
+484,ecny5,2024-08-28 07:28:41,weija dam,,,MULTIPLE_WEIGHTED_DUPS,yaa Ago,nan,4,7,7,0,146032014,2024-08-26,bismarkabu0000@gmail.com,,0,0,0,0
+485,ecny5,2024-08-28 20:24:58,Baba yara,,,MULTIPLE_WEIGHTED_DUPS,yaa Ago,nan,8,6,6,0,61974914,2024-08-26,,2024-08-29 08:50:49.000,1,0,0,0
+486,ecny5,2024-08-31 12:55:45,Accra Mall,,,MULTIPLE_WEIGHTED_DUPS,weija dam,nan,4,7,7,0,315162230,2024-08-26,,,0,0,0,0
+487,ecnyh,2024-03-11 03:59:18,Tafo Market,,,MULTIPLE_WEIGHTED_DUPS,Dome street,nan,4,7,7,0,252745111,2024-03-11,allwayschasemoney@gmail.com,2024-03-11 14:39:16.000,1,0,0,0
+488,ecnyh,2024-05-21 17:16:20,Asafo market,,,MULTIPLE_WEIGHTED_DUPS,1st street,nan,4,7,7,0,768134300,2024-05-20,kwadwoagyekumworld@gmail.com,2024-05-21 17:17:56.000,1,1,0,1
+489,ecnyh,2024-05-23 17:26:04,Asensu Street,,,MULTIPLE_WEIGHTED_DUPS,1st street,nan,4,6,6,0,731028575,2024-05-20,georgeotubuah@gmail.com,,0,0,0,0
+490,ecnyh,2024-06-11 16:58:50,Nima market,,,MULTIPLE_WEIGHTED_DUPS,miawani st,nan,4,8,8,0,752710653,2024-06-10,benedictaddah442@gmail.com,,0,0,0,0
+491,ecnyh,2024-07-11 09:33:56,Church 12,,,MULTIPLE_WEIGHTED_DUPS,Block 12,nan,4,5,5,0,151845133,2024-07-08,,,0,0,0,0
+492,ecnyh,2024-07-21 13:51:59,tech road,,,MULTIPLE_WEIGHTED_DUPS,Plot 21,nan,5,8,8,0,737521430,2024-07-15,kwabenaboakye.w@gmail.com,,0,0,0,0
+493,ecnyh,2024-08-24 18:19:07,Adepa hostel,,,MULTIPLE_WEIGHTED_DUPS,dashley hostel,nan,5,7,7,0,841077067,2024-08-19,brownlawrencia153@gmail.com,2024-08-24 18:24:15.000,1,0,0,0
+494,ecnyk,2024-08-23 18:22:17,Plot F36,,,MULTIPLE_WEIGHTED_DUPS,km 27,nan,4,7,7,0,475749834,2024-08-19,,,0,0,0,0
+495,ecp6m,2024-07-13 16:33:17,roman ridge,,,MULTIPLE_WEIGHTED_DUPS,roman ridge,nan,4,0,0,0,98340899,2024-07-08,,,0,0,0,0
+496,ecp6m,2024-07-13 16:50:52,roman ridge,,,MULTIPLE_WEIGHTED_DUPS,roman ridge,nan,5,0,0,0,95855503,2024-07-08,,,0,0,0,0
+497,ecp8h,2024-09-26 13:55:24,Adawukwa lorry station,Supervisor ,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,adawukwa lorry station,supervisor ,4,4,1,1,431530612,2024-09-23,mobpaa6@gmail.com,2024-09-26 14:00:08.000,1,1,0,1
+498,ecp8h,2024-09-28 17:53:46,adawukwao lorry station,supervisor ,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,adawukwa lorry station,supervisor ,5,1,1,0,846412365,2024-09-23,godwinmissinu@gmail.com,,0,0,0,0
+499,ecp8h,2024-09-29 10:27:37,adawukwoa lorry station,supervisor ,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,adawukwa lorry station,supervisor ,6,1,1,0,296069907,2024-09-23,asumahehoe@gmail.com,2024-09-29 10:58:47.000,1,1,0,1
+500,ecp8h,2024-10-02 11:19:33,Adawukwao lorry station,supervisor,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,adawukwa lorry station,supervisor,6,2,2,0,475217688,2024-09-30,asaref245@gmail.com,2024-10-02 11:22:13.000,1,1,0,1
+501,ecp8h,2024-10-08 17:53:32,adewukwoa lorry station,supervisor ,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,adawukwoa lorry station,supervisor ,6,1,1,0,362297780,2024-10-07,j89973510@gmail.com,2024-10-08 18:05:46.000,1,1,0,1
+502,ecpb0,2024-05-20 09:58:50,City gat,Barber,Beauty,MULTIPLE_WEIGHTED_DUPS,City gate,Barber,4,1,1,0,234880109,2024-05-20,darkobridget16@gmail.com,2024-05-21 08:01:13.000,1,1,0,1
+503,ecpb0,2024-09-02 11:32:44,pear street,,,MULTIPLE_WEIGHTED_DUPS,pearl street,nan,4,1,1,0,236370794,2024-09-02,sampanaangelina@gmail.com,,0,0,0,0
+504,ecpb1,2024-10-08 20:23:46,omanjor d/a,driver,Other Community Services,MULTIPLE_WEIGHTED_DUPS,omanjor MA,Driver,4,6,3,1,149154836,2024-10-07,dansomensah19@gmail.com,2024-10-08 21:51:43.000,1,0,0,0
+505,ecpb2,2024-11-16 10:00:40,amasaman doblo gono,teacher ,Education,MULTIPLE_WEIGHTED_DUPS,amasaman doblo gono,teacher ,4,0,0,0,395935100,2024-11-11,ebe278@gmail.com,2024-11-17 14:37:12.000,1,1,0,1
+506,ecpb2,2024-11-16 11:28:48,amasaman ablorman,teacher ,Education,MULTIPLE_WEIGHTED_DUPS,amasaman doblo,teacher ,5,6,6,0,42594146,2024-11-11,sandyasare@gmail.com,,0,0,0,0
+507,ecpb2,2024-11-21 13:37:46,amasaman nsakina,teacher ,Education,MULTIPLE_WEIGHTED_DUPS,amasaman Police,teacher ,4,6,6,0,598649569,2024-11-18,kwametorgbey@gmail.com,2024-11-21 13:42:25.000,1,1,0,1
+508,ecpb2,2024-11-22 19:43:26,amasaman onyasana,nurse ,Healthcare,MULTIPLE_WEIGHTED_DUPS,amasaman nsakina,nurse ,5,4,4,0,831030682,2024-11-18,albertaama204@gmail.com,2024-11-22 19:58:08.000,1,1,0,1
+509,ecpb2,2024-11-23 07:39:45,amasaman doblo,nurse ,Healthcare,MULTIPLE_WEIGHTED_DUPS,amasaman doblo,nurse,7,3,0,1,202852196,2024-11-18,glory11ab21@gmail.com,2024-11-23 08:48:57.000,1,1,0,1
+510,ecpb2,2024-11-23 07:54:54,amasaman doblo,nurse ,Healthcare,MULTIPLE_WEIGHTED_DUPS,amasaman doblo,nurse ,8,0,0,0,450818505,2024-11-18,goap11ab20@gmail.com,2024-11-23 08:17:55.000,1,1,0,1
+511,ecpb2,2024-11-23 08:06:46,amasaman onyasana,nurse ,Healthcare,MULTIPLE_WEIGHTED_DUPS,amasaman onyasana,nurse ,8,0,0,0,484595673,2024-11-18,kobinew100@gmail.com,2024-11-23 08:15:56.000,1,1,0,1
+512,ecpb2,2024-11-25 18:35:33,amasaman doblo,nurse ,Healthcare,MULTIPLE_WEIGHTED_DUPS,amasaman doblo,nurse ,10,0,0,0,224711244,2024-11-25,frekk11ab20@gmail.com,2024-11-25 18:45:06.000,1,1,0,1
+513,ecpb2,2024-11-25 19:38:56,amasaman ablorman,nurse ,Healthcare,MULTIPLE_WEIGHTED_DUPS,amasaman adeyman,nurse ,10,4,4,0,3394061,2024-11-25,psg11ab20@gmail.com,2024-11-25 20:07:12.000,1,1,0,1
+514,ecpb2,2024-11-25 20:17:24,amasaman yahoman,nurse ,Healthcare,MULTIPLE_WEIGHTED_DUPS,amasaman adeyman,nurse ,11,4,4,0,711954554,2024-11-25,graceab20@gmail.cpm,,0,0,0,0
+515,ecpb2,2024-11-26 06:43:49,amasaman ablorman,nurse ,Healthcare,MULTIPLE_WEIGHTED_DUPS,amasaman ablorman,nurse ,12,0,0,0,254312145,2024-11-25,done11ab20@gmail.com,2024-11-26 06:52:32.000,1,1,0,1
+516,ecpb2,2024-11-26 19:17:52,kasoa offankor,nurse ,Healthcare,MULTIPLE_WEIGHTED_DUPS,kasoa offankor,nurse ,4,0,0,0,654560840,2024-11-25,jasperaboagye@gmail.com,2024-11-26 19:29:15.000,1,1,0,1
+517,ecpb2,2024-11-26 19:26:02,kasoa offankor,nurse ,Healthcare,MULTIPLE_WEIGHTED_DUPS,kasoa offankor,nurse ,5,0,0,0,585738240,2024-11-25,harisonsevor40@gmail.com,,0,0,0,0
+518,ecpb2,2024-11-27 22:03:56,kasoa offankor,nurse,Healthcare,MULTIPLE_WEIGHTED_DUPS,kasoa offankor,nurse ,6,3,0,1,18158810,2024-11-25,valvebody02@gmail.com,,0,0,0,0
+519,ecpb2,2024-11-27 22:11:28,Kasoa offankor,nurse,Healthcare,MULTIPLE_WEIGHTED_DUPS,kasoa offankor,nurse,7,1,1,0,884343618,2024-11-25,akweku465@gmai.com,,0,0,0,0
+520,ecpb2,2024-12-02 12:17:50,Kasoa offankor,nurse ,Healthcare,MULTIPLE_WEIGHTED_DUPS,kasoa offankor,nurse ,8,1,1,0,780678057,2024-12-02,efuakraka432@gmail.com,,0,0,0,0
+521,ecpb2,2024-12-09 18:21:13,kasoa offankor,nurse,Healthcare,MULTIPLE_WEIGHTED_DUPS,kasoa offankor,nurse,9,0,0,0,577604576,2024-12-09,godwi14asante@gmail.com,2024-12-09 19:27:48.000,1,1,0,1
+522,ecpb2,2024-12-19 08:11:55,amasaman manhia,teacher ,Education,MULTIPLE_WEIGHTED_DUPS,amasaman manhia,teacher ,4,0,0,0,220388775,2024-12-16,josephinesweetie33@gmail.com,2024-12-19 11:10:39.000,1,1,0,1
+523,ecpb2,2024-12-19 08:19:59,amasaman manhia,teacher ,Education,MULTIPLE_WEIGHTED_DUPS,amasaman manhia,teacher ,5,0,0,0,900540040,2024-12-16,victoriatetteh66@gmail.com,2024-12-19 11:22:36.000,1,1,0,1
+524,ecpb2,2024-12-19 08:27:05,amasaman nsakina,teacher ,Education,MULTIPLE_WEIGHTED_DUPS,amasaman nsakina,teacher ,6,0,0,0,535887152,2024-12-16,gladystetteh65@gmail.com,,0,0,0,0
+525,ecpb2,2024-12-24 09:33:08,amasaman nsakina,Police ,Law Enforcement,MULTIPLE_WEIGHTED_DUPS,amasaman nsakina,Police ,4,0,0,0,691149588,2024-12-23,comfortsweetie22@gmail.com,2024-12-24 09:52:35.000,1,1,0,1
+526,ecpb2,2024-12-28 01:18:58,kasoa ofankor,police ,Law Enforcement,MULTIPLE_WEIGHTED_DUPS,Kasoa ofankor,police ,4,1,1,0,101593511,2024-12-23,mariamsissy333@gmail.com,,0,0,0,0
+527,ecpb4,2024-09-07 08:51:21,Dome KFC,,,MULTIPLE_WEIGHTED_DUPS,Dome KBoat,nan,4,4,4,0,682514695,2024-09-02,atampiahfavour@gmail.com,2024-09-07 10:32:22.000,1,0,0,0
+528,ecpb4,2024-12-18 01:39:25,Gbawe Cp,,,MULTIPLE_WEIGHTED_DUPS,O B,nan,4,7,7,0,715145070,2024-12-16,emmanuellaanimwaa17@icloud.com,,0,0,0,0
+529,ecpb5,2024-02-03 10:20:11,Ivy street,,,MULTIPLE_WEIGHTED_DUPS,Trinity Street,nan,5,7,7,0,786333270,2024-01-29,oadam1187@gmail.com,,0,0,0,0
+530,ecpb5,2024-02-09 17:45:08,Black Street,,,MULTIPLE_WEIGHTED_DUPS,Ivy street,nan,4,6,6,0,587037626,2024-02-05,,2024-02-09 17:53:26.000,1,0,0,0
+531,ecpb5,2024-02-11 15:14:57,HFC estates,,,MULTIPLE_WEIGHTED_DUPS,Ivy street,nan,4,7,7,0,753344720,2024-02-05,abaocran33@gmail.com,,0,0,0,0
+532,ecpb5,2024-05-19 13:50:08,Legon street,,,MULTIPLE_WEIGHTED_DUPS,Asante Street,nan,4,7,7,0,296487924,2024-05-13,,,0,0,0,0
+533,ecpb5,2024-05-22 09:14:06,Lebanon Street,,,MULTIPLE_WEIGHTED_DUPS,Legon street,nan,5,4,4,0,399349286,2024-05-20,informpriscilla@gmail.com,,0,0,0,0
+534,ecpb5,2024-05-25 00:57:46,Okponglo street,,,MULTIPLE_WEIGHTED_DUPS,Legon street,nan,7,6,6,0,334253472,2024-05-20,masonbrine60@gmail.com,,0,0,0,0
+535,ecpb5,2024-05-26 20:40:45,Zongo street,,,MULTIPLE_WEIGHTED_DUPS,Legon street,nan,8,4,4,0,808911872,2024-05-20,eghansaabira@gmail.com,,0,0,0,0
+536,ecpb5,2024-05-27 11:33:28,Bush road,,,MULTIPLE_WEIGHTED_DUPS,BOBO LN,nan,5,7,7,0,319421474,2024-05-27,blessfiebor03@gmail.com,2024-05-27 11:49:29.000,1,0,0,0
+537,ecpb5,2024-05-31 16:51:35,orchid street,,,MULTIPLE_WEIGHTED_DUPS,Legon street,nan,7,6,6,0,639072188,2024-05-27,sophialafia367@gmail.com,,0,0,0,0
+538,ecpb5,2024-05-31 16:59:43,Ninye street,,,MULTIPLE_WEIGHTED_DUPS,Zongo street,nan,8,4,4,0,404494623,2024-05-27,dedomaya3@gmail.com,2024-06-03 20:17:51.000,1,0,0,0
+539,ecpb5,2024-06-02 11:24:15,agushi Street,,,MULTIPLE_WEIGHTED_DUPS,orchid street,nan,8,6,6,0,570679688,2024-05-27,,,0,0,0,0
+540,ecpb5,2024-06-06 18:18:59,Nkawkaw street,,,MULTIPLE_WEIGHTED_DUPS,Ninye street,nan,6,6,6,0,549708027,2024-06-03,xcellclain@gmail.com,2024-06-16 09:11:34.000,1,0,0,0
+541,ecpb5,2024-06-27 10:33:58,Fofoo lane,,,MULTIPLE_WEIGHTED_DUPS,Nairobi lane,nan,4,6,6,0,604498421,2024-06-24,nagyemang002@stu.ucc.edu.gh,2024-06-27 10:37:24.000,1,0,0,0
+542,ecpb5,2024-06-28 14:49:16,Lane 8,,,MULTIPLE_WEIGHTED_DUPS,Fun Bizz,nan,4,7,7,0,403904440,2024-06-24,nbotah11@gmail.com,,0,0,0,0
+543,ecpb5,2024-06-30 20:38:40,University of Ghana,,,MULTIPLE_WEIGHTED_DUPS,University of Ghana,nan,4,0,0,0,400410984,2024-06-24,maame7096@gmail.com,,0,0,0,0
+544,ecpb5,2024-07-01 12:10:47,Book shop,,,MULTIPLE_WEIGHTED_DUPS,Fofoo lane,nan,5,7,7,0,484123535,2024-07-01,boatengangel14@gmail.com,2024-07-01 12:13:03.000,1,1,0,1
+545,ecpb5,2024-07-05 11:09:37,Bantams Street,,,MULTIPLE_WEIGHTED_DUPS,Palatine street,nan,4,7,7,0,233551795,2024-07-01,appiahreindolf234@gmail.com,2024-07-05 11:13:15.000,1,0,0,0
+546,ecpb5,2024-07-06 13:05:39,Aburi Kom,,,MULTIPLE_WEIGHTED_DUPS,Abu Station,nan,5,7,7,0,590047822,2024-07-01,andrew205william@gmail.con,,0,0,0,0
+547,ecpb5,2024-07-07 13:06:22,Savedeaf street,,,MULTIPLE_WEIGHTED_DUPS,Nana Kay street,nan,5,6,6,0,333968529,2024-07-01,davidamaara5@gmail.com,2024-07-07 13:09:37.000,1,0,0,0
+548,ecpb5,2024-07-08 15:17:37,University of Ghana legon,,,MULTIPLE_WEIGHTED_DUPS,University of Ghana school,nan,4,5,5,0,195812210,2024-07-08,martinampiani73@gmail.com,2024-07-08 15:22:38.000,1,0,0,0
+549,ecpb5,2024-07-10 12:57:48,Oriole street,,,MULTIPLE_WEIGHTED_DUPS,Biofio street,nan,6,5,5,0,180027087,2024-07-08,jetty3822@gmail.com,,0,0,0,0
+550,ecpb5,2024-07-12 11:16:19,Ho market,,,MULTIPLE_WEIGHTED_DUPS,BHD Mayarks,nan,7,7,7,0,255468218,2024-07-08,dzanadofranklin2004@gmail.com,2024-07-12 11:18:30.000,1,0,0,0
+551,ecpb5,2024-07-15 14:24:08,Comm 22,,,MULTIPLE_WEIGHTED_DUPS,Book shop,nan,5,7,7,0,92061743,2024-07-15,jessicaanakwapoh@gmail.com,2024-07-15 14:28:07.000,1,0,0,0
+552,ecpb5,2024-07-19 11:41:42,Avanti street,,,MULTIPLE_WEIGHTED_DUPS,Bantams Street,nan,4,6,6,0,106452317,2024-07-15,britbrit635@gmail.com,2024-07-19 16:09:11.000,1,0,0,0
+553,ecpb5,2024-07-21 16:36:46,Kudu Street,,,MULTIPLE_WEIGHTED_DUPS,Oriole street,nan,5,7,7,0,872474351,2024-07-15,mcdoe2608@gmail.com,,0,0,0,0
+554,ecpb5,2024-08-05 17:06:28,university of ghana,,,MULTIPLE_WEIGHTED_DUPS,university of ghana,nan,4,0,0,0,285977164,2024-08-05,Katelynakotuah@gmail.com,2024-08-05 17:09:33.000,1,0,0,0
+555,ecpb5,2024-08-06 12:03:05,"university of Ghana,Legon",,,MULTIPLE_WEIGHTED_DUPS,university of Ghana,nan,5,6,6,0,848856591,2024-08-05,,,0,0,0,0
+556,ecpb5,2024-08-06 18:31:06,University of Ghana,,,MULTIPLE_WEIGHTED_DUPS,University of Ghana,nan,6,0,0,0,168855284,2024-08-05,richw2237@gmail.com,2024-08-14 11:15:11.000,1,1,0,1
+557,ecpb5,2024-08-06 23:03:29,University of Ghana,,,MULTIPLE_WEIGHTED_DUPS,University of Ghana,nan,7,0,0,0,153162256,2024-08-05,princesssheba49@gmail.com,,0,0,0,0
+558,ecpb5,2024-08-12 18:55:50,university of Ghana,,,MULTIPLE_WEIGHTED_DUPS,university of Ghana,nan,7,0,0,0,786835904,2024-08-12,akorfayaa18@gmail.com,2024-08-12 19:28:55.000,1,1,0,1
+559,ecpb5,2024-08-13 13:10:43,university of Ghana,,,MULTIPLE_WEIGHTED_DUPS,university of Ghana,nan,8,0,0,0,885132461,2024-08-12,damaliedenisekafuiii@gmail.com,2024-08-14 19:24:36.000,1,0,0,0
+560,ecpb5,2024-08-17 00:26:23,pumice street,,,MULTIPLE_WEIGHTED_DUPS,Lawsech street,nan,4,6,6,0,601869349,2024-08-12,charlesy517@gmail.com,2024-08-17 00:50:24.000,1,0,0,0
+561,ecpb5,2024-08-17 18:15:14,rhema street,,,MULTIPLE_WEIGHTED_DUPS,Lawsech street,nan,4,6,6,0,365912746,2024-08-12,elorsame123@gmail.com,2024-08-17 18:17:17.000,1,0,0,0
+562,ecpb5,2024-08-20 16:42:34,"University of Ghana, legon",,,MULTIPLE_WEIGHTED_DUPS,"university of Ghana,Legon",nan,6,3,3,0,111667566,2024-08-19,,2024-08-20 16:48:06.000,1,0,0,0
+563,ecpb5,2024-08-20 17:15:51,University of Ghana,,,MULTIPLE_WEIGHTED_DUPS,University of Ghana,nan,7,0,0,0,778346562,2024-08-19,Hammondbaffoe699@gmail.com,2024-08-20 17:28:27.000,1,0,0,0
+564,ecpb5,2024-08-20 17:49:37,University of Ghana,,,MULTIPLE_WEIGHTED_DUPS,University of Ghana,nan,8,0,0,0,131811842,2024-08-19,successanim@gmail.com,,0,0,0,0
+565,ecpb5,2024-08-24 18:24:44,kk city,,,MULTIPLE_WEIGHTED_DUPS,off town,nan,5,7,7,0,703087707,2024-08-19,jenniferfianko58@gmail.com,,0,0,0,0
+566,ecpb5,2024-12-14 11:36:04,university of Ghana,,,MULTIPLE_WEIGHTED_DUPS,university of Ghana,nan,4,0,0,0,697735360,2024-12-09,estherbonney27@gmail.com,,0,0,0,0
+567,ecpb6,2024-06-28 07:13:18,Rake street,,,MULTIPLE_WEIGHTED_DUPS,Pra street,nan,4,4,4,0,452535233,2024-06-24,estheracquah1199@gmail.com,2024-09-17 18:19:46.000,1,0,0,0
+568,ecpbh,2024-02-13 17:39:06,okle lane,,,MULTIPLE_WEIGHTED_DUPS,Blue skies,nan,6,7,7,0,269646749,2024-02-12,,,0,0,0,0
+569,ecpbh,2024-02-16 23:56:25,Grace Street,,,MULTIPLE_WEIGHTED_DUPS,central street,nan,4,7,7,0,20818752,2024-02-12,nelgat21@gmail.com,,0,0,0,0
+570,ecpbh,2024-05-09 17:10:45,Nzema A,,,MULTIPLE_WEIGHTED_DUPS,Nungua C5,nan,5,6,6,0,383643750,2024-05-06,,,0,0,0,0
+571,ecpbh,2024-06-03 16:52:04,Avevor Street,,,MULTIPLE_WEIGHTED_DUPS,Adei street,nan,4,5,5,0,342565596,2024-06-03,bissahgodfred54@gmail.com,,0,0,0,0
+572,ecpbh,2024-06-04 16:37:53,adoi street,,,MULTIPLE_WEIGHTED_DUPS,Adei street,nan,4,2,2,0,122298629,2024-06-03,afari2277@gmail.com,2024-12-31 14:09:23.000,1,0,0,0
+573,ecpbh,2024-06-11 08:47:31,Oko Street,,,MULTIPLE_WEIGHTED_DUPS,adoi street,nan,4,4,4,0,299476633,2024-06-10,bettyandoh100@gmail.com,2024-06-11 09:10:45.000,1,0,0,0
+574,ecpbh,2024-07-26 12:35:18,Apricot street,,,MULTIPLE_WEIGHTED_DUPS,Ips street,nan,4,6,6,0,323135836,2024-07-22,dorindaamoako8@gmail.con,,0,0,0,0
+575,ecpbh,2024-07-27 14:46:27,Cameron Street,,,MULTIPLE_WEIGHTED_DUPS,17durham Street,nan,5,7,7,0,871260647,2024-07-22,abnowelsam@gmail.com,,0,0,0,0
+576,ecpbh,2024-10-20 14:25:25,Cameron street,,,MULTIPLE_WEIGHTED_DUPS,Nakwa street,nan,4,6,6,0,589578808,2024-10-14,milesmashy@gmail.com,2024-10-20 14:27:05.000,1,0,0,0
+577,ecpbh,2024-10-23 11:42:24,Lome Street,,,MULTIPLE_WEIGHTED_DUPS,UPSA street,nan,6,5,5,0,622505931,2024-10-21,thomasopokunyarko@gmail.com,,0,0,0,0
+578,ecpbh,2024-11-05 15:40:14,ZONGO 23,,,MULTIPLE_WEIGHTED_DUPS,AD 14,nan,4,7,7,0,161727494,2024-11-04,,,0,0,0,0
+579,ecpbh,2024-11-09 13:50:20,Wawa street,,,MULTIPLE_WEIGHTED_DUPS,Libya street,nan,5,4,4,0,145424521,2024-11-04,elsiequarcoom@gmail.com,,0,0,0,0
+580,ecpbh,2024-11-11 07:37:06,adinkra street,,,MULTIPLE_WEIGHTED_DUPS,Libya street,nan,4,5,5,0,449764630,2024-11-11,,,0,0,0,0
+581,ecpbh,2024-11-13 15:45:09,mile 50,,,MULTIPLE_WEIGHTED_DUPS,AD 14,nan,5,6,6,0,832574863,2024-11-11,joshberlin004@gmail.com,2024-11-13 15:49:08.000,1,0,0,0
+582,ecpbh,2024-11-19 13:27:32,Borga street,,,MULTIPLE_WEIGHTED_DUPS,Libya street,nan,5,4,4,0,571098427,2024-11-18,jacobaidoo3@gmail.com,2024-12-06 20:41:01.000,1,0,0,0
+583,ecpbh,2024-11-24 11:59:49,Dagadu street,,,MULTIPLE_WEIGHTED_DUPS,Wawa street,nan,5,4,4,0,547056532,2024-11-18,adigblijoshua2001@gmail.com,,0,0,0,0
+584,ecpbh,2024-11-27 19:27:57,mosque,,,MULTIPLE_WEIGHTED_DUPS,mile 50,nan,4,6,6,0,344420892,2024-11-25,benneylittle246@gmail.com,2024-11-27 19:38:37.000,1,0,0,0
+585,ecpbk,2024-05-31 09:52:56,66 ayaben street,teacher,Education,MULTIPLE_WEIGHTED_DUPS,Asante street,teacher,4,7,7,0,963523721,2024-05-27,www.atikubelinda2@gmail.com,2024-05-31 09:57:22.000,1,0,0,0
+586,ecpbk,2024-06-12 09:59:09,24 njoku street,teacher,Education,MULTIPLE_WEIGHTED_DUPS,aparatsu street,teacher,5,7,7,0,306158687,2024-06-10,,,0,0,0,0
+587,ecpbk,2024-06-23 14:08:11,Hannah road,,,MULTIPLE_WEIGHTED_DUPS,Atronie road,nan,5,6,6,0,768939710,2024-06-17,rosemondaikins179@gmail.com,,0,0,0,0
+588,ecpbr,2024-05-25 17:07:26,Akakade street,,,MULTIPLE_WEIGHTED_DUPS,Abaza Street,nan,4,5,5,0,436055622,2024-05-20,Stillzamani@gmail.com,2024-05-25 17:09:48.000,1,0,0,0
+589,ecpbr,2024-08-12 10:56:59,Duka lane,,,MULTIPLE_WEIGHTED_DUPS,cinema line,nan,5,6,6,0,987547059,2024-08-12,kosisedem10@gmail.com,,0,0,0,0
+590,ecpbr,2024-09-21 12:50:38,Box 25,,,MULTIPLE_WEIGHTED_DUPS,NEA OPE,nan,4,6,6,0,84868628,2024-09-16,kafuipatience23@gmail.com,2024-09-29 08:42:20.000,1,0,0,0
+591,ecpbw,2024-08-27 05:52:15,gh 12345,,,MULTIPLE_WEIGHTED_DUPS,GA 555,nan,4,6,6,0,488925796,2024-08-26,stephennyarko866@gmail.com,,0,0,0,0
+592,ecpbw,2024-08-28 06:28:41,new York,,,MULTIPLE_WEIGHTED_DUPS,TUP IP,nan,5,7,7,0,23943438,2024-08-26,Ceasermike6@gmail.com,,0,0,0,0
+593,ecpbx,2024-10-19 06:09:33,Michelle camp,,,MULTIPLE_WEIGHTED_DUPS,Michel camp,nan,4,2,2,0,100636526,2024-10-14,verapphilipormaa@gmail.com,,0,0,0,0
+594,ecpdm,2024-07-27 15:47:53,NEW TWON,,,MULTIPLE_WEIGHTED_DUPS,op 9,nan,4,7,7,0,379179769,2024-07-22,,,0,0,0,0
+595,ecpfb,2024-11-27 15:47:29,Brong Densuso,Im the owner ,Trade - Import/Export,MULTIPLE_WEIGHTED_DUPS,Brong Densuso,Im the owner ,4,0,0,0,152178751,2024-11-25,,2024-11-27 15:48:54.000,1,1,0,1
+596,ecpfb,2024-11-27 16:35:33,Brong Densuso,Im the owner ,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,Brong Densuso,Im the owner ,5,0,0,0,408262718,2024-11-25,,2024-11-27 16:37:15.000,1,1,0,1
+597,ecpfb,2024-11-27 18:07:39,Brong Densuso,Im the owner,Industry/Manufacturing,MULTIPLE_WEIGHTED_DUPS,Brong Densuso,Im the owner,6,0,0,0,516083162,2024-11-25,,,0,0,0,0
+598,ecpfb,2024-11-28 16:05:47,Brong Densuso,Im the owner ,Trade - Wholesale,MULTIPLE_WEIGHTED_DUPS,Brong Densuso,Im the owner ,7,0,0,0,305610391,2024-11-25,,,0,0,0,0
+599,ecpfb,2024-11-29 13:36:33,Brong Densuso,Im the owner ,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,Brong Densuso,Im the owner ,8,0,0,0,77937480,2024-11-25,mavisotengntriwaa89@gmail.com,,0,0,0,0
+600,ecpfb,2024-12-10 11:17:43,Brong Densuso,Im the owner ,Trade - Import/Export,MULTIPLE_WEIGHTED_DUPS,Brong Densuso,Im the owner ,8,0,0,0,436665151,2024-12-09,esteragyeibea@gmail.com,,0,0,0,0
+601,ecpfc,2024-11-21 13:21:29,Methodist School,Manager,Industry/Manufacturing,MULTIPLE_WEIGHTED_DUPS,Methodist School,Manager,4,0,0,0,332785237,2024-11-18,corruptvybz@gmail.com,,0,0,0,0
+602,ecpfc,2024-11-29 11:49:16,Methodist School,Manager ,Industry/Manufacturing,MULTIPLE_WEIGHTED_DUPS,Methodist School,Manager ,4,0,0,0,111065456,2024-11-25,gladyssossa@gmail.com,2024-11-29 11:50:37.000,1,1,0,1
+603,ecpju,2024-09-19 01:11:32,"12 Alhaji Imoro St, Kumasi",Foodstuffs ,Agriculture,MULTIPLE_WEIGHTED_DUPS,"12 Alhaji Imoro St, Kumasi",Foodstuffs ,4,0,0,0,491304850,2024-09-16,eamankwaa807@gmail.com,,0,0,0,0
+604,ecq3e,2024-06-16 21:12:31,BN 79,,,MULTIPLE_WEIGHTED_DUPS,eg46d g,nan,4,7,7,0,212484512,2024-06-10,tampuriobedawindaabit@gmail.com,,0,0,0,0
+605,ecq3e,2024-06-22 19:45:44,Magazine,,,MULTIPLE_WEIGHTED_DUPS,Buga line,nan,4,4,4,0,982959365,2024-06-17,balaratimothy777@gmail.com,,0,0,0,0
+606,ecq3e,2024-08-08 02:05:31,area 2,,,MULTIPLE_WEIGHTED_DUPS,Dr berko,nan,4,6,6,0,978787576,2024-08-05,abubakaryakub743@gmail.com,,0,0,0,0
+607,ecq3e,2024-08-18 10:44:20,D/1 220,,,MULTIPLE_WEIGHTED_DUPS,area 2,nan,4,6,6,0,941153610,2024-08-12,felicitygyamfua5@gmail.com,,0,0,0,0
+608,ecq3e,2024-08-22 19:50:33,Apam SHS,,,MULTIPLE_WEIGHTED_DUPS,area 2,nan,4,7,7,0,799137439,2024-08-19,dicksonnanankansah55@icloud.com,2024-08-22 19:56:30.000,1,0,0,0
+609,ecq3e,2024-08-22 20:24:29,Catholic mission,,,MULTIPLE_WEIGHTED_DUPS,Catholic mission,nan,4,0,0,0,149164180,2024-08-19,Adamsobed53@gmail.com,2024-08-22 20:39:42.000,1,1,1,0
+610,ecq3e,2024-08-24 15:54:49,Sunyani street,,,MULTIPLE_WEIGHTED_DUPS,Cummins02 street,nan,4,7,7,0,548791951,2024-08-19,oseijoshua081@gmail.com,,0,0,0,0
+611,ecq3e,2024-08-26 20:21:48,Catholic Misson,,,MULTIPLE_WEIGHTED_DUPS,Catholic Mission,nan,5,1,1,0,519428026,2024-08-26,yeboahrichard@gmail.com,,0,0,0,0
+612,ecq3f,2024-01-30 17:00:54,Fiapre street,,,MULTIPLE_WEIGHTED_DUPS,Fiapre Market,nan,4,3,3,0,878327834,2024-01-29,,2024-02-02 13:17:35.000,1,1,0,1
+613,ecq3f,2024-02-04 08:26:45,Fiapre Twilight,,,MULTIPLE_WEIGHTED_DUPS,Fiapre Market,nan,4,7,7,0,756569088,2024-01-29,Lburnerx@gmail.com,2024-02-04 08:37:21.000,1,0,0,0
+614,ecq3f,2024-03-27 07:31:10,Bamboi street,,,MULTIPLE_WEIGHTED_DUPS,Naa Street,nan,4,6,6,0,635888733,2024-03-25,,,0,0,0,0
+615,ecq3f,2024-07-05 13:39:06,Notre Dame,,,MULTIPLE_WEIGHTED_DUPS,Afum lane,nan,4,7,7,0,127526924,2024-07-01,awudunafisa22@gmail.com,,0,0,0,0
+616,ecq3f,2024-07-06 15:10:54,Akab street,,,MULTIPLE_WEIGHTED_DUPS,Tapawolo street,nan,4,7,7,0,392551183,2024-07-01,ljay233@email.com,2024-09-11 09:40:17.000,1,0,0,0
+617,ecq3f,2024-07-12 15:38:05,Berlin Top,,,MULTIPLE_WEIGHTED_DUPS,Berlin too,nan,4,2,2,0,456994522,2024-07-08,mileslegacy1@gamil.com,,0,0,0,0
+618,ecq3f,2024-07-12 16:59:16,Betom street,,,MULTIPLE_WEIGHTED_DUPS,Akab street,nan,4,5,5,0,149677037,2024-07-08,simonakakpo13@gmail.com,,0,0,0,0
+619,ecq3f,2024-07-15 06:12:55,New site,,,MULTIPLE_WEIGHTED_DUPS,Iron City,nan,5,6,6,0,446351775,2024-07-15,afriyieowususamuella@gmail.com,2024-07-15 06:16:06.000,1,0,0,0
+620,ecq3f,2024-07-15 16:18:54,ABF 10,,,MULTIPLE_WEIGHTED_DUPS,New site,nan,4,7,7,0,177087460,2024-07-15,ajarasiaka8@email.com,,0,0,0,0
+621,ecq3f,2024-07-16 02:49:05,BLk 18C,,,MULTIPLE_WEIGHTED_DUPS,ABF 10,nan,5,5,5,0,147290780,2024-07-15,tettehmavis0304@gmail.com,2024-07-16 02:56:07.000,1,0,0,0
+622,ecq3f,2024-07-25 15:22:28,SG MALL,,,MULTIPLE_WEIGHTED_DUPS,New site,nan,5,7,7,0,616745338,2024-07-22,amponsemfrank1@gmail.com,,0,0,0,0
+623,ecq3f,2024-08-22 09:59:19,street 1,,,MULTIPLE_WEIGHTED_DUPS,notre dame,nan,5,7,7,0,703147409,2024-08-19,richardantwi798@gmail.com,,0,0,0,0
+624,ecq83,2024-05-01 11:23:44,Bechem near Roman church,Nurse,Healthcare,MULTIPLE_WEIGHTED_DUPS,Bechem Roman church,Nurse,4,5,5,0,472435988,2024-04-29,,2024-05-01 11:40:36.000,1,1,0,1
+625,ecqj4,2024-12-13 17:08:54,Tulo kato,Seller,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,Tulo Kato,Seller,4,1,1,0,443026859,2024-12-09,amidubintu88@gmail.com,,0,0,0,0
+626,ecr4u,2024-09-22 20:07:41,plot 65 block b,worker,Food Industry,MULTIPLE_WEIGHTED_DUPS,plot 65 block b,worker,4,0,0,0,190823261,2024-09-16,talhassan758@gmail.com,,0,0,0,0
+627,ecxb5,2024-06-25 18:01:05,baba111 Street,teacher,Education,MULTIPLE_WEIGHTED_DUPS,baba111 Street,teacher,4,0,0,0,630682040,2024-06-24,,,0,0,0,0
+628,ecxb5,2024-06-26 08:27:31,baba113 street,teacher ,Education,MULTIPLE_WEIGHTED_DUPS,baba112 street,teacher ,4,1,1,0,842605862,2024-06-24,,,0,0,0,0
+629,ecxb5,2024-06-26 08:45:36,baba112 street,teacher ,Education,MULTIPLE_WEIGHTED_DUPS,baba112 street,teacher ,5,0,0,0,693128256,2024-06-24,ofascojames@gmail.com,2024-06-26 08:47:39.000,1,1,0,0
+630,ecxb5,2024-06-26 15:14:37,baba155 street,teacher,Education,MULTIPLE_WEIGHTED_DUPS,baba111 Street,teacher,7,3,3,0,497353697,2024-06-24,sakordiekaka@gmail.com,,0,0,0,0
+631,ecxb5,2024-06-26 16:00:25,baba124 street,teacher,Education,MULTIPLE_WEIGHTED_DUPS,baba155 street,teacher,8,2,2,0,159339897,2024-06-24,,,0,0,0,0
+632,ecxb5,2024-06-26 16:18:27,baba155 street,teacher,Education,MULTIPLE_WEIGHTED_DUPS,baba155 street,teacher,9,0,0,0,189591825,2024-06-24,,,0,0,0,0
+633,ecxb5,2024-06-30 16:22:32,baba111 Street,teacher,Education,MULTIPLE_WEIGHTED_DUPS,baba111 Street,teacher,10,0,0,0,311497230,2024-06-24,,,0,0,0,0
+634,ecxb5,2024-07-02 10:09:18,baba122 Street,teacher,Education,MULTIPLE_WEIGHTED_DUPS,baba111 Street,teacher,11,2,2,0,62090933,2024-07-01,,2024-07-02 10:14:10.000,1,1,0,1
+635,ecxb5,2024-07-02 10:22:57,baba221 Street,teacher,Education,MULTIPLE_WEIGHTED_DUPS,baba111 Street,teacher,11,2,2,0,53153064,2024-07-01,,,0,0,0,0
+636,ecxb5,2024-07-02 11:24:14,baba233 Street,teacher ,Education,MULTIPLE_WEIGHTED_DUPS,baba113 street,teacher ,12,3,3,0,483827493,2024-07-01,,,0,0,0,0
+637,ecxb5,2024-07-04 13:07:08,baba112 Street,teacher ,Education,MULTIPLE_WEIGHTED_DUPS,baba112 street,teacher ,13,1,1,0,233123895,2024-07-01,,,0,0,0,0
+638,ecxb5,2024-07-04 13:32:03,baba112 Street,teacher ,Education,MULTIPLE_WEIGHTED_DUPS,baba112 Street,teacher ,14,0,0,0,805796085,2024-07-01,,,0,0,0,0
+639,ecxb5,2024-07-05 12:05:12,baba112 street,teacher ,Education,MULTIPLE_WEIGHTED_DUPS,baba112 street,teacher ,15,0,0,0,450138783,2024-07-01,,,0,0,0,0
+640,ecxmm,2024-01-30 15:56:41,Sakasaka 45,Manager,Electricity and Utilities,MULTIPLE_WEIGHTED_DUPS,Asawaba 12,Manager,4,7,7,0,739920720,2024-01-29,,2024-01-31 00:00:00.000,1,1,0,1
+641,ecxmm,2024-01-30 17:04:51,Sankpla 12,Manager,Electricity and Utilities,MULTIPLE_WEIGHTED_DUPS,Asawaba 12,Manager,5,6,6,0,749496610,2024-01-29,,2024-01-30 17:54:20.000,1,1,0,1
+642,ecxmm,2024-08-19 11:26:37,zogu road,Teacher,Education,MULTIPLE_WEIGHTED_DUPS,Salaga Road,Teacher,4,6,6,0,357319809,2024-08-19,,2024-08-19 11:31:56.000,1,0,0,0
+643,ecxmq,2024-02-03 18:52:37,Wale 12,Manager,Electricity and Utilities,MULTIPLE_WEIGHTED_DUPS,Masaka 21,Manager,4,7,7,0,769049369,2024-01-29,,2024-02-03 19:28:33.000,1,1,0,1
+644,ecxmq,2024-02-24 16:07:51,Guan 08,Manager ,Electricity and Utilities,MULTIPLE_WEIGHTED_DUPS,Wa 56,Manager ,4,5,5,0,634849059,2024-02-19,,2024-02-24 17:50:12.000,1,1,0,1
+645,ecxmq,2024-02-25 13:02:50,Ahanta 21,Manager ,Electricity and Utilities,MULTIPLE_WEIGHTED_DUPS,Ada 81,Manager ,5,5,5,0,722247039,2024-02-19,,2024-02-25 13:35:16.000,1,1,0,1
+646,ecxmq,2024-03-07 18:11:26,Amintin 77,Manager ,Electricity and Utilities,MULTIPLE_WEIGHTED_DUPS,Ahanta 21,Manager ,5,6,6,0,406501601,2024-03-04,,,0,0,0,0
+647,ecxv9,2024-02-05 13:46:19,Puriya 21,Manager ,Electricity and Utilities,MULTIPLE_WEIGHTED_DUPS,Tue 23,Manager ,5,6,6,0,88761589,2024-02-05,,,0,0,0,0
+648,ecxvx,2024-12-22 10:44:21,Nayilifong south,I am a nurse ,Healthcare,MULTIPLE_WEIGHTED_DUPS,Nayilifong south,I am a nurse ,4,0,0,0,333388860,2024-12-16,musahruhia95@gmail.com,2024-12-22 10:50:24.000,1,1,0,1
+649,ecxvx,2024-12-27 14:28:13,nayilfong north,Im a teacher ,Education,MULTIPLE_WEIGHTED_DUPS,Nayilifong south,Im a teacher ,4,4,4,0,336397799,2024-12-23,yahayamubarak48@gmail.com,2024-12-27 14:31:23.000,1,1,0,1
+650,ecxvx,2024-12-28 16:36:04,Nayilifong north,Im a teacher ,Education,MULTIPLE_WEIGHTED_DUPS,Nayilifong south,Im a teacher ,5,2,2,0,154179121,2024-12-23,wadudabdul349@gmail.com,2024-12-28 16:38:53.000,1,1,0,1
+651,ecxvx,2024-12-28 18:01:04,Nayilifong south,Im a teacher ,Education,MULTIPLE_WEIGHTED_DUPS,Nayilifong south,Im a teacher ,6,0,0,0,899606938,2024-12-23,fa.rahaman55@gmail.com,2024-12-28 18:36:01.000,1,1,0,1
+652,ecxvx,2024-12-29 15:19:57,Nayilifong north,Im a teacher ,Education,MULTIPLE_WEIGHTED_DUPS,Nayilifong north,Im a teacher ,7,0,0,0,424218187,2024-12-23,aminuawabu71@gmail.com,,0,0,0,0
+653,ecxvx,2024-12-29 17:58:56,Nayilifong north,Im a teacher ,Education,MULTIPLE_WEIGHTED_DUPS,Nayilifong north,Im a teacher ,8,0,0,0,804698692,2024-12-23,yahayakamil73@gmail.com,2024-12-29 18:25:45.000,1,1,0,1
+654,ecxvx,2024-12-29 21:11:58,Nayifong South,Im a teacher ,Education,MULTIPLE_WEIGHTED_DUPS,Nayilifong south,Im a teacher ,9,3,3,0,428974521,2024-12-23,lungibrahim88@gmail.com,,0,0,0,0
+655,eczjz,2024-08-27 17:20:30,War memorial hospital,Im a teacher,Education,MULTIPLE_WEIGHTED_DUPS,War memorial hospital,Im a teacher ,5,3,0,1,28871900,2024-08-26,,,0,0,0,0
+656,eczmk,2024-09-11 13:02:13,Apoka street,,,MULTIPLE_WEIGHTED_DUPS,Apoka street,nan,4,0,0,0,518009695,2024-09-09,,,0,0,0,0
+657,ecznq,2024-10-13 09:21:19,kum_high street,selling ,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,kum-high street,selling ,4,1,1,0,823527883,2024-10-07,Yahahyaawam@email.com,,0,0,0,0
+658,ecznq,2024-10-15 21:23:09,KUM-high strret,selling ,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,Kum-high street,selling ,5,3,3,0,993586437,2024-10-14,halimhali23@gmail.com,,0,0,0,0
+659,s1000,2024-11-07 10:01:14,Tema Newtown,,,MULTIPLE_WEIGHTED_DUPS,Tema Newtown,nan,4,0,0,0,905365929,2024-11-04,kantwieben@gmail.com,,0,0,0,0
+660,s1006,2024-11-05 08:32:22,Maple Street,Im a trader,Beauty,MULTIPLE_WEIGHTED_DUPS,Maple Street,Im a trader,4,0,0,0,758328033,2024-11-04,naakaalartey@gmail.com,2024-12-09 18:24:39.000,1,1,0,1
+661,s100c,2024-02-08 13:15:53,Central University,,,MULTIPLE_WEIGHTED_DUPS,Central University,nan,4,0,0,0,25596401,2024-02-05,augustlamar62@gmail.com,,0,0,0,0
+662,s109g,2024-09-13 09:19:25,Atiavi Atime,Banker,Banking and Financial Services,MULTIPLE_WEIGHTED_DUPS,Atiavi Agbo,Banker,5,4,4,0,884761404,2024-09-09,azordotodjopong@gmail.com,2024-09-13 09:36:41.000,1,0,0,0
+663,s10dd,2024-01-08 07:29:39,Ochre st,,,MULTIPLE_WEIGHTED_DUPS,Ochre st,nan,4,0,0,0,565889903,2024-01-08,,2024-01-08 08:26:44.000,1,0,0,0
+664,s10dd,2024-01-10 11:16:12,ochre st,,,MULTIPLE_WEIGHTED_DUPS,Ochre st,nan,5,1,1,0,60910204,2024-01-08,gaakuabraham52@gmail.com,2024-01-10 11:28:34.000,1,0,0,0
+665,s10md,2024-05-23 13:27:33,Ho Dome,,,MULTIPLE_WEIGHTED_DUPS,us 5641,nan,4,6,6,0,343183325,2024-05-20,sethamoakohene2@gmail.com,2024-05-23 13:30:10.000,1,0,0,0
+666,s10md,2024-06-10 11:22:34,Tawiah street,,,MULTIPLE_WEIGHTED_DUPS,Kaya street,nan,5,4,4,0,659908420,2024-06-10,patiencetsikata45@gmail.com,,0,0,0,0
+667,s10md,2024-07-10 14:14:48,Asogli Street,,,MULTIPLE_WEIGHTED_DUPS,Afede street,nan,4,6,6,0,533335315,2024-07-08,Susanabena486@gmai.com,2024-07-10 14:17:26.000,1,1,0,1
+668,s10md,2024-07-16 08:28:54,asogli Street,,,MULTIPLE_WEIGHTED_DUPS,Asogli Street,nan,4,1,1,0,362280002,2024-07-15,Chrisroyawoesso9@gmail.com,2024-07-20 14:13:50.000,1,0,0,0
+669,s10md,2024-08-08 07:21:17,lakle Street,Manager ,Trade - Retail,MULTIPLE_WEIGHTED_DUPS,shallots street,Manager ,4,7,7,0,810484856,2024-08-05,doamekporstanley@gmail.com,2024-08-08 12:16:14.000,1,0,0,0
+670,s10md,2024-08-09 08:06:14,Ola top,,,MULTIPLE_WEIGHTED_DUPS,c.k road,nan,4,6,6,0,404538129,2024-08-05,Catherinetuh@25gmail.com,,0,0,0,0
+671,s10md,2024-08-10 12:09:15,p. o. 10,,,MULTIPLE_WEIGHTED_DUPS,c.k road,nan,5,7,7,0,438524050,2024-08-05,,,0,0,0,0
+672,s10md,2024-08-12 12:20:12,CK road,,,MULTIPLE_WEIGHTED_DUPS,c.k road,nan,6,3,3,0,737640273,2024-08-12,,,0,0,0,0
+673,s10md,2024-08-15 14:43:38,zenyi street,,,MULTIPLE_WEIGHTED_DUPS,Afede Street,nan,4,6,6,0,240342338,2024-08-12,mawuenagrant2003@gmail.com,,0,0,0,0
+674,s10md,2024-08-18 15:55:40,Somey Down,,,MULTIPLE_WEIGHTED_DUPS,Ho Dome,nan,5,6,6,0,653211413,2024-08-12,rosemaryemefa0407@gmail.com,2024-08-18 16:02:57.000,1,0,0,0
+675,s10md,2024-09-04 11:31:36,Ho dome,,,MULTIPLE_WEIGHTED_DUPS,Box 676,nan,4,6,6,0,906791985,2024-09-02,nunyuiekelvinelinam@gmail.com,,0,0,0,0
+676,s10md,2024-10-14 08:54:32,Ho street,,,MULTIPLE_WEIGHTED_DUPS,mango street,nan,4,4,4,0,731326033,2024-10-14,korbaforex1@gmail.com,2024-10-14 09:47:58.000,1,0,0,0
+677,s10s5,2024-09-30 14:16:59,ashiagbor street,cashier ,Banking and Financial Services,MULTIPLE_WEIGHTED_DUPS,ashiagbor street,cashier,4,3,0,1,55758806,2024-09-30,literacysedewodzi25@gmail.com,2024-09-30 14:18:35.000,1,0,0,0
+678,s10s5,2024-09-30 15:45:57,ashiagbor street,cashier ,Banking and Financial Services,MULTIPLE_WEIGHTED_DUPS,ashiagbor street,cashier ,5,0,0,0,932280300,2024-09-30,paulkwakudzreke@gmail.com,2024-09-30 15:47:32.000,1,0,0,0
+679,s10s5,2024-10-01 15:58:53,ashiagbor street,cashier,Banking and Financial Services,MULTIPLE_WEIGHTED_DUPS,ashiagbor street,cashier,6,0,0,0,727614304,2024-09-30,danfianyo@gmail.com,2024-12-30 17:31:46.000,1,1,1,0
+680,s10s5,2024-10-01 18:26:48,ashiagbor street,cashier ,Banking and Financial Services,MULTIPLE_WEIGHTED_DUPS,ashiagbor street,cashier ,7,0,0,0,444189551,2024-09-30,dkwao822@gmai.com,2024-10-01 18:55:06.000,1,0,0,0
+681,s10s5,2024-10-01 20:03:04,ashiagbor street,cashier ,Banking and Financial Services,MULTIPLE_WEIGHTED_DUPS,ashiagbor street,cashier ,8,0,0,0,135089633,2024-09-30,dzrekekingsford48@gmail.com,,0,0,0,0
+682,s10s5,2024-10-02 11:25:52,ashiagbor street,cashier ,Banking and Financial Services,MULTIPLE_WEIGHTED_DUPS,ashiagbor street,cashier ,9,0,0,0,374816521,2024-09-30,francislove739@gmail.com,2024-10-02 12:48:04.000,1,0,0,0
+683,s122d,2024-01-24 10:31:29,Jamesford street,Security ,Hotel and restaurants,MULTIPLE_WEIGHTED_DUPS,Mamaga street,Security ,4,7,7,0,225051809,2024-01-22,,,0,0,0,0
+684,s126f,2024-09-06 17:20:26,Pentecost Church,Teacher ,Education,MULTIPLE_WEIGHTED_DUPS,Pentecost church,teacher ,4,4,1,1,746843800,2024-09-02,,2024-09-06 18:17:36.000,1,1,0,1
+685,s126f,2024-09-06 20:59:09,Pentecost Church,Teacher ,Education,MULTIPLE_WEIGHTED_DUPS,Pentecost Church,Teacher ,5,0,0,0,196678522,2024-09-02,,2024-09-06 21:13:59.000,1,1,0,1
+686,s126f,2024-09-12 09:18:41,Pentecost Church,teacher ,Education,MULTIPLE_WEIGHTED_DUPS,Pentecost Church,teacher,4,3,0,1,828691554,2024-09-09,,2024-09-12 10:21:16.000,1,1,0,1
+687,s126f,2024-09-12 15:45:50,Pentecost Church,Teacher ,Education,MULTIPLE_WEIGHTED_DUPS,Pentecost Church,Teacher ,5,0,0,0,72434140,2024-09-09,,2024-09-12 16:26:50.000,1,1,0,1

@@ -1,0 +1,571 @@
+HASH,SURVEY_DATE,ADDRESS,FRAUD_TYPE,SIMILAR_PRIOR_ADDRESS,SIMILAR_ADDRESSES_COUNT,ADDRESS_SIMILARITY,IS_WHITELISTED,DISBURSED,DR1,DEFAULT_RATE,CLIENT_ID,SURVEY_WEEK,EMAIL,POSITION,DISB_DATE,INDUSTRY,DEFAULTED,PTFRAUD,dup_limit
+ebyh8,2024-10-20 10:53:18,AHOBRE 1,MULTIPLE_ADDRESS_DUPLICATIONS,AHOBRE 1,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebyh8,2024-10-24 06:02:23,AHOBRE 1,MULTIPLE_ADDRESS_DUPLICATIONS,AHOBRE 1,6,1.0,False,0,0,0.0,,,,,,,,,4
+ebyh8,2024-10-24 06:57:28,AHOBRE 2,MULTIPLE_ADDRESS_DUPLICATIONS,AHOBRE 2,7,1.0,False,0,0,0.0,,,,,,,,,4
+ebyh8,2024-10-25 11:26:33,AHOBRE I,MULTIPLE_ADDRESS_DUPLICATIONS,AHOBRE 1,8,0.95,False,0,0,0.0,,,,,,,,,4
+ebysp,2024-11-11 14:43:47,Near main market,MULTIPLE_ADDRESS_DUPLICATIONS,Near main market,5,1.0,False,1,1,1.0,,,,,,,,,4
+ebysp,2024-11-11 18:16:38,Near main market,MULTIPLE_ADDRESS_DUPLICATIONS,Near main market,6,1.0,False,1,1,1.0,,,,,,,,,4
+ebysp,2024-11-14 14:20:21,Near main market,MULTIPLE_ADDRESS_DUPLICATIONS,Near main market,7,1.0,False,0,0,0.0,,,,,,,,,4
+ebysp,2024-11-14 16:56:48,Near main market,MULTIPLE_ADDRESS_DUPLICATIONS,Near main market,8,1.0,False,1,1,1.0,,,,,,,,,4
+ebysp,2024-11-15 13:12:15,Near main market,MULTIPLE_ADDRESS_DUPLICATIONS,Near main market,9,1.0,False,0,0,0.0,,,,,,,,,4
+ebysp,2024-11-15 16:37:20,Near main market,MULTIPLE_ADDRESS_DUPLICATIONS,Near main market,10,1.0,False,0,0,0.0,,,,,,,,,4
+ebysp,2024-11-16 16:26:15,Near main market,MULTIPLE_ADDRESS_DUPLICATIONS,Near main market,10,1.0,False,1,1,1.0,,,,,,,,,4
+ebysp,2024-11-17 07:45:04,Near main market,MULTIPLE_ADDRESS_DUPLICATIONS,Near main market,9,1.0,False,1,1,1.0,,,,,,,,,4
+ebysp,2024-11-17 08:33:38,Near main market,MULTIPLE_ADDRESS_DUPLICATIONS,Near main market,10,1.0,False,0,0,0.0,,,,,,,,,4
+ebysp,2024-11-18 17:04:01,Near main park,MULTIPLE_ADDRESS_DUPLICATIONS,Near main market,10,0.9482142857142858,False,0,0,0.0,,,,,,,,,4
+ebytc,2024-01-08 14:17:07,TB 74 Teberebe,MULTIPLE_ADDRESS_DUPLICATIONS,TB 74 Teberebe,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebytc,2024-01-08 14:47:34,TB 74 Teberebe,MULTIPLE_ADDRESS_DUPLICATIONS,TB 74 Teberebe,6,1.0,False,0,0,0.0,,,,,,,,,4
+ebytc,2024-01-08 15:32:22,TB 74 Teberebe,MULTIPLE_ADDRESS_DUPLICATIONS,TB 74 Teberebe,7,1.0,False,0,0,0.0,,,,,,,,,4
+ebytc,2024-01-11 14:38:15,TB 74 Teberebe,MULTIPLE_ADDRESS_DUPLICATIONS,TB 74 Teberebe,8,1.0,False,1,1,1.0,,,,,,,,,4
+ebytc,2024-01-11 16:16:55,TB 74 Teberebe,MULTIPLE_ADDRESS_DUPLICATIONS,TB 74 Teberebe,9,1.0,False,1,1,1.0,,,,,,,,,4
+ebyw4,2024-10-22 13:08:56,TB 70 Teberebe,MULTIPLE_ADDRESS_DUPLICATIONS,TB 70 Teberebe,5,1.0,False,1,1,1.0,,,,,,,,,4
+ebyw4,2024-10-23 17:18:23,TB 73 Teberebe,MULTIPLE_ADDRESS_DUPLICATIONS,TB 75 Teberebe,6,0.9714285714285714,False,1,0,0.0,,,,,,,,,4
+ebyw4,2024-11-01 12:31:16,TB 72 Teberebe,MULTIPLE_ADDRESS_DUPLICATIONS,TB 75 Teberebe,6,0.9714285714285714,False,1,1,1.0,,,,,,,,,4
+ebyw4,2024-11-03 14:37:35,Tarkwa na Aboso,MULTIPLE_ADDRESS_DUPLICATIONS,Tarkwa na Aboso,5,1.0,False,1,1,1.0,,,,,,,,,4
+ebyw4,2024-12-14 12:59:01,Tarkwa na Aboso,MULTIPLE_ADDRESS_DUPLICATIONS,Tarkwa na Aboso,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebyw4,2024-12-14 12:59:11,Tarkwa na Aboso,MULTIPLE_ADDRESS_DUPLICATIONS,Tarkwa na Aboso,6,1.0,False,0,0,0.0,,,,,,,,,4
+ebyw4,2024-12-14 15:13:48,Tarkwa na Aboso,MULTIPLE_ADDRESS_DUPLICATIONS,Tarkwa na Aboso,7,1.0,False,0,0,0.0,,,,,,,,,4
+ebyw4,2024-12-17 11:21:49,Tarkwa na Aboso,MULTIPLE_ADDRESS_DUPLICATIONS,Tarkwa na Aboso,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebyw4,2024-12-17 12:01:33,Tarkwa na Aboso,MULTIPLE_ADDRESS_DUPLICATIONS,Tarkwa na Aboso,6,1.0,False,0,0,0.0,,,,,,,,,4
+ebyzu,2024-03-06 08:25:17,Twifu Praso,MULTIPLE_ADDRESS_DUPLICATIONS,Twifu Praso,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzj5,2024-08-20 14:07:45,Twifo Praso Road,MULTIPLE_ADDRESS_DUPLICATIONS,Twifo Praso Road,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzj5,2024-08-20 14:37:08,Twifo Praso Road,MULTIPLE_ADDRESS_DUPLICATIONS,Twifo Praso Road,6,1.0,False,0,0,0.0,,,,,,,,,4
+ebzj5,2024-08-22 11:10:36,Twifo Praso Road,MULTIPLE_ADDRESS_DUPLICATIONS,Twifo Praso Road,7,1.0,False,0,0,0.0,,,,,,,,,4
+ebzj5,2024-08-23 12:51:50,Twifo Praso Road,MULTIPLE_ADDRESS_DUPLICATIONS,Twifo Praso Road,8,1.0,False,1,0,0.0,,,,,,,,,4
+ebzj5,2024-08-23 18:37:46,Twifo Praso Road,MULTIPLE_ADDRESS_DUPLICATIONS,Twifo Praso Road,9,1.0,False,0,0,0.0,,,,,,,,,4
+ebzj5,2024-08-23 19:09:47,Twifo Praso Road,MULTIPLE_ADDRESS_DUPLICATIONS,Twifo Praso Road,10,1.0,False,0,0,0.0,,,,,,,,,4
+ebzj9,2024-08-20 18:49:51,Jukwa Road,MULTIPLE_ADDRESS_DUPLICATIONS,Jukwa Road,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzjx,2024-02-20 15:17:16,Saltpond annkafo Victoria Park near saltpond police station,MULTIPLE_ADDRESS_DUPLICATIONS,Saltpond annkafo Victoria Park near saltpond police station,5,1.0,False,1,1,1.0,,,,,,,,,4
+ebzjx,2024-02-22 11:23:56,Saltpond annkafo Victoria Park near saltpond police station,MULTIPLE_ADDRESS_DUPLICATIONS,Saltpond annkafo Victoria Park near saltpond police station,6,1.0,False,0,0,0.0,,,,,,,,,4
+ebzjx,2024-02-28 14:43:39,Saltpond annkafo Victoria Park near saltpond police station,MULTIPLE_ADDRESS_DUPLICATIONS,Saltpond annkafo Victoria Park near saltpond police station,6,1.0,False,0,0,0.0,,,,,,,,,4
+ebzjx,2024-02-29 16:04:59,Saltpond ankafo Victoria Park near saltpond police station,MULTIPLE_ADDRESS_DUPLICATIONS,Saltpond annkafo Victoria Park near saltpond police station,7,0.9172998246639392,False,0,0,0.0,,,,,,,,,4
+ebzmy,2024-07-19 08:11:52,Prof Atta Mills,MULTIPLE_ADDRESS_DUPLICATIONS,Prof Atta Mills,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzw3,2024-07-15 17:59:44,Roman school,MULTIPLE_ADDRESS_DUPLICATIONS,Roman school,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzxk,2024-11-08 15:15:29,Feteh kakraba,MULTIPLE_ADDRESS_DUPLICATIONS,Fetteh kakraba,7,0.9833333333333334,False,1,0,0.0,,,,,,,,,4
+ebzxk,2024-11-10 08:55:50,Fetter kakraba,MULTIPLE_ADDRESS_DUPLICATIONS,Fetteh kakraba,6,0.9406593406593406,False,1,0,0.0,,,,,,,,,4
+ebzxk,2024-11-11 16:40:31,Fetter Kakraba,MULTIPLE_ADDRESS_DUPLICATIONS,Fetter kakraba,5,0.956043956043956,False,1,0,0.0,,,,,,,,,4
+ebzxk,2024-11-13 18:15:59,fetteh kakarba,MULTIPLE_ADDRESS_DUPLICATIONS,fetteh kakraba,5,0.9857142857142858,False,0,0,0.0,,,,,,,,,4
+ebzxm,2024-04-19 14:18:11,Krispol city,MULTIPLE_ADDRESS_DUPLICATIONS,Krispo city,6,0.9833333333333333,False,1,0,0.0,,,,,,,,,4
+ebzxm,2024-05-28 15:12:14,krispo city,MULTIPLE_ADDRESS_DUPLICATIONS,krispol City,5,0.9484848484848484,False,0,0,0.0,,,,,,,,,4
+ebzxm,2024-06-04 11:16:52,Krispol city,MULTIPLE_ADDRESS_DUPLICATIONS,Krispol city,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzxq,2024-07-13 15:33:04,Iron City,MULTIPLE_ADDRESS_DUPLICATIONS,Iron City,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzxq,2024-07-16 15:50:58,Iron City,MULTIPLE_ADDRESS_DUPLICATIONS,Iron City,6,1.0,False,1,0,0.0,,,,,,,,,4
+ebzxq,2024-07-19 07:40:47,Iron city,MULTIPLE_ADDRESS_DUPLICATIONS,Iron city,6,1.0,False,0,0,0.0,,,,,,,,,4
+ebzxq,2024-10-30 02:15:33,Iron city,MULTIPLE_ADDRESS_DUPLICATIONS,Iron City,5,0.9555555555555556,False,0,0,0.0,,,,,,,,,4
+ebzxq,2024-11-02 07:07:01,Iron city,MULTIPLE_ADDRESS_DUPLICATIONS,Iron city,6,1.0,False,1,1,1.0,,,,,,,,,4
+ebzxq,2024-11-08 10:49:39,Iron city,MULTIPLE_ADDRESS_DUPLICATIONS,Iron city,7,1.0,False,0,0,0.0,,,,,,,,,4
+ebzxq,2024-11-11 10:06:32,iron city,MULTIPLE_ADDRESS_DUPLICATIONS,iron city,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzxq,2024-11-26 19:07:27,Kasoa Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Kasoa Newtown,5,1.0,False,1,1,1.0,,,,,,,,,4
+ebzxq,2024-11-28 17:58:17,Kasoa New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Kasoa Newtown,6,0.956043956043956,False,1,0,0.0,,,,,,,,,4
+ebzxq,2024-12-02 13:41:13,Kasoa Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Kasoa Newtown,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzxr,2024-04-04 16:00:37,New bortianor,MULTIPLE_ADDRESS_DUPLICATIONS,New Bortianor,6,0.9692307692307692,False,0,0,0.0,,,,,,,,,4
+ebzxr,2024-04-04 18:49:37,New bortianor,MULTIPLE_ADDRESS_DUPLICATIONS,New bortianor,7,1.0,False,0,0,0.0,,,,,,,,,4
+ebzxt,2024-05-10 13:03:46,Kasoa new market,MULTIPLE_ADDRESS_DUPLICATIONS,Kasoa new market,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebzxt,2024-06-14 18:36:46,Kasoa Opeikuma,MULTIPLE_ADDRESS_DUPLICATIONS,Kasoa opeikuma,5,0.9714285714285714,False,1,1,1.0,,,,,,,,,4
+ebzxt,2024-07-24 16:09:28,Kasoa opiekuma,MULTIPLE_ADDRESS_DUPLICATIONS,Kasoa Opeikuma,5,0.956043956043956,False,0,0,0.0,,,,,,,,,4
+ebzxt,2024-07-24 20:21:52,Kasoa Opeikuma,MULTIPLE_ADDRESS_DUPLICATIONS,Kasoa Opeikuma,5,1.0,False,1,1,1.0,,,,,,,,,4
+ebzxv,2024-11-12 15:01:24,kasoa ofaakor,MULTIPLE_ADDRESS_DUPLICATIONS,kasoa ofaakor,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebzxw,2024-06-01 09:56:13,lamptey Mills,MULTIPLE_ADDRESS_DUPLICATIONS,lamptey mills,5,0.9692307692307692,False,1,1,1.0,,,,,,,,,4
+ebzxw,2024-06-03 21:42:40,kasoa Akweley,MULTIPLE_ADDRESS_DUPLICATIONS,kasoa Akweley,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzxw,2024-06-06 11:26:07,kasoa akweley,MULTIPLE_ADDRESS_DUPLICATIONS,kasoa -akweley,6,0.9857142857142858,False,0,0,0.0,,,,,,,,,4
+ebzxw,2024-06-08 16:01:25,kasoa akweley,MULTIPLE_ADDRESS_DUPLICATIONS,kasoa akweley,6,1.0,False,0,0,0.0,,,,,,,,,4
+ebzxw,2024-06-17 07:53:19,New market,MULTIPLE_ADDRESS_DUPLICATIONS,New Market,5,0.96,False,1,0,0.0,,,,,,,,,4
+ebzxw,2024-06-17 12:55:29,New Market,MULTIPLE_ADDRESS_DUPLICATIONS,New Market,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzxw,2024-06-25 16:09:42,New market,MULTIPLE_ADDRESS_DUPLICATIONS,New market,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebzxw,2024-06-28 16:20:31,New market,MULTIPLE_ADDRESS_DUPLICATIONS,New market,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebzxw,2024-07-05 15:42:49,Obom road junction,MULTIPLE_ADDRESS_DUPLICATIONS,Obom road junction,6,1.0,False,1,1,1.0,,,,,,,,,4
+ebzxw,2024-07-05 18:23:09,Obom road,MULTIPLE_ADDRESS_DUPLICATIONS,Obom road,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzxw,2024-08-05 16:51:38,porcupine st,MULTIPLE_ADDRESS_DUPLICATIONS,porcupine st,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzxw,2024-08-06 11:43:44,porcupine st,MULTIPLE_ADDRESS_DUPLICATIONS,porcupine st,6,1.0,False,0,0,0.0,,,,,,,,,4
+ebzxw,2024-10-15 16:09:34,New market,MULTIPLE_ADDRESS_DUPLICATIONS,New market,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebzxw,2024-10-17 16:12:07,new market road,MULTIPLE_ADDRESS_DUPLICATIONS,new market road,5,1.0,False,1,1,1.0,,,,,,,,,4
+ebzxw,2024-10-22 07:22:40,New Market Road,MULTIPLE_ADDRESS_DUPLICATIONS,New Market road,5,0.9733333333333334,False,1,0,0.0,,,,,,,,,4
+ebzxw,2024-10-22 21:22:14,New market,MULTIPLE_ADDRESS_DUPLICATIONS,New market,8,1.0,False,0,0,0.0,,,,,,,,,4
+ebzxw,2024-10-24 14:20:31,New Market road,MULTIPLE_ADDRESS_DUPLICATIONS,New Market road,8,1.0,False,1,0,0.0,,,,,,,,,4
+ebzxw,2024-10-24 18:37:16,New Market,MULTIPLE_ADDRESS_DUPLICATIONS,New Market,8,1.0,False,0,0,0.0,,,,,,,,,4
+ebzxw,2024-10-26 06:19:57,new market road,MULTIPLE_ADDRESS_DUPLICATIONS,new market road,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebzxw,2024-10-27 09:39:19,New Market,MULTIPLE_ADDRESS_DUPLICATIONS,New Market,9,1.0,False,1,0,0.0,,,,,,,,,4
+ebzxw,2024-10-31 17:42:01,ngleshie Amanfrom,MULTIPLE_ADDRESS_DUPLICATIONS,ngleshie amanfro,5,0.9506372549019607,False,1,0,0.0,,,,,,,,,4
+ebzxw,2024-11-03 15:26:10,New Market Road,MULTIPLE_ADDRESS_DUPLICATIONS,New Market Road,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebzxw,2024-11-15 08:52:30,Ngleshie -Amanfro,MULTIPLE_ADDRESS_DUPLICATIONS,Ngleshie Amanfro,5,0.9882352941176471,False,0,0,0.0,,,,,,,,,4
+ebzxw,2024-12-09 18:55:08,Lamptey Mills,MULTIPLE_ADDRESS_DUPLICATIONS,Lamtey Mills,5,0.9820512820512821,False,0,0,0.0,,,,,,,,,4
+ebzxy,2024-08-29 18:15:31,Obom road Junction,MULTIPLE_ADDRESS_DUPLICATIONS,Obom road Junction,5,1.0,False,1,1,1.0,,,,,,,,,4
+ebzz2,2024-07-31 14:09:19,Westhill Mall,MULTIPLE_ADDRESS_DUPLICATIONS,Westhill Mall,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzz2,2024-12-27 14:21:23,West hills mall,MULTIPLE_ADDRESS_DUPLICATIONS,West hills mall,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzz3,2024-12-06 11:11:34,Nii Adu Lane 12,MULTIPLE_ADDRESS_DUPLICATIONS,Nii Adu Lane 12,5,1.0,False,1,1,1.0,,,,,,,,,4
+ebzz3,2024-12-09 08:29:12,Nii Adu Lane 34,MULTIPLE_ADDRESS_DUPLICATIONS,Nii Adu Lane 34,6,1.0,False,1,1,1.0,,,,,,,,,4
+ebzz3,2024-12-30 17:07:57,Nii Adu Lane 45,MULTIPLE_ADDRESS_DUPLICATIONS,Nii Adu Lane 34,5,0.9733333333333334,False,1,1,1.0,,,,,,,,,4
+ebzz6,2024-02-03 08:23:04,old winniba road,MULTIPLE_ADDRESS_DUPLICATIONS,old winneba road,5,0.975,False,1,0,0.0,,,,,,,,,4
+ebzz6,2024-02-03 13:47:27,0ld winnebago road,MULTIPLE_ADDRESS_DUPLICATIONS,old winneba road,5,0.9013888888888889,False,0,0,0.0,,,,,,,,,4
+ebzz6,2024-02-05 09:55:42,old Winneba Road,MULTIPLE_ADDRESS_DUPLICATIONS,Old Winneba Road,6,0.9583333333333334,False,0,0,0.0,,,,,,,,,4
+ebzz6,2024-03-01 19:00:42,Old winneba road,MULTIPLE_ADDRESS_DUPLICATIONS,Old winneba road,7,1.0,False,0,0,0.0,,,,,,,,,4
+ebzz6,2024-06-06 15:58:09,Old winneba road,MULTIPLE_ADDRESS_DUPLICATIONS,Old winneba road,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzz6,2024-06-07 22:21:22,Old wenniba road,MULTIPLE_ADDRESS_DUPLICATIONS,Old winneba road,5,0.9874999999999999,False,0,0,0.0,,,,,,,,,4
+ebzz6,2024-06-08 17:12:59,Old Winneba road,MULTIPLE_ADDRESS_DUPLICATIONS,Old Winneba Road,5,0.975,False,1,0,0.0,,,,,,,,,4
+ebzz6,2024-06-10 13:40:01,old winneba road,MULTIPLE_ADDRESS_DUPLICATIONS,old winneba road,5,1.0,False,1,1,1.0,,,,,,,,,4
+ebzz6,2024-06-14 08:16:20,Old winneba road,MULTIPLE_ADDRESS_DUPLICATIONS,Old winneba road,8,1.0,False,1,0,0.0,,,,,,,,,4
+ebzz6,2024-06-16 18:37:19,Old Winneba Road,MULTIPLE_ADDRESS_DUPLICATIONS,Old Winneba Road,6,1.0,False,1,0,0.0,,,,,,,,,4
+ebzz6,2024-06-19 09:17:09,old winneba road,MULTIPLE_ADDRESS_DUPLICATIONS,old winneba road,6,1.0,False,1,1,1.0,,,,,,,,,4
+ebzz6,2024-08-05 11:01:11,old winneba road,MULTIPLE_ADDRESS_DUPLICATIONS,old winniba road,5,0.975,False,0,0,0.0,,,,,,,,,4
+ebzz6,2024-08-11 13:50:47,old winneba RD,MULTIPLE_ADDRESS_DUPLICATIONS,old winneba RD,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzz6,2024-08-11 14:56:23,old winneba road,MULTIPLE_ADDRESS_DUPLICATIONS,old winneba road,8,1.0,False,1,0,0.0,,,,,,,,,4
+ebzz6,2024-09-28 10:16:13,old winneba road,MULTIPLE_ADDRESS_DUPLICATIONS,old winneba road,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebzz6,2024-09-30 11:05:11,old winnebago road,MULTIPLE_ADDRESS_DUPLICATIONS,old winneba road,7,0.9652777777777778,False,1,0,0.0,,,,,,,,,4
+ebzz6,2024-09-30 13:06:53,old winneba road,MULTIPLE_ADDRESS_DUPLICATIONS,old winneba road,7,1.0,False,1,0,0.0,,,,,,,,,4
+ebzz6,2024-09-30 20:01:55,old winneba road,MULTIPLE_ADDRESS_DUPLICATIONS,old winneba road,8,1.0,False,0,0,0.0,,,,,,,,,4
+ebzz6,2024-10-02 13:24:02,Old winneba road,MULTIPLE_ADDRESS_DUPLICATIONS,Old winneba road,8,1.0,False,0,0,0.0,,,,,,,,,4
+ebzz6,2024-10-03 06:36:13,Old wineba road,MULTIPLE_ADDRESS_DUPLICATIONS,Old winneba road,8,0.9874999999999999,False,1,0,0.0,,,,,,,,,4
+ebzz6,2024-10-04 13:48:57,Old Winneba Road,MULTIPLE_ADDRESS_DUPLICATIONS,Old Winneba Road,5,1.0,False,1,1,1.0,,,,,,,,,4
+ebzz6,2024-10-05 09:56:08,old winneba road,MULTIPLE_ADDRESS_DUPLICATIONS,old winneba road,11,1.0,False,0,0,0.0,,,,,,,,,4
+ebzz6,2024-10-10 07:56:10,old winneba,MULTIPLE_ADDRESS_DUPLICATIONS,old winneba road,5,0.9375,False,0,0,0.0,,,,,,,,,4
+ebzz6,2024-10-11 14:57:44,old wenniber road,MULTIPLE_ADDRESS_DUPLICATIONS,old winneba road,7,0.9373039215686275,False,1,0,0.0,,,,,,,,,4
+ebzz6,2024-11-11 18:21:03,old Winneba Road,MULTIPLE_ADDRESS_DUPLICATIONS,old Winneba road,5,0.975,False,1,0,0.0,,,,,,,,,4
+ebzz6,2024-11-14 10:00:58,old winnba road,MULTIPLE_ADDRESS_DUPLICATIONS,old winneba road,6,0.9874999999999999,False,0,0,0.0,,,,,,,,,4
+ebzz6,2024-11-23 11:33:11,old winneba road,MULTIPLE_ADDRESS_DUPLICATIONS,old winnba road,5,0.9874999999999999,False,0,0,0.0,,,,,,,,,4
+ebzz8,2024-01-13 12:23:46,Westhills Mal,MULTIPLE_ADDRESS_DUPLICATIONS,Westhills Mall,5,0.9857142857142858,False,1,0,0.0,,,,,,,,,4
+ebzz8,2024-01-16 10:58:05,West hills mall,MULTIPLE_ADDRESS_DUPLICATIONS,West hills mall,6,1.0,False,0,0,0.0,,,,,,,,,4
+ebzz8,2024-01-17 14:46:25,West hills,MULTIPLE_ADDRESS_DUPLICATIONS,West hills,7,1.0,False,1,1,1.0,,,,,,,,,4
+ebzz8,2024-01-18 14:19:07,West hills,MULTIPLE_ADDRESS_DUPLICATIONS,West hills,7,1.0,False,0,0,0.0,,,,,,,,,4
+ebzz8,2024-01-20 18:20:18,West Hills Mall,MULTIPLE_ADDRESS_DUPLICATIONS,West hills mall,6,0.9466666666666667,False,1,0,0.0,,,,,,,,,4
+ebzz8,2024-01-24 08:51:14,West Hills Mall,MULTIPLE_ADDRESS_DUPLICATIONS,West Hills Mall,6,1.0,False,1,0,0.0,,,,,,,,,4
+ebzz8,2024-01-29 11:53:46,West hills mall,MULTIPLE_ADDRESS_DUPLICATIONS,West hills mall,6,1.0,False,1,0,0.0,,,,,,,,,4
+ebzz8,2024-07-18 20:27:55,west hills mall,MULTIPLE_ADDRESS_DUPLICATIONS,west hill mall,6,0.9866666666666667,False,0,0,0.0,,,,,,,,,4
+ebzz8,2024-07-27 16:25:12,Westhill Mall,MULTIPLE_ADDRESS_DUPLICATIONS,Westhill Mall,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzz8,2024-07-31 22:27:11,West hills Mall,MULTIPLE_ADDRESS_DUPLICATIONS,West hills Mall,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebzz8,2024-10-21 13:41:37,west hills mall,MULTIPLE_ADDRESS_DUPLICATIONS,west hills mall,6,1.0,False,0,0,0.0,,,,,,,,,4
+ebzz8,2024-10-22 16:05:46,west hills,MULTIPLE_ADDRESS_DUPLICATIONS,west hills,6,1.0,False,0,0,0.0,,,,,,,,,4
+ebzz8,2024-10-22 17:47:23,west hills mall,MULTIPLE_ADDRESS_DUPLICATIONS,west hills mall,7,1.0,False,1,0,0.0,,,,,,,,,4
+ebzz8,2024-10-31 21:17:02,west hills mall,MULTIPLE_ADDRESS_DUPLICATIONS,west hills mall,6,1.0,False,1,0,0.0,,,,,,,,,4
+ebzz8,2024-11-07 06:33:08,West hills mall,MULTIPLE_ADDRESS_DUPLICATIONS,West hills mall,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzz8,2024-11-14 14:54:44,West hills mall,MULTIPLE_ADDRESS_DUPLICATIONS,West hills mall,7,1.0,False,1,0,0.0,,,,,,,,,4
+ebzz8,2024-12-13 15:45:35,West Hills,MULTIPLE_ADDRESS_DUPLICATIONS,West hills,5,0.96,False,0,0,0.0,,,,,,,,,4
+ebzz8,2024-12-19 15:53:18,West hills Mall,MULTIPLE_ADDRESS_DUPLICATIONS,West hills Mall,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebzz9,2024-09-25 00:23:28,Mallam Junction,MULTIPLE_ADDRESS_DUPLICATIONS,Mallam Junction,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzb,2024-11-09 19:33:11,Amist Hotel,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,5,1.0,False,1,1,1.0,,,,,,,,,4
+ebzzb,2024-11-10 09:54:16,Amist Hotel,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,6,1.0,False,1,1,1.0,,,,,,,,,4
+ebzzb,2024-11-10 10:18:36,Amist Hotel,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,7,1.0,False,1,1,1.0,,,,,,,,,4
+ebzzb,2024-11-10 18:43:35,Amist Hotel,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,8,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzb,2024-11-10 19:13:51,Amist Hotel,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,9,1.0,False,1,1,1.0,,,,,,,,,4
+ebzzb,2024-11-10 22:03:42,Amist Hotel,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,10,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzb,2024-11-11 18:19:52,Amist Hotel,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,11,1.0,False,1,1,1.0,,,,,,,,,4
+ebzzb,2024-11-11 22:40:55,Amist Hotel,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,12,1.0,False,1,1,1.0,,,,,,,,,4
+ebzzb,2024-11-12 12:20:34,Amist Hotel,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,13,1.0,False,1,1,1.0,,,,,,,,,4
+ebzzb,2024-11-13 20:07:02,Amist Hotel,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,14,1.0,False,1,1,1.0,,,,,,,,,4
+ebzzb,2024-11-14 11:29:58,Amist Hotel,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,15,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzb,2024-11-14 18:48:33,Amist Hotel,MULTIPLE_ADDRESS_DUPLICATIONS,Amist Hotel,16,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzc,2024-10-15 12:32:20,Santa Maria,MULTIPLE_ADDRESS_DUPLICATIONS,Santa Maria,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebzzc,2024-10-17 10:04:53,Santa Maria,MULTIPLE_ADDRESS_DUPLICATIONS,Santa Maria,6,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzc,2024-10-19 09:54:18,Santa Maria,MULTIPLE_ADDRESS_DUPLICATIONS,Santa Maria,7,1.0,False,1,0,0.0,,,,,,,,,4
+ebzzc,2024-10-21 18:14:46,santa Maria,MULTIPLE_ADDRESS_DUPLICATIONS,Santa Maria,6,0.9393939393939394,False,1,0,0.0,,,,,,,,,4
+ebzzc,2024-10-22 08:23:59,Santa Maria,MULTIPLE_ADDRESS_DUPLICATIONS,Santa Maria,9,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzc,2024-10-23 22:15:38,Santa Maria,MULTIPLE_ADDRESS_DUPLICATIONS,Santa Maria,10,1.0,False,1,0,0.0,,,,,,,,,4
+ebzzc,2024-11-02 06:15:18,Santa Maria,MULTIPLE_ADDRESS_DUPLICATIONS,Santa Maria,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzze,2024-07-10 15:50:50,Asafoatse Nettey road,MULTIPLE_ADDRESS_DUPLICATIONS,Asafoatse Nettey road,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzze,2024-07-23 14:47:40,Pentecost church,MULTIPLE_ADDRESS_DUPLICATIONS,Pentecost church,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzze,2024-08-22 15:42:02,police Station,MULTIPLE_ADDRESS_DUPLICATIONS,police station,5,0.9714285714285714,False,1,1,1.0,,,,,,,,,4
+ebzzf,2024-05-01 13:04:40,pentecost church,MULTIPLE_ADDRESS_DUPLICATIONS,Pentecost church,5,0.9583333333333334,False,0,0,0.0,,,,,,,,,4
+ebzzf,2024-08-27 12:59:50,Lapaz Junction,MULTIPLE_ADDRESS_DUPLICATIONS,Lapaz Junction,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebzzf,2024-08-28 12:15:04,Lapaz road,MULTIPLE_ADDRESS_DUPLICATIONS,Lapaz Road,6,0.96,False,1,1,1.0,,,,,,,,,4
+ebzzf,2024-09-22 13:22:09,Abeka market,MULTIPLE_ADDRESS_DUPLICATIONS,Abeka market,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzf,2024-09-25 14:06:30,Lapaz Junction,MULTIPLE_ADDRESS_DUPLICATIONS,Lapaz Junction,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebzzf,2024-09-25 15:27:07,Lapaz Junction,MULTIPLE_ADDRESS_DUPLICATIONS,Lapaz Junction,6,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzg,2024-04-05 12:11:03,Mamobi Market,MULTIPLE_ADDRESS_DUPLICATIONS,Mamobi Market,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzg,2024-11-06 07:17:54,kotobabi police station,MULTIPLE_ADDRESS_DUPLICATIONS,kotobabi police station,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzg,2024-11-14 10:39:14,Kotobabi police station,MULTIPLE_ADDRESS_DUPLICATIONS,Kotobabi police station,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebzzg,2024-11-22 14:06:44,kanda highway 441,MULTIPLE_ADDRESS_DUPLICATIONS,kanda highway 441,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzs,2024-04-03 18:36:30,Trade fair,MULTIPLE_ADDRESS_DUPLICATIONS,Trade fair,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebzzs,2024-04-05 11:22:24,Trade fair,MULTIPLE_ADDRESS_DUPLICATIONS,Trade fair,6,1.0,False,1,0,0.0,,,,,,,,,4
+ebzzs,2024-08-01 13:31:08,La Abafum,MULTIPLE_ADDRESS_DUPLICATIONS,La Abafum,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebzzs,2024-11-08 16:32:46,Trade fair,MULTIPLE_ADDRESS_DUPLICATIONS,Trade fair,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzs,2024-11-11 11:52:36,Trade fair,MULTIPLE_ADDRESS_DUPLICATIONS,Trade fair,8,1.0,False,1,0,0.0,,,,,,,,,4
+ebzzs,2024-11-12 11:25:21,Trade Fair,MULTIPLE_ADDRESS_DUPLICATIONS,Trade Fair,6,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzs,2024-11-13 11:20:25,Tradefair,MULTIPLE_ADDRESS_DUPLICATIONS,Trade fair,7,0.98,False,1,0,0.0,,,,,,,,,4
+ebzzv,2024-04-17 10:54:32,Teshie Tsuibleo,MULTIPLE_ADDRESS_DUPLICATIONS,Teshie Tsuibleoo,5,0.9874999999999999,False,0,0,0.0,,,,,,,,,4
+ebzzv,2024-04-17 17:35:55,Teshie mobil,MULTIPLE_ADDRESS_DUPLICATIONS,Teshie mobile,5,0.9846153846153847,False,1,0,0.0,,,,,,,,,4
+ebzzv,2024-04-19 11:56:46,Teshie Tsuibleoo,MULTIPLE_ADDRESS_DUPLICATIONS,Teshie Tsuibleoo,7,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzv,2024-09-04 08:40:53,Teshie lekma,MULTIPLE_ADDRESS_DUPLICATIONS,teshie lekma,5,0.9444444444444443,False,1,0,0.0,,,,,,,,,4
+ebzzv,2024-09-08 13:31:03,King Kotey road,MULTIPLE_ADDRESS_DUPLICATIONS,King Kotey Roda,5,0.959047619047619,False,0,0,0.0,,,,,,,,,4
+ebzzv,2024-10-07 17:03:30,Teshie malik,MULTIPLE_ADDRESS_DUPLICATIONS,Teshie Malik,5,0.9666666666666666,False,1,1,1.0,,,,,,,,,4
+ebzzv,2024-10-07 17:05:13,Teshie mobli,MULTIPLE_ADDRESS_DUPLICATIONS,Teshie mobil,7,0.9833333333333333,False,1,0,0.0,,,,,,,,,4
+ebzzv,2024-10-07 17:19:55,Teshie mobile,MULTIPLE_ADDRESS_DUPLICATIONS,Teshie mobile,7,1.0,False,1,0,0.0,,,,,,,,,4
+ebzzv,2024-10-09 14:00:33,Teshie tsuibleo,MULTIPLE_ADDRESS_DUPLICATIONS,Teshie Tsuibleoo,7,0.9616666666666668,False,1,0,0.0,,,,,,,,,4
+ebzzv,2024-11-11 13:09:08,King kotey,MULTIPLE_ADDRESS_DUPLICATIONS,King kotey,5,1.0,False,1,0,0.0,,,,,,,,,4
+ebzzv,2024-11-11 16:07:14,King kotey,MULTIPLE_ADDRESS_DUPLICATIONS,King kotey,6,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzy,2024-04-22 02:26:03,Nungua C5,MULTIPLE_ADDRESS_DUPLICATIONS,Nungua C5,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzy,2024-04-28 08:09:51,Nungua c5,MULTIPLE_ADDRESS_DUPLICATIONS,Nungua c5,6,1.0,False,1,1,1.0,,,,,,,,,4
+ebzzy,2024-06-04 10:24:05,Nungua buade,MULTIPLE_ADDRESS_DUPLICATIONS,Nungua buade,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzy,2024-06-04 10:54:44,Nungua buade,MULTIPLE_ADDRESS_DUPLICATIONS,Nungua buade,6,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzy,2024-10-25 11:05:40,Nungua C5,MULTIPLE_ADDRESS_DUPLICATIONS,Nungua C5,5,1.0,False,0,0,0.0,,,,,,,,,4
+ebzzy,2024-10-25 18:41:42,Methodist church,MULTIPLE_ADDRESS_DUPLICATIONS,Methodist church,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecnh7,2024-07-14 08:50:07,market area,MULTIPLE_ADDRESS_DUPLICATIONS,market area,5,1.0,False,1,1,1.0,,,,,,,,,4
+ecnh7,2024-07-17 15:27:08,market area,MULTIPLE_ADDRESS_DUPLICATIONS,market area,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecnuk,2024-08-24 22:27:43,plot 65 block b,MULTIPLE_ADDRESS_DUPLICATIONS,plot 65 block b,5,1.0,False,1,1,1.0,,,,,,,,,4
+ecnuk,2024-08-28 17:07:44,plot 65 block b,MULTIPLE_ADDRESS_DUPLICATIONS,plot 65 block b,6,1.0,False,1,0,0.0,,,,,,,,,4
+ecnvc,2024-11-12 11:42:49,pltA no 148 near church of pentecost,MULTIPLE_ADDRESS_DUPLICATIONS,pltA no 58 near church of pentecost,5,0.9831746031746031,False,1,1,1.0,,,,,,,,,4
+ecnvg,2024-07-27 21:08:36,Plot 6 block A,MULTIPLE_ADDRESS_DUPLICATIONS,Plot 3 block 8,5,0.9428571428571428,False,0,0,0.0,,,,,,,,,4
+ecny1,2024-10-01 17:35:47,asuoyeboa north,MULTIPLE_ADDRESS_DUPLICATIONS,asuoyeboa north,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecny1,2024-12-16 13:06:22,Tanoso Market- Sunyani Road,MULTIPLE_ADDRESS_DUPLICATIONS,Tanoso Market - Sunyani Road,5,0.9558201058201059,False,1,0,0.0,,,,,,,,,4
+ecny1,2024-12-16 13:32:18,Tanoso market - Sunyani Road,MULTIPLE_ADDRESS_DUPLICATIONS,Tanoso market - Sunyani Road,6,1.0,False,1,0,0.0,,,,,,,,,4
+ecny1,2024-12-16 16:40:23,Tanoso market - Sunyani Road,MULTIPLE_ADDRESS_DUPLICATIONS,Tanoso market - Sunyani Road,7,1.0,False,0,0,0.0,,,,,,,,,4
+ecny1,2024-12-16 18:41:07,Tanoso market- Sunyani road,MULTIPLE_ADDRESS_DUPLICATIONS,Tanoso Market- Sunyani Road,8,0.9703703703703704,False,0,0,0.0,,,,,,,,,4
+ecny1,2024-12-18 11:45:05,Tanoso Market - Sunyani Road,MULTIPLE_ADDRESS_DUPLICATIONS,Tanoso Market - Sunyani Road,9,1.0,False,0,0,0.0,,,,,,,,,4
+ecny1,2024-12-18 15:39:30,Tanoso market - Sunyani Road,MULTIPLE_ADDRESS_DUPLICATIONS,Tanoso market - Sunyani Road,10,1.0,False,1,1,1.0,,,,,,,,,4
+ecny1,2024-12-20 11:17:54,Tanoso Market- sunyani road,MULTIPLE_ADDRESS_DUPLICATIONS,Tanoso Market- Sunyani Road,11,0.9703703703703704,False,0,0,0.0,,,,,,,,,4
+ecny1,2024-12-29 17:46:22,Tanoso market - Sunyani Road,MULTIPLE_ADDRESS_DUPLICATIONS,Tanoso market - Sunyani Road,7,1.0,False,1,0,0.0,,,,,,,,,4
+ecny2,2024-09-14 00:16:42,plot 65 block b,MULTIPLE_ADDRESS_DUPLICATIONS,plot 65 block b,5,1.0,False,1,1,1.0,,,,,,,,,4
+ecny2,2024-09-14 00:31:54,plot 65 block b,MULTIPLE_ADDRESS_DUPLICATIONS,plot 65 block b,6,1.0,False,1,1,1.0,,,,,,,,,4
+ecny2,2024-09-14 21:52:14,plot 65 block b,MULTIPLE_ADDRESS_DUPLICATIONS,plot 65 block b,7,1.0,False,1,1,1.0,,,,,,,,,4
+ecny2,2024-09-15 11:33:46,plot 65 block b,MULTIPLE_ADDRESS_DUPLICATIONS,plot 65 block b,8,1.0,False,0,0,0.0,,,,,,,,,4
+ecny2,2024-09-15 16:38:35,plot 65 block b,MULTIPLE_ADDRESS_DUPLICATIONS,plot 65 block b,9,1.0,False,0,0,0.0,,,,,,,,,4
+ecny2,2024-09-25 21:29:04,plot 65 block b,MULTIPLE_ADDRESS_DUPLICATIONS,plot 65 block b,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecny5,2024-08-22 14:12:51,plot 3 block e,MULTIPLE_ADDRESS_DUPLICATIONS,plot 10 block E,5,0.9314285714285714,False,0,0,0.0,,,,,,,,,4
+ecny5,2024-09-29 08:15:47,,MULTIPLE_ADDRESS_DUPLICATIONS,nan,5,1.0,False,1,1,1.0,,,,,,,,,4
+ecny6,2024-08-16 11:12:14,Methodist church,MULTIPLE_ADDRESS_DUPLICATIONS,Methodist church,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecny6,2024-10-24 10:11:43,plot 6 block b,MULTIPLE_ADDRESS_DUPLICATIONS,plot 6 block f,5,0.9714285714285714,False,0,0,0.0,,,,,,,,,4
+ecny6,2024-10-24 18:32:42,plot 5 Block E,MULTIPLE_ADDRESS_DUPLICATIONS,Plot 45 Block E,7,0.9317460317460317,False,1,0,0.0,,,,,,,,,4
+ecny7,2024-09-25 18:39:36,plot 4 block c,MULTIPLE_ADDRESS_DUPLICATIONS,plot 8 block D,6,0.9428571428571428,False,0,0,0.0,,,,,,,,,4
+ecny7,2024-10-01 09:09:27,plot 7 block b,MULTIPLE_ADDRESS_DUPLICATIONS,plot 4 block c,5,0.9428571428571428,False,0,0,0.0,,,,,,,,,4
+ecny7,2024-10-03 14:05:23,plot 18 block b,MULTIPLE_ADDRESS_DUPLICATIONS,plot 7 block b,5,0.959047619047619,False,0,0,0.0,,,,,,,,,4
+ecny7,2024-10-04 08:22:34,plot 14 block A,MULTIPLE_ADDRESS_DUPLICATIONS,plot 4 block c,6,0.959047619047619,False,1,0,0.0,,,,,,,,,4
+ecny7,2024-10-11 05:36:40,plot 8 block 9,MULTIPLE_ADDRESS_DUPLICATIONS,plot 18 block b,5,0.959047619047619,False,0,0,0.0,,,,,,,,,4
+ecnye,2024-10-18 14:13:06,Plot 116 Block B,MULTIPLE_ADDRESS_DUPLICATIONS,Plot 116 Block B,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecnye,2024-10-21 13:25:32,Plot 116 Block B,MULTIPLE_ADDRESS_DUPLICATIONS,Plot 116 Block B,6,1.0,False,1,0,0.0,,,,,,,,,4
+ecnyj,2024-07-24 15:53:48,fumesua okyerekrom,MULTIPLE_ADDRESS_DUPLICATIONS,fumesua okyerekrom,5,1.0,False,1,0,0.0,,,,,,,,,4
+ecnyj,2024-07-31 11:46:10,fumesua okyerekrom,MULTIPLE_ADDRESS_DUPLICATIONS,fumesua okyerekrom,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecp8h,2024-09-25 12:12:38,adawukwa lorry station,MULTIPLE_ADDRESS_DUPLICATIONS,adawukwa lorry station,5,1.0,False,1,0,0.0,,,,,,,,,4
+ecp8h,2024-09-26 12:33:43,adawukwa lorry station,MULTIPLE_ADDRESS_DUPLICATIONS,adawukwa lorry station,6,1.0,False,1,1,1.0,,,,,,,,,4
+ecp8h,2024-09-28 17:53:46,adawukwao lorry station,MULTIPLE_ADDRESS_DUPLICATIONS,adawukwa lorry station,7,0.9367588932806324,False,0,0,0.0,,,,,,,,,4
+ecp8h,2024-09-29 10:27:37,adawukwoa lorry station,MULTIPLE_ADDRESS_DUPLICATIONS,adawukwao lorry station,8,0.9913043478260869,False,1,1,1.0,,,,,,,,,4
+ecp8h,2024-10-01 10:35:44,adawukwa lorry station opp,MULTIPLE_ADDRESS_DUPLICATIONS,adawukwa lorry station opp,9,1.0,False,1,0,0.0,,,,,,,,,4
+ecp8x,2024-08-03 15:38:41,Adjen Kotoku,MULTIPLE_ADDRESS_DUPLICATIONS,Adjen Kotoku,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecp8x,2024-08-09 09:38:47,Adjen kotoku,MULTIPLE_ADDRESS_DUPLICATIONS,Adjen kotoku,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecp8x,2024-10-28 16:36:55,Adjen Kotoku,MULTIPLE_ADDRESS_DUPLICATIONS,Adjen Kotoku,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecp9p,2024-07-23 09:07:09,Nsawam Adoagyiri,MULTIPLE_ADDRESS_DUPLICATIONS,Nsawam Adoagyiri,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb0,2024-03-06 08:52:35,Ablekuma curve,MULTIPLE_ADDRESS_DUPLICATIONS,ablekuman curve,5,0.9317460317460317,False,1,0,0.0,,,,,,,,,4
+ecpb0,2024-10-06 15:39:50,Ablekuma 5,MULTIPLE_ADDRESS_DUPLICATIONS,Ableukuma 54,5,0.9466666666666667,False,0,0,0.0,,,,,,,,,4
+ecpb0,2024-10-14 09:56:11,Ablekuma Melcom,MULTIPLE_ADDRESS_DUPLICATIONS,Ablekuma melcom,5,0.9447619047619048,False,1,0,0.0,,,,,,,,,4
+ecpb0,2024-10-16 19:47:41,Ablekuma Accra,MULTIPLE_ADDRESS_DUPLICATIONS,ablekuma Accra,5,0.9523809523809524,False,0,0,0.0,,,,,,,,,4
+ecpb0,2024-11-24 12:58:49,Ablekuma Agbajena,MULTIPLE_ADDRESS_DUPLICATIONS,Ablekuma Abease,5,0.9108898944193061,False,0,0,0.0,,,,,,,,,4
+ecpb0,2024-11-28 17:41:51,Ablekuma kfc,MULTIPLE_ADDRESS_DUPLICATIONS,Ablekuma CP,5,0.9136363636363637,False,1,0,0.0,,,,,,,,,4
+ecpb1,2024-07-18 14:07:55,ofankor Barrier,MULTIPLE_ADDRESS_DUPLICATIONS,ofanko barrier,5,0.9128937728937729,False,1,0,0.0,,,,,,,,,4
+ecpb1,2024-10-04 09:47:49,Ofankor Barrier,MULTIPLE_ADDRESS_DUPLICATIONS,Ofankor barrier,5,0.9733333333333334,False,0,0,0.0,,,,,,,,,4
+ecpb1,2024-10-05 14:16:06,Ofankor Barrier,MULTIPLE_ADDRESS_DUPLICATIONS,Ofankor Barrier,5,1.0,False,1,0,0.0,,,,,,,,,4
+ecpb1,2024-10-05 17:34:31,Ofankor Barrier,MULTIPLE_ADDRESS_DUPLICATIONS,Ofankor Barrier,6,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb1,2024-10-07 23:32:30,Ofankor Barrier,MULTIPLE_ADDRESS_DUPLICATIONS,Ofankor Barrier,7,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb1,2024-10-18 08:48:56,Ofankor Barrier,MULTIPLE_ADDRESS_DUPLICATIONS,Ofankor Barrier,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb1,2024-11-03 10:35:07,Ofankor barrier,MULTIPLE_ADDRESS_DUPLICATIONS,Ofankor barrier,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb1,2024-11-07 17:52:01,Ofankor Barrie,MULTIPLE_ADDRESS_DUPLICATIONS,Ofankor Barr,6,0.9714285714285714,False,0,0,0.0,,,,,,,,,4
+ecpb1,2024-12-11 10:47:39,ofankor barrier,MULTIPLE_ADDRESS_DUPLICATIONS,ofankor barrier,5,1.0,False,1,0,0.0,,,,,,,,,4
+ecpb2,2024-11-07 09:54:50,Amasaman,MULTIPLE_ADDRESS_DUPLICATIONS,Amasaman st,6,0.9454545454545455,False,0,0,0.0,,,,,,,,,4
+ecpb2,2024-11-09 10:20:49,amasaman Police,MULTIPLE_ADDRESS_DUPLICATIONS,amasaman melcom,6,0.9312820512820513,False,0,0,0.0,,,,,,,,,4
+ecpb2,2024-11-16 10:00:40,amasaman doblo gono,MULTIPLE_ADDRESS_DUPLICATIONS,amasaman doblo gono,5,1.0,False,1,1,1.0,,,,,,,,,4
+ecpb2,2024-11-22 19:19:54,amasaman doblo,MULTIPLE_ADDRESS_DUPLICATIONS,amasaman doblo,7,1.0,False,1,1,1.0,,,,,,,,,4
+ecpb2,2024-11-23 07:39:45,amasaman doblo,MULTIPLE_ADDRESS_DUPLICATIONS,amasaman doblo,8,1.0,False,1,1,1.0,,,,,,,,,4
+ecpb2,2024-11-23 07:54:54,amasaman doblo,MULTIPLE_ADDRESS_DUPLICATIONS,amasaman doblo,9,1.0,False,1,1,1.0,,,,,,,,,4
+ecpb2,2024-11-25 18:35:33,amasaman doblo,MULTIPLE_ADDRESS_DUPLICATIONS,amasaman doblo,7,1.0,False,1,1,1.0,,,,,,,,,4
+ecpb2,2024-11-25 20:17:24,amasaman yahoman,MULTIPLE_ADDRESS_DUPLICATIONS,amasaman ablorman,7,0.9397058823529412,False,0,0,0.0,,,,,,,,,4
+ecpb2,2024-11-26 06:43:49,amasaman ablorman,MULTIPLE_ADDRESS_DUPLICATIONS,amasaman ablorman,6,1.0,False,1,1,1.0,,,,,,,,,4
+ecpb2,2024-11-27 22:03:56,kasoa offankor,MULTIPLE_ADDRESS_DUPLICATIONS,kasoa offankor,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb2,2024-11-27 22:11:28,Kasoa offankor,MULTIPLE_ADDRESS_DUPLICATIONS,kasoa offankor,6,0.9523809523809524,False,0,0,0.0,,,,,,,,,4
+ecpb2,2024-11-28 08:05:55,Kasoa offankor,MULTIPLE_ADDRESS_DUPLICATIONS,Kasoa offankor,7,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb2,2024-11-28 08:38:13,Kasoa offankor,MULTIPLE_ADDRESS_DUPLICATIONS,Kasoa offankor,8,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb2,2024-11-28 10:31:07,kasoa offankor,MULTIPLE_ADDRESS_DUPLICATIONS,kasoa offankor,9,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb2,2024-12-02 12:17:50,Kasoa offankor,MULTIPLE_ADDRESS_DUPLICATIONS,Kasoa offankor,10,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb2,2024-12-09 18:21:13,kasoa offankor,MULTIPLE_ADDRESS_DUPLICATIONS,kasoa offankor,11,1.0,False,1,1,1.0,,,,,,,,,4
+ecpb2,2024-12-19 08:19:59,amasaman manhia,MULTIPLE_ADDRESS_DUPLICATIONS,amasaman manhia,5,1.0,False,1,1,1.0,,,,,,,,,4
+ecpb2,2024-12-19 08:27:05,amasaman nsakina,MULTIPLE_ADDRESS_DUPLICATIONS,amasaman nsakina,6,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb2,2024-12-19 08:39:14,amasaman manhia,MULTIPLE_ADDRESS_DUPLICATIONS,amasaman manhia,7,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb2,2024-12-24 09:20:55,amasaman nsakina,MULTIPLE_ADDRESS_DUPLICATIONS,amasaman nsakina,8,1.0,False,1,1,1.0,,,,,,,,,4
+ecpb2,2024-12-24 09:33:08,amasaman nsakina,MULTIPLE_ADDRESS_DUPLICATIONS,amasaman nsakina,9,1.0,False,1,1,1.0,,,,,,,,,4
+ecpb2,2024-12-24 09:44:58,kasoa ofankor,MULTIPLE_ADDRESS_DUPLICATIONS,kasoa ofankor,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb2,2024-12-28 01:18:58,kasoa ofankor,MULTIPLE_ADDRESS_DUPLICATIONS,kasoa ofankor,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb4,2024-07-10 23:51:46,Dome pillar 2,MULTIPLE_ADDRESS_DUPLICATIONS,Dome pillar 2,5,1.0,False,1,0,0.0,,,,,,,,,4
+ecpb4,2024-08-05 19:21:08,Achimota abc,MULTIPLE_ADDRESS_DUPLICATIONS,Achimota abc,6,1.0,False,1,0,0.0,,,,,,,,,4
+ecpb4,2024-11-07 17:50:27,Dome pillar 2,MULTIPLE_ADDRESS_DUPLICATIONS,Dome pillar 2,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb4,2024-11-09 07:16:49,Dome pillar two,MULTIPLE_ADDRESS_DUPLICATIONS,Dome pillar 2,5,0.9446153846153846,False,0,0,0.0,,,,,,,,,4
+ecpb4,2024-11-13 12:45:53,Dome pillars 2,MULTIPLE_ADDRESS_DUPLICATIONS,Dome pillar 2,6,0.9857142857142858,False,0,0,0.0,,,,,,,,,4
+ecpb5,2024-07-05 12:34:41,JJ Rawlings Avenue,MULTIPLE_ADDRESS_DUPLICATIONS,JJ Rawlings Avenue,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb6,2024-01-15 21:11:58,Ashongman Estate,MULTIPLE_ADDRESS_DUPLICATIONS,Ashongman Estate,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb6,2024-01-19 11:05:13,Ashongman Estate,MULTIPLE_ADDRESS_DUPLICATIONS,Ashongman Estate,5,1.0,False,1,0,0.0,,,,,,,,,4
+ecpb6,2024-01-24 16:02:31,Ashongman Estate,MULTIPLE_ADDRESS_DUPLICATIONS,Ashongman Estate,5,1.0,False,1,0,0.0,,,,,,,,,4
+ecpb6,2024-02-16 09:04:37,Ashongman Estate,MULTIPLE_ADDRESS_DUPLICATIONS,Ashongman Estate,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb6,2024-02-24 11:48:58,Ashongman estate,MULTIPLE_ADDRESS_DUPLICATIONS,Ashongman estate,5,1.0,False,1,0,0.0,,,,,,,,,4
+ecpb6,2024-04-12 21:03:03,Ashongman Estate,MULTIPLE_ADDRESS_DUPLICATIONS,Ashoman Estate,5,0.9607142857142857,False,0,0,0.0,,,,,,,,,4
+ecpb6,2024-04-15 09:47:05,Ashongman Estate,MULTIPLE_ADDRESS_DUPLICATIONS,Ashongman Estate,6,1.0,False,1,0,0.0,,,,,,,,,4
+ecpb6,2024-04-17 06:51:04,Ashongman Estate,MULTIPLE_ADDRESS_DUPLICATIONS,Ashongman Estate,5,1.0,False,1,0,0.0,,,,,,,,,4
+ecpb6,2024-04-19 11:47:31,Ashongman estate,MULTIPLE_ADDRESS_DUPLICATIONS,Ashongman estate,6,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb6,2024-04-25 05:59:43,Ashongman Estate,MULTIPLE_ADDRESS_DUPLICATIONS,Ashongman Estate,5,1.0,False,1,0,0.0,,,,,,,,,4
+ecpb6,2024-05-14 09:52:19,Ashongman estate,MULTIPLE_ADDRESS_DUPLICATIONS,Ashongman estate,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb6,2024-06-14 07:42:50,Ashongman Estate,MULTIPLE_ADDRESS_DUPLICATIONS,Ashongman Estate,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb6,2024-07-28 18:14:21,Ashongman estate,MULTIPLE_ADDRESS_DUPLICATIONS,Ashongman estate,6,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb6,2024-09-27 13:31:02,Ashongman Estate,MULTIPLE_ADDRESS_DUPLICATIONS,Ashongman Estate,6,1.0,False,1,1,1.0,,,,,,,,,4
+ecpb6,2024-10-31 09:50:29,Ashongman Estate,MULTIPLE_ADDRESS_DUPLICATIONS,Ashongman Estate,5,1.0,False,1,0,0.0,,,,,,,,,4
+ecpb6,2024-11-13 14:20:17,Ashongman estate,MULTIPLE_ADDRESS_DUPLICATIONS,Ashongman estate,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb9,2024-08-01 10:31:04,Pokuase Mayera,MULTIPLE_ADDRESS_DUPLICATIONS,Pokuase Mayera,5,1.0,False,1,0,0.0,,,,,,,,,4
+ecpb9,2024-09-24 16:36:20,Pokuase Mayera,MULTIPLE_ADDRESS_DUPLICATIONS,Pokuase Mayera,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb9,2024-10-21 17:43:23,pokuase mayera,MULTIPLE_ADDRESS_DUPLICATIONS,pokuase mayera,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpb9,2024-10-29 19:18:24,Pokuase mayera,MULTIPLE_ADDRESS_DUPLICATIONS,Pokuase Mayera,5,0.9714285714285714,False,1,0,0.0,,,,,,,,,4
+ecpb9,2024-12-18 12:11:19,Amasaman Stadium,MULTIPLE_ADDRESS_DUPLICATIONS,Amasaman stadium,5,0.975,False,1,0,0.0,,,,,,,,,4
+ecpbb,2024-10-11 08:59:41,Blue skies,MULTIPLE_ADDRESS_DUPLICATIONS,Blue skies,5,1.0,False,1,1,1.0,,,,,,,,,4
+ecpbe,2024-06-09 12:05:42,Abokobi bank,MULTIPLE_ADDRESS_DUPLICATIONS,Abokobi park,5,0.9333333333333333,False,0,0,0.0,,,,,,,,,4
+ecpbe,2024-10-25 11:55:26,Abokobi Boi,MULTIPLE_ADDRESS_DUPLICATIONS,Abokobi boi,5,0.9636363636363636,False,0,0,0.0,,,,,,,,,4
+ecpbe,2024-11-19 09:16:53,Abokobi,MULTIPLE_ADDRESS_DUPLICATIONS,Abokobi boi,5,0.9272727272727272,False,0,0,0.0,,,,,,,,,4
+ecpbh,2024-09-19 11:09:09,Madina state,MULTIPLE_ADDRESS_DUPLICATIONS,Madina Estate,5,0.9846153846153847,False,1,0,0.0,,,,,,,,,4
+ecpbh,2024-11-01 17:15:42,East Legon,MULTIPLE_ADDRESS_DUPLICATIONS,East legon,6,0.96,False,1,0,0.0,,,,,,,,,4
+ecpbh,2024-11-16 10:52:47,East Legon,MULTIPLE_ADDRESS_DUPLICATIONS,East Legon,5,1.0,False,1,1,1.0,,,,,,,,,4
+ecpbh,2024-11-22 17:34:12,East legon,MULTIPLE_ADDRESS_DUPLICATIONS,East legon,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpbk,2024-02-17 09:16:05,Ashaley Botwe,MULTIPLE_ADDRESS_DUPLICATIONS,Ashaley Botwe,5,1.0,False,1,1,1.0,,,,,,,,,4
+ecpbk,2024-07-22 17:44:03,Ashaley botwe,MULTIPLE_ADDRESS_DUPLICATIONS,Ashley botwe,5,0.9820512820512821,False,1,1,1.0,,,,,,,,,4
+ecpbk,2024-11-24 15:07:40,Madina Zongo Junction,MULTIPLE_ADDRESS_DUPLICATIONS,Madina zongo junction,5,0.9619047619047618,False,0,0,0.0,,,,,,,,,4
+ecpbp,2024-04-28 18:19:06,tema community 9,MULTIPLE_ADDRESS_DUPLICATIONS,tema comunity one,6,0.9397058823529412,False,0,0,0.0,,,,,,,,,4
+ecpbp,2024-04-30 08:46:09,Tema Community 3,MULTIPLE_ADDRESS_DUPLICATIONS,Tema community 4,5,0.95,False,0,0,0.0,,,,,,,,,4
+ecpbp,2024-05-01 12:12:25,Tema community 8,MULTIPLE_ADDRESS_DUPLICATIONS,Tema community 4,6,0.975,False,0,0,0.0,,,,,,,,,4
+ecpbp,2024-05-04 22:54:11,Tema community two bbc,MULTIPLE_ADDRESS_DUPLICATIONS,Tema community 5,5,0.9238636363636363,False,1,0,0.0,,,,,,,,,4
+ecpbp,2024-05-05 21:08:22,Tema community 3 Gym,MULTIPLE_ADDRESS_DUPLICATIONS,Tema community 5,5,0.9375,False,1,0,0.0,,,,,,,,,4
+ecpbp,2024-05-13 13:11:22,Tema community7 mosque,MULTIPLE_ADDRESS_DUPLICATIONS,Tema community 2,5,0.9238636363636363,False,0,0,0.0,,,,,,,,,4
+ecpbp,2024-07-16 15:32:21,Community 5,MULTIPLE_ADDRESS_DUPLICATIONS,Community 2,5,0.9636363636363636,False,0,0,0.0,,,,,,,,,4
+ecpbp,2024-07-18 16:57:40,Community 10,MULTIPLE_ADDRESS_DUPLICATIONS,Community 11,5,0.9666666666666666,False,1,1,1.0,,,,,,,,,4
+ecpbp,2024-07-19 18:34:43,Community 8,MULTIPLE_ADDRESS_DUPLICATIONS,Community 4,5,0.9636363636363636,False,1,0,0.0,,,,,,,,,4
+ecpbp,2024-10-24 13:02:54,community 5,MULTIPLE_ADDRESS_DUPLICATIONS,community 5,5,1.0,False,1,1,1.0,,,,,,,,,4
+ecpbp,2024-10-24 17:11:21,community two,MULTIPLE_ADDRESS_DUPLICATIONS,community 5,5,0.9356643356643356,False,1,0,0.0,,,,,,,,,4
+ecpbp,2024-10-24 22:35:26,community two,MULTIPLE_ADDRESS_DUPLICATIONS,community two,6,1.0,False,1,0,0.0,,,,,,,,,4
+ecpbp,2024-10-28 17:30:25,community 7,MULTIPLE_ADDRESS_DUPLICATIONS,community 5,9,0.9636363636363636,False,0,0,0.0,,,,,,,,,4
+ecpbp,2024-10-31 11:25:39,community one,MULTIPLE_ADDRESS_DUPLICATIONS,community two,10,0.9384615384615385,False,0,0,0.0,,,,,,,,,4
+ecpbp,2024-11-02 11:05:07,community 2Alang,MULTIPLE_ADDRESS_DUPLICATIONS,community 2 Alang,6,0.9882352941176471,False,1,0,0.0,,,,,,,,,4
+ecpbp,2024-11-07 20:38:33,community 1,MULTIPLE_ADDRESS_DUPLICATIONS,community 5,8,0.9636363636363636,False,0,0,0.0,,,,,,,,,4
+ecpbp,2024-11-08 11:49:32,community center,MULTIPLE_ADDRESS_DUPLICATIONS,Community centre,7,0.9361111111111112,False,1,0,0.0,,,,,,,,,4
+ecpbp,2024-11-08 13:42:40,community 10,MULTIPLE_ADDRESS_DUPLICATIONS,community 1,6,0.9833333333333333,False,0,0,0.0,,,,,,,,,4
+ecpbp,2024-11-11 15:36:17,community 5,MULTIPLE_ADDRESS_DUPLICATIONS,community 7,6,0.9636363636363636,False,0,0,0.0,,,,,,,,,4
+ecpbp,2024-11-14 19:41:32,community 2,MULTIPLE_ADDRESS_DUPLICATIONS,community 1,6,0.9636363636363636,False,0,0,0.0,,,,,,,,,4
+ecpbp,2024-11-17 13:54:36,Aggrey Road,MULTIPLE_ADDRESS_DUPLICATIONS,Aggrey Road,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpbp,2024-12-20 20:57:56,Community 10,MULTIPLE_ADDRESS_DUPLICATIONS,Community 4,5,0.9484848484848484,False,1,0,0.0,,,,,,,,,4
+ecpbp,2024-12-24 14:31:40,Community 11,MULTIPLE_ADDRESS_DUPLICATIONS,Community 10,6,0.9666666666666666,False,0,0,0.0,,,,,,,,,4
+ecpbp,2024-12-28 03:23:54,Community 10,MULTIPLE_ADDRESS_DUPLICATIONS,Community 10,6,1.0,False,1,0,0.0,,,,,,,,,4
+ecpbq,2024-07-17 12:57:55,Adjei kojo,MULTIPLE_ADDRESS_DUPLICATIONS,Adjei kojo,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpbr,2024-01-30 16:38:06,Community 9,MULTIPLE_ADDRESS_DUPLICATIONS,community 9,5,0.9393939393939394,False,0,0,0.0,,,,,,,,,4
+ecpbr,2024-05-23 09:14:49,Nii Amui,MULTIPLE_ADDRESS_DUPLICATIONS,Nii Amui,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpbs,2024-10-28 15:09:43,Ashiyie Fulani,MULTIPLE_ADDRESS_DUPLICATIONS,Ashiyie Fulani,5,1.0,False,1,0,0.0,,,,,,,,,4
+ecpbs,2024-11-06 18:31:04,Ashieyie Fulani,MULTIPLE_ADDRESS_DUPLICATIONS,Ashiyie Fulani,5,0.9723809523809525,False,0,0,0.0,,,,,,,,,4
+ecpbw,2024-02-22 10:40:11,New York,MULTIPLE_ADDRESS_DUPLICATIONS,New York,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpbw,2024-08-14 16:22:00,Methodist Church,MULTIPLE_ADDRESS_DUPLICATIONS,Methodist Church,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpbw,2024-08-17 11:25:57,Ashaiman zenu,MULTIPLE_ADDRESS_DUPLICATIONS,Ashaiman- zenu,5,0.9857142857142858,False,1,0,0.0,,,,,,,,,4
+ecpbw,2024-08-17 21:04:05,Ashaiman Zenu,MULTIPLE_ADDRESS_DUPLICATIONS,Ashaiman -Zenu,5,0.9857142857142858,False,1,0,0.0,,,,,,,,,4
+ecpbw,2024-08-27 12:14:46,Ashaiman Zenu,MULTIPLE_ADDRESS_DUPLICATIONS,Ashaiman Zenu,5,1.0,False,1,1,1.0,,,,,,,,,4
+ecpbw,2024-08-29 10:44:43,New York,MULTIPLE_ADDRESS_DUPLICATIONS,New York,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpbw,2024-08-29 13:02:16,New York Station,MULTIPLE_ADDRESS_DUPLICATIONS,New York station,5,0.975,False,1,0,0.0,,,,,,,,,4
+ecpbw,2024-09-09 15:15:31,New York,MULTIPLE_ADDRESS_DUPLICATIONS,New York,6,1.0,False,1,0,0.0,,,,,,,,,4
+ecpbw,2024-09-21 12:50:22,New York,MULTIPLE_ADDRESS_DUPLICATIONS,New York,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpcm,2024-08-29 08:09:59,opposite presby school,MULTIPLE_ADDRESS_DUPLICATIONS,opposite presby School,5,0.9818181818181818,False,0,0,0.0,,,,,,,,,4
+ecpcw,2024-09-01 16:00:41,Hi school Ayikuma Dodowa,MULTIPLE_ADDRESS_DUPLICATIONS,Hi school Ayikuma Dodowa,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpcw,2024-09-03 14:34:07,Hi school Ayikuma Dodowa,MULTIPLE_ADDRESS_DUPLICATIONS,Hi school Ayikuma Dodowa,6,1.0,False,0,0,0.0,,,,,,,,,4
+ecpcw,2024-09-03 18:07:28,Hi school Ayikuma Dodowa,MULTIPLE_ADDRESS_DUPLICATIONS,Hi school Ayikuma Dodowa,7,1.0,False,0,0,0.0,,,,,,,,,4
+ecpcw,2024-09-03 18:15:48,Hi school Ayikuma Dodowa,MULTIPLE_ADDRESS_DUPLICATIONS,Hi school Ayikuma Dodowa,8,1.0,False,0,0,0.0,,,,,,,,,4
+ecpcw,2024-09-06 13:06:16,Hi school Ayikuma Dodowa,MULTIPLE_ADDRESS_DUPLICATIONS,Hi school Ayikuma Dodowa,9,1.0,False,0,0,0.0,,,,,,,,,4
+ecpcw,2024-09-14 09:29:46,Hi school Ayikuma Dodowa,MULTIPLE_ADDRESS_DUPLICATIONS,Hi school Ayikuma Dodowa,10,1.0,False,0,0,0.0,,,,,,,,,4
+ecpcw,2024-09-14 10:26:34,Hi school Ayikuma Dodowa,MULTIPLE_ADDRESS_DUPLICATIONS,Hi school Ayikuma Dodowa,11,1.0,False,0,0,0.0,,,,,,,,,4
+ecpdt,2024-07-09 19:30:49,Obretema Chief House,MULTIPLE_ADDRESS_DUPLICATIONS,Obretema Chief House,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpf9,2024-05-14 10:14:07,Old Estate,MULTIPLE_ADDRESS_DUPLICATIONS,Old Estate,5,1.0,False,1,0,0.0,,,,,,,,,4
+ecpf9,2024-05-18 13:59:23,Old Estate,MULTIPLE_ADDRESS_DUPLICATIONS,Old Estate,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpf9,2024-05-19 14:54:46,Old Estate last stop,MULTIPLE_ADDRESS_DUPLICATIONS,Old Estates,5,0.91,False,0,0,0.0,,,,,,,,,4
+ecpf9,2024-11-01 13:38:40,EM aberkah,MULTIPLE_ADDRESS_DUPLICATIONS,EM aberkah,5,1.0,False,1,1,1.0,,,,,,,,,4
+ecpfb,2024-11-27 18:07:39,Brong Densuso,MULTIPLE_ADDRESS_DUPLICATIONS,Brong Densuso,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecpfb,2024-11-28 16:05:47,Brong Densuso,MULTIPLE_ADDRESS_DUPLICATIONS,Brong Densuso,6,1.0,False,0,0,0.0,,,,,,,,,4
+ecpfb,2024-11-29 13:36:33,Brong Densuso,MULTIPLE_ADDRESS_DUPLICATIONS,Brong Densuso,7,1.0,False,0,0,0.0,,,,,,,,,4
+ecpfb,2024-12-10 11:17:43,Brong Densuso,MULTIPLE_ADDRESS_DUPLICATIONS,Brong Densuso,7,1.0,False,0,0,0.0,,,,,,,,,4
+ecpfd,2024-11-20 17:51:35,Jackson park,MULTIPLE_ADDRESS_DUPLICATIONS,Jackson park,5,1.0,False,1,1,1.0,,,,,,,,,4
+ecpfd,2024-11-21 13:30:05,Jackson Park,MULTIPLE_ADDRESS_DUPLICATIONS,Jackson Park,6,1.0,False,0,0,0.0,,,,,,,,,4
+ecq8b,2024-07-26 17:11:46,Duayaw Nkwanta,MULTIPLE_ADDRESS_DUPLICATIONS,Duayaw Nkwanta,5,1.0,False,1,0,0.0,,,,,,,,,4
+ecqe5,2024-09-05 16:53:11,Dagomba line,MULTIPLE_ADDRESS_DUPLICATIONS,Dagomba line,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecqe5,2024-09-09 15:43:10,dagomba line,MULTIPLE_ADDRESS_DUPLICATIONS,Dagomba line,5,0.9444444444444443,False,0,0,0.0,,,,,,,,,4
+ecqe5,2024-09-11 06:34:26,Dagomba line,MULTIPLE_ADDRESS_DUPLICATIONS,Dagomba line,6,1.0,False,0,0,0.0,,,,,,,,,4
+ecqfc,2024-09-14 10:02:36,Behind Municipal Assembly,MULTIPLE_ADDRESS_DUPLICATIONS,Behind Municipal Assembly,5,1.0,False,1,1,1.0,,,,,,,,,4
+ecqfc,2024-09-15 15:32:23,Behind Municipal Assembly,MULTIPLE_ADDRESS_DUPLICATIONS,Behind Municipal Assembly,6,1.0,False,0,0,0.0,,,,,,,,,4
+ecxmt,2024-04-24 11:11:59,Kalpohin Estate,MULTIPLE_ADDRESS_DUPLICATIONS,Kalpohin Estate,5,1.0,False,0,0,0.0,,,,,,,,,4
+ecxvx,2024-12-22 10:44:21,Nayilifong south,MULTIPLE_ADDRESS_DUPLICATIONS,Nayilifong south,5,1.0,False,1,1,1.0,,,,,,,,,4
+ecxvx,2024-12-23 08:57:14,Nayilifong south,MULTIPLE_ADDRESS_DUPLICATIONS,Nayilifong south,6,1.0,False,1,1,1.0,,,,,,,,,4
+ecxvx,2024-12-23 16:55:05,Nayilifong South,MULTIPLE_ADDRESS_DUPLICATIONS,Nayilifong south,7,0.975,False,1,1,1.0,,,,,,,,,4
+ecxvx,2024-12-24 10:02:27,Nayilifong south,MULTIPLE_ADDRESS_DUPLICATIONS,Nayilifong south,8,1.0,False,1,1,1.0,,,,,,,,,4
+ecxvx,2024-12-28 16:36:04,Nayilifong north,MULTIPLE_ADDRESS_DUPLICATIONS,Nayilifong south,9,0.95,False,1,1,1.0,,,,,,,,,4
+ecxvx,2024-12-28 18:01:04,Nayilifong south,MULTIPLE_ADDRESS_DUPLICATIONS,Nayilifong south,9,1.0,False,1,1,1.0,,,,,,,,,4
+ecxvx,2024-12-29 15:19:57,Nayilifong north,MULTIPLE_ADDRESS_DUPLICATIONS,Nayilifong north,10,1.0,False,0,0,0.0,,,,,,,,,4
+ecxvx,2024-12-29 17:58:56,Nayilifong north,MULTIPLE_ADDRESS_DUPLICATIONS,Nayilifong north,11,1.0,False,1,1,1.0,,,,,,,,,4
+ecxvx,2024-12-29 21:11:58,Nayifong South,MULTIPLE_ADDRESS_DUPLICATIONS,Nayilifong South,11,0.975,False,0,0,0.0,,,,,,,,,4
+ecxvx,2024-12-30 19:02:21,Nayilifong south,MULTIPLE_ADDRESS_DUPLICATIONS,Nayilifong south,13,1.0,False,0,0,0.0,,,,,,,,,4
+ecxvx,2024-12-30 19:15:27,Nayilifong south,MULTIPLE_ADDRESS_DUPLICATIONS,Nayilifong south,14,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-01-27 20:34:41,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Team new town,5,0.9794871794871796,False,0,0,0.0,,,,,,,,,4
+s1000,2024-01-31 12:29:51,Tema newton,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,5,0.9692307692307692,False,0,0,0.0,,,,,,,,,4
+s1000,2024-02-04 12:38:59,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,5,0.9525641025641025,False,1,0,0.0,,,,,,,,,4
+s1000,2024-02-11 11:32:32,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,6,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-02-11 13:43:14,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,7,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-02-15 12:26:53,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,9,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-02-16 16:31:23,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,7,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-02-20 16:33:20,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,8,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-02-21 12:24:29,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,7,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-02-23 15:48:25,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,8,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-02-27 14:32:08,Tema new Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,5,0.9692307692307692,False,1,0,0.0,,,,,,,,,4
+s1000,2024-03-01 14:27:48,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,7,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-03-04 13:19:53,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,5,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-03-06 15:51:53,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,6,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-03-06 19:58:33,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,8,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-03-07 12:57:05,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,6,1.0,False,1,1,1.0,,,,,,,,,4
+s1000,2024-03-11 08:07:52,Tema New town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,6,0.9846153846153847,False,0,0,0.0,,,,,,,,,4
+s1000,2024-03-11 11:27:06,Tema New town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New town,7,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-03-13 12:53:27,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,10,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-03-23 12:41:38,Tema newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,5,0.9666666666666666,False,0,0,0.0,,,,,,,,,4
+s1000,2024-03-25 18:36:26,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,5,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-04-03 20:51:53,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,5,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-04-04 08:32:37,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,6,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-04-06 08:51:26,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema newtown,6,0.9846153846153847,False,1,0,0.0,,,,,,,,,4
+s1000,2024-04-18 12:34:54,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,7,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-04-26 00:49:09,Tema newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,5,0.9666666666666666,False,1,0,0.0,,,,,,,,,4
+s1000,2024-04-26 09:00:59,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,8,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-04-26 09:37:15,Tema newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema newtown,7,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-04-28 09:16:35,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,7,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-05-01 09:06:39,Tema new twon,MULTIPLE_ADDRESS_DUPLICATIONS,Tema newtown,9,0.967948717948718,False,0,0,0.0,,,,,,,,,4
+s1000,2024-05-02 07:06:35,Tema New town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,10,0.9846153846153847,False,0,0,0.0,,,,,,,,,4
+s1000,2024-05-04 10:31:00,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,9,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-05-04 13:04:03,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema newtown,10,0.9846153846153847,False,0,0,0.0,,,,,,,,,4
+s1000,2024-05-05 09:28:57,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,11,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-05-05 17:24:42,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,12,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-05-06 18:32:46,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,12,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-05-09 10:08:01,Tame Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,11,0.975,False,0,0,0.0,,,,,,,,,4
+s1000,2024-05-09 16:33:47,Team New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,7,0.9794871794871796,False,1,0,0.0,,,,,,,,,4
+s1000,2024-05-10 09:09:11,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,15,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-05-10 12:52:49,Tema newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema newtown,13,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-05-16 10:16:47,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,12,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-05-18 08:37:59,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,12,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-05-18 10:28:52,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,11,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-05-19 10:03:59,Tema newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema newtown,11,1.0,False,1,1,1.0,,,,,,,,,4
+s1000,2024-05-20 07:35:36,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,11,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-05-23 11:14:50,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,10,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-05-23 12:01:41,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema newtown,9,0.9846153846153847,False,1,0,0.0,,,,,,,,,4
+s1000,2024-05-23 12:21:31,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,10,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-05-28 16:46:39,Tema New town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,10,0.9846153846153847,False,0,0,0.0,,,,,,,,,4
+s1000,2024-05-29 20:09:54,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,11,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-05-29 20:15:30,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,12,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-05-30 09:47:57,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,11,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-05-30 22:09:17,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,12,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-05-31 14:17:22,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,14,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-06-02 10:48:50,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,11,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-06-04 13:28:28,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,12,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-06-09 21:12:48,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,8,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-06-10 07:55:44,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New town,9,0.9692307692307692,False,0,0,0.0,,,,,,,,,4
+s1000,2024-06-12 11:00:24,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,10,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-06-12 13:58:23,Team New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,9,0.9794871794871796,False,0,0,0.0,,,,,,,,,4
+s1000,2024-06-13 23:49:37,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,8,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-06-14 01:58:32,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,11,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-06-14 06:52:23,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,12,1.0,False,1,1,1.0,,,,,,,,,4
+s1000,2024-06-17 12:34:52,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,9,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-06-17 12:42:16,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,9,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-06-19 16:07:42,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,8,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-06-20 11:38:38,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,10,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-06-20 20:23:53,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,12,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-06-25 10:03:30,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,11,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-06-29 18:57:10,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,6,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-06-30 13:58:31,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,8,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-07-07 10:14:59,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,6,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-07-07 16:46:15,Tema Newtonw,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,7,0.9833333333333333,False,0,0,0.0,,,,,,,,,4
+s1000,2024-07-09 01:14:40,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,8,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-07-09 18:09:31,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,8,1.0,False,1,1,1.0,,,,,,,,,4
+s1000,2024-07-09 21:33:12,Tema Newtown awudum,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,5,0.9263157894736842,False,1,0,0.0,,,,,,,,,4
+s1000,2024-07-11 07:53:51,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,7,0.9525641025641025,False,0,0,0.0,,,,,,,,,4
+s1000,2024-07-11 17:04:46,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,10,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-07-11 20:22:05,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,11,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-07-13 06:51:27,Team newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,8,0.9572649572649573,False,0,0,0.0,,,,,,,,,4
+s1000,2024-07-13 14:12:06,Team Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,11,0.9777777777777777,False,0,0,0.0,,,,,,,,,4
+s1000,2024-07-23 22:58:51,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,6,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-07-24 13:30:07,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,6,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-07-25 11:47:03,Tema newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,7,0.9846153846153847,False,1,1,1.0,,,,,,,,,4
+s1000,2024-07-26 11:24:47,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,8,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-07-29 12:57:54,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,5,1.0,False,1,1,1.0,,,,,,,,,4
+s1000,2024-07-30 10:33:06,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema newtown,6,0.9666666666666666,False,1,0,0.0,,,,,,,,,4
+s1000,2024-07-31 07:11:04,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,7,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-07-31 13:30:21,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,9,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-07-31 13:34:50,Tema Newton,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,6,0.9833333333333333,False,1,0,0.0,,,,,,,,,4
+s1000,2024-08-05 11:10:18,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,10,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-08-05 13:52:43,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,11,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-08-07 08:41:35,tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,tema new town,8,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-08-07 14:18:44,tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,tema new town,6,0.9525641025641025,False,1,0,0.0,,,,,,,,,4
+s1000,2024-08-07 19:35:19,tema newtown,MULTIPLE_ADDRESS_DUPLICATIONS,tema new town,11,0.9846153846153847,False,0,0,0.0,,,,,,,,,4
+s1000,2024-08-12 12:45:56,tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,tema new town,8,1.0,False,1,1,1.0,,,,,,,,,4
+s1000,2024-08-13 17:48:43,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,8,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-08-14 15:02:11,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,8,1.0,False,1,1,1.0,,,,,,,,,4
+s1000,2024-08-14 16:54:22,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,9,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-08-16 07:09:10,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,8,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-08-19 08:45:12,tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,team New Town,6,0.9794871794871796,False,0,0,0.0,,,,,,,,,4
+s1000,2024-08-19 18:33:21,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,8,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-08-23 16:00:50,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,6,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-08-25 14:54:00,Tema newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,7,0.9846153846153847,False,1,0,0.0,,,,,,,,,4
+s1000,2024-08-26 07:06:31,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,7,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-08-26 18:10:50,Tema Newtown Bankuman,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,6,0.9142857142857143,False,1,1,1.0,,,,,,,,,4
+s1000,2024-08-28 16:35:09,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,8,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-08-30 17:20:04,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,8,0.9525641025641025,False,1,0,0.0,,,,,,,,,4
+s1000,2024-08-31 08:46:03,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,7,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-09-06 18:01:38,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,7,1.0,False,1,1,1.0,,,,,,,,,4
+s1000,2024-09-06 20:11:55,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,7,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-09-07 08:39:37,Tema New Town C1,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,5,0.9625,False,1,0,0.0,,,,,,,,,4
+s1000,2024-09-10 09:40:51,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,7,1.0,False,1,1,1.0,,,,,,,,,4
+s1000,2024-09-11 14:12:15,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,6,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-09-14 07:44:14,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,7,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-09-16 15:11:26,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,7,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-09-19 13:54:02,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,7,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-09-21 07:15:36,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,9,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-09-21 09:15:10,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,10,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-09-22 08:34:46,Team Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,7,0.9777777777777777,False,1,0,0.0,,,,,,,,,4
+s1000,2024-09-22 15:50:12,Tema Newtown -u,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,8,0.96,False,0,0,0.0,,,,,,,,,4
+s1000,2024-09-22 16:42:11,Tema Newtown -u,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown -u,9,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-09-22 18:41:31,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,11,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-09-29 07:42:47,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,9,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-09-29 08:48:59,tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,tema newtown,8,0.9666666666666666,False,0,0,0.0,,,,,,,,,4
+s1000,2024-10-05 11:07:04,Tema New town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,8,0.9846153846153847,False,0,0,0.0,,,,,,,,,4
+s1000,2024-10-06 16:32:33,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New town,6,0.9692307692307692,False,1,0,0.0,,,,,,,,,4
+s1000,2024-10-09 12:11:35,tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,tema new town,5,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-10-10 08:19:31,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,5,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-10-11 10:54:18,tema newtown,MULTIPLE_ADDRESS_DUPLICATIONS,tema new town,7,0.9846153846153847,False,1,0,0.0,,,,,,,,,4
+s1000,2024-10-13 08:25:36,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,9,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-10-19 18:00:45,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,8,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-10-20 12:54:42,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,6,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-10-29 08:25:47,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,5,0.9525641025641025,False,0,0,0.0,,,,,,,,,4
+s1000,2024-10-31 02:06:20,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,6,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-10-31 14:54:43,Tema new town station,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,5,0.9238095238095239,False,1,0,0.0,,,,,,,,,4
+s1000,2024-11-02 08:44:28,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,8,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-11-03 06:58:22,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,9,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-11-04 08:29:50,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,9,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-11-04 19:15:27,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,9,1.0,False,1,1,1.0,,,,,,,,,4
+s1000,2024-11-07 10:01:14,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,10,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-11-09 07:06:38,Tema new town b10,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,5,0.9529411764705882,False,1,0,0.0,,,,,,,,,4
+s1000,2024-11-13 06:49:07,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,9,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-11-22 17:40:34,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,6,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-11-24 08:01:20,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,7,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-11-26 06:00:29,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,7,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-11-28 08:56:08,Tema New town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,7,0.9846153846153847,False,1,1,1.0,,,,,,,,,4
+s1000,2024-12-02 17:09:43,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,6,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-12-04 00:29:11,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,6,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-12-11 11:35:37,Tema newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New town,5,0.9525641025641025,False,0,0,0.0,,,,,,,,,4
+s1000,2024-12-11 14:54:36,Tema newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema newtown,6,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-12-16 09:03:05,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema newtown,5,0.9846153846153847,False,0,0,0.0,,,,,,,,,4
+s1000,2024-12-18 14:46:40,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,5,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-12-19 08:39:36,Tema newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema newtown,5,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-12-19 16:54:32,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema newtown,6,0.9666666666666666,False,0,0,0.0,,,,,,,,,4
+s1000,2024-12-21 18:25:40,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,7,0.9525641025641025,False,1,0,0.0,,,,,,,,,4
+s1000,2024-12-25 20:43:04,tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,tema Newtown,8,0.9525641025641025,False,0,0,0.0,,,,,,,,,4
+s1000,2024-12-27 13:27:04,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,6,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-12-27 19:43:44,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,7,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-12-28 19:43:40,Tema Newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Tema Newtown,9,1.0,False,0,0,0.0,,,,,,,,,4
+s1000,2024-12-29 08:13:52,Tema new town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema new town,10,1.0,False,1,0,0.0,,,,,,,,,4
+s1000,2024-12-29 12:54:09,Tema New Town,MULTIPLE_ADDRESS_DUPLICATIONS,Tema New Town,10,1.0,False,1,0,0.0,,,,,,,,,4
+s1002,2024-04-28 19:00:02,School Junction,MULTIPLE_ADDRESS_DUPLICATIONS,School junction,5,0.9733333333333334,False,0,0,0.0,,,,,,,,,4
+s1002,2024-04-28 19:52:27,School Junction,MULTIPLE_ADDRESS_DUPLICATIONS,School Junction,6,1.0,False,0,0,0.0,,,,,,,,,4
+s1002,2024-04-29 19:53:37,School Junction,MULTIPLE_ADDRESS_DUPLICATIONS,School Junction,7,1.0,False,0,0,0.0,,,,,,,,,4
+s1002,2024-05-06 12:30:02,School junction,MULTIPLE_ADDRESS_DUPLICATIONS,School junction,7,1.0,False,0,0,0.0,,,,,,,,,4
+s1008,2024-07-26 11:05:39,kpone barrier,MULTIPLE_ADDRESS_DUPLICATIONS,kpone barrier,5,1.0,False,0,0,0.0,,,,,,,,,4
+s1008,2024-07-27 12:54:31,kpone barrier,MULTIPLE_ADDRESS_DUPLICATIONS,kpone barrier,6,1.0,False,1,0,0.0,,,,,,,,,4
+s10me,2024-11-11 20:45:51,Barracks newtown,MULTIPLE_ADDRESS_DUPLICATIONS,Barracks new town,5,0.9882352941176471,False,0,0,0.0,,,,,,,,,4
+s10pz,2024-10-13 16:14:19,kpando konda,MULTIPLE_ADDRESS_DUPLICATIONS,kpando konda,5,1.0,False,1,1,1.0,,,,,,,,,4
+s10pz,2024-10-14 09:58:10,kpando konda,MULTIPLE_ADDRESS_DUPLICATIONS,kpando konda,6,1.0,False,0,0,0.0,,,,,,,,,4
+s10pz,2024-10-16 11:22:37,Kpando konda,MULTIPLE_ADDRESS_DUPLICATIONS,Kpando konda,7,1.0,False,1,1,1.0,,,,,,,,,4
+s126f,2024-09-06 17:20:26,Pentecost Church,MULTIPLE_ADDRESS_DUPLICATIONS,Pentecost Church,5,1.0,False,1,1,1.0,,,,,,,,,4
+s126f,2024-09-06 20:59:09,Pentecost Church,MULTIPLE_ADDRESS_DUPLICATIONS,Pentecost Church,6,1.0,False,1,1,1.0,,,,,,,,,4
+s126f,2024-09-12 09:18:41,Pentecost Church,MULTIPLE_ADDRESS_DUPLICATIONS,Pentecost Church,5,1.0,False,1,1,1.0,,,,,,,,,4
+s126f,2024-09-12 15:45:50,Pentecost Church,MULTIPLE_ADDRESS_DUPLICATIONS,Pentecost Church,6,1.0,False,1,1,1.0,,,,,,,,,4
+s12ju,2024-09-22 15:27:05,Dambai zongo,MULTIPLE_ADDRESS_DUPLICATIONS,Dambai Zongo,5,0.9666666666666666,False,0,0,0.0,,,,,,,,,4
